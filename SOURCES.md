@@ -123,6 +123,17 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Deep dive — Great Zimbabwe & the gold trade
+- **Great Zimbabwe as a mediaeval Shona capital (c. 1100–1450 CE); the Great Enclosure and conical tower; dry-stone granite masonry.** Garlake, *Great Zimbabwe* (1973); Pikirayi, *The Zimbabwe Culture* (2001); Huffman, *Handbook to the Iron Age* (2007); Beach, *The Shona and Zimbabwe, 900–1850*.
+- **Population and gold-export figures are estimates**; the page presents them as such rather than as fixed counts.
+- **Indian Ocean trade — Chinese celadon and porcelain, Persian ceramics, glass beads and Islamic coins at Great Zimbabwe; Sofala as the gold outlet; Kilwa's prosperity.** Horton & Middleton, *The Swahili*; Pikirayi; UNESCO (Kilwa Kisiwani and the Great Zimbabwe National Monument).
+- **Mapungubwe (c. 1075–1220) and the gold rhinoceros.** University of Pretoria Mapungubwe Collection; UNESCO (Mapungubwe Cultural Landscape).
+- **Zimbabwe Birds; soapstone carvings; national emblem; 1981 repatriation.** British Museum and Zimbabwe Museum of Human Sciences documentation; standard museum catalogues.
+- **Colonial denial of African authorship; Cecil Rhodes and the British South Africa Company; the “Queen of Sheba / Phoenician” myth.** Bent, *The Ruined Cities of Mashonaland* (1892); Randall-MacIver, *Mediaeval Rhodesia* (1906); Caton-Thompson, *The Zimbabwe Culture* (1931); Kuklick, *Contested Monuments*; Garlake.
+- **UNESCO World Heritage inscription (1986).** UNESCO World Heritage Centre, “Great Zimbabwe National Monument”.
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -219,6 +230,15 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **A Swahili dhow, Lamu** — Elena.laps (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Traditional_dhow_sailboat_in_Lamu,_Kenya.jpg
 - **Timbuktu manuscript on the stars** — Library of Congress / World Digital Library (Public domain). https://commons.wikimedia.org/wiki/File:Knowledge_of_the_Movement_of_the_Stars_and_What_It_Portends_in_Every_Year_WDL463.jpg
 - **The unfinished obelisk, Aswan** — Olaf Tausch (CC BY 3.0). https://commons.wikimedia.org/wiki/File:Assuan_Unvollendeter_Obelisk_35.jpg
+- **Great Zimbabwe from the air** — Janice Bell (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG
+- **The conical tower, Great Zimbabwe** — Andrew Moore (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg
+- **The Great Enclosure wall** — Andrew Moore (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:East_Wall_Great_Enclosure_(47614139601).jpg
+- **The gold rhinoceros of Mapungubwe** — Sian Tiley-Nel / University of Pretoria (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Mapungubwe_gold_rhino_on_display_gold_gallery_edited-1.jpg
+- **The Zimbabwe Birds** — James Theodore Bent; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Soapstone_birds_on_pedestals.jpg
+- **Dhows on the Indian Ocean** — Rasheedhrasheed (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Indian_Ocean_dhows.jpg
+- **Sofala, Mozambique** — E. Thiesson; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Native_Woman_of_Sofala_(Mozambique).jpg
+- **Cecil John Rhodes** — William Thomas Stead; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Cecil_Rhodes_in_Matopos.jpg
+- **The 1891 Mashonaland excavation plate** — The British Library (No known copyright restrictions). https://commons.wikimedia.org/wiki/File:10_of_%27The_Ruined_Cities_of_Mashonaland-_being_a_record_of_excavation_and_exploration_in_1891_..._With_a_chapter_on_the_orientation_and_mensuration_of_the_temples_by_R._M._W._Swan._(With_plates.)%27_(11218736476).jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

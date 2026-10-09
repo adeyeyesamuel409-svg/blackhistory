@@ -833,5 +833,86 @@ window.UnbrokenImages = {
     credit: "David Stanley (CC BY 2.0)", license: "CC BY 2.0",
     licenseUrl: "https://creativecommons.org/licenses/by/2.0",
     source: "https://commons.wikimedia.org/wiki/File:Tuareg_Man_(5282881121).jpg"
+  },
+  "zg-aerial": {
+    dir: "zg-aerial", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Aerial view over the granite stone ruins of Great Zimbabwe",
+    title: "Great Zimbabwe from the air",
+    caption: "The stone city of Great Zimbabwe from the air. Its walls were built of shaped granite blocks, without mortar, from around 1100 CE.",
+    credit: "Janice Bell (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG"
+  },
+  "zg-tower": {
+    dir: "zg-tower", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The conical tower inside the Great Enclosure at Great Zimbabwe",
+    title: "The conical tower",
+    caption: "The conical tower of the Great Enclosure — the most recognisable structure of pre-colonial southern Africa.",
+    credit: "Andrew Moore (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg"
+  },
+  "zg-wall": {
+    dir: "zg-wall", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The dry-stone east wall of the Great Enclosure at Great Zimbabwe",
+    title: "The Great Enclosure wall",
+    caption: "The outer wall of the Great Enclosure runs roughly 250 metres around and stands up to eleven metres high — stacked without mortar.",
+    credit: "Andrew Moore (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:East_Wall_Great_Enclosure_(47614139601).jpg"
+  },
+  "zg-rhino": {
+    dir: "zg-rhino", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The gold rhinoceros of Mapungubwe on display",
+    title: "The gold rhinoceros of Mapungubwe",
+    caption: "The gold rhinoceros from a royal grave at Mapungubwe (c. 1075–1220) — proof of a gold-working tradition older than Great Zimbabwe.",
+    credit: "Sian Tiley-Nel / University of Pretoria (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Mapungubwe_gold_rhino_on_display_gold_gallery_edited-1.jpg"
+  },
+  "zg-birds": {
+    dir: "zg-birds", ext: "jpg", widths: [480, 800],
+    alt: "Soapstone Zimbabwe Birds on their pedestals",
+    title: "The Zimbabwe Birds",
+    caption: "Soapstone birds on their carved pedestals, photographed in the 1890s. The bird became the national symbol of Zimbabwe after independence.",
+    credit: "James Theodore Bent (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Soapstone_birds_on_pedestals.jpg"
+  },
+  "zg-dhow": {
+    dir: "zg-dhow", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Traditional dhows sailing on the Indian Ocean",
+    title: "Dhows on the Indian Ocean",
+    caption: "Dhows on the Indian Ocean — the trade craft that carried gold and ivory from Sofala into the wider world.",
+    credit: "Rasheedhrasheed (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Indian_Ocean_dhows.jpg"
+  },
+  "zg-sofala": {
+    dir: "zg-sofala", ext: "jpg", widths: [400],
+    alt: "A nineteenth-century engraving of a woman of Sofala, Mozambique",
+    title: "Sofala, the gold port",
+    caption: "A nineteenth-century engraving of Sofala. This Indian Ocean port was the outlet through which Zimbabwean gold reached Swahili and Arab merchants.",
+    credit: "E. Thiesson (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Native_Woman_of_Sofala_(Mozambique).jpg"
+  },
+  "zg-rhodes": {
+    dir: "zg-rhodes", ext: "jpg", widths: [400, 640, 900],
+    alt: "Cecil John Rhodes seated in the Matobo Hills",
+    title: "Cecil Rhodes",
+    caption: "Cecil John Rhodes, whose British South Africa Company promoted the myth that Great Zimbabwe was not built by Africans.",
+    credit: "William Thomas Stead (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Cecil_Rhodes_in_Matopos.jpg"
+  },
+  "zg-bent": {
+    dir: "zg-bent", ext: "jpg", widths: [480, 800, 1280],
+    alt: "An 1891 plate of the ruins of Mashonaland from a colonial excavation report",
+    title: "The 1891 excavation plates",
+    caption: "A plate from J. Theodore Bent's 1891 account of the ruins — an early excavation that wrongly attributed the city to foreign builders.",
+    credit: "British Library (No known copyright restrictions)", license: "Public domain",
+    licenseUrl: "https://creativecommons.org/publicdomain/mark/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:10_of_%27The_Ruined_Cities_of_Mashonaland-_being_a_record_of_excavation_and_exploration_in_1891_..._With_a_chapter_on_the_orientation_and_mensuration_of_the_temples_by_R._M._W._Swan._(With_plates.)%27_(11218636476).jpg"
   }
 };
