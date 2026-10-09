@@ -291,5 +291,45 @@ window.UnbrokenImages = {
     credit: "Adjoajo (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal_2.jpg"
+  },
+  "col-africa-map": {
+    dir: "col-africa-map", ext: "jpg", widths: [480, 800],
+    alt: "A 1914 map of Africa shaded to show European colonial possessions",
+    title: "Africa partitioned, 1914",
+    caption: "By 1914 almost the entire continent was claimed by European powers \u2014 boundaries drawn without African consent.",
+    credit: "Nicolay Sidorov; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Map_of_Africa_1914.jpg"
+  },
+  "col-rhodes": {
+    dir: "col-rhodes", ext: "jpg", widths: [480],
+    alt: "Punch cartoon The Rhodes Colossus, showing Cecil Rhodes straddling Africa",
+    title: "The Rhodes Colossus",
+    caption: "\u201cThe Rhodes Colossus\u201d, a Punch cartoon (1892) by Edward Linley Sambourne, mocking imperial ambition.",
+    credit: "Edward Linley Sambourne, Punch (public domain)", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Rhodes_Colossus_Punch_1892_(crop).jpg"
+  },
+  "col-samori": {
+    dir: "col-samori", ext: "jpg", widths: [480, 800],
+    alt: "Photograph of Samori Ture hearing the sentence of exile",
+    title: "Samori Ture, in exile",
+    caption: "Samori Ture, who led resistance to French conquest in West Africa for decades, photographed at his exile.",
+    credit: "Unknown photographer; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Mali.(Kayes)_Samory_%C3%A9coutant_la_sentence_le_condamnant_%C3%A0_l%27exil.jpg"
+  },
+  "col-berlin": {
+    dir: "col-berlin", ext: "jpg", widths: [480],
+    alt: "1884 cartoon showing Leopold II and other European rulers dividing Africa at the Berlin Conference",
+    title: "Carving up a continent",
+    caption: "A French cartoon (1884) of Leopold II and other European rulers dividing Africa \u2014 an African figure looks on.",
+    credit: "Fran\u00e7ois Mar\u00e9chal; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg"
+  },
+  "col-menelik": {
+    dir: "col-menelik", ext: "jpg", widths: [500],
+    alt: "Portrait of Emperor Menelik II of Ethiopia",
+    title: "Emperor Menelik II",
+    caption: "Emperor Menelik II of Ethiopia, whose forces defeated an Italian invasion at Adwa in 1896.",
+    credit: "Unknown photographer; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Menelik_II_of_Ethiopia_Negusa_Nagast.jpg"
   }
 };
