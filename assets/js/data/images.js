@@ -331,5 +331,39 @@ window.UnbrokenImages = {
     caption: "Emperor Menelik II of Ethiopia, whose forces defeated an Italian invasion at Adwa in 1896.",
     credit: "Unknown photographer; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Menelik_II_of_Ethiopia_Negusa_Nagast.jpg"
+  },
+  "ind-somaliland": {
+    dir: "ind-somaliland", ext: "jpg", widths: [480, 800],
+    alt: "Crowd celebrating independence in Somaliland, 26 June 1960",
+    title: "Independence day, 1960",
+    caption: "Crowds mark independence in Hargeisa, Somaliland, on 26 June 1960 \u2014 part of the wave that swept the continent.",
+    credit: "Somaliland Standard; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Somaliland_independence_26_June_1960.jpg"
+  },
+  "ind-kenyatta": {
+    dir: "ind-kenyatta", ext: "jpg", widths: [480],
+    alt: "Portrait of Jomo Kenyatta, first president of Kenya",
+    title: "Jomo Kenyatta",
+    caption: "Jomo Kenyatta, leader of Kenya's independence struggle and its first president from 1964.",
+    credit: "Pridan Moshe; via Wikimedia Commons", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_(cropped)_in_June_15th,_1966.jpg"
+  },
+  "ind-mandela": {
+    dir: "ind-mandela", ext: "jpg", widths: [480],
+    alt: "Nelson Mandela voting in South Africa's first democratic election, 1994",
+    title: "Mandela votes, 1994",
+    caption: "Nelson Mandela casting his vote in South Africa's first free election in 1994, ending apartheid.",
+    credit: "Paul Weinberg (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Mandela_voting_in_1994.jpg"
+  },
+  "ind-lumumba": {
+    dir: "ind-lumumba", ext: "jpg", widths: [367],
+    alt: "Portrait of Patrice Lumumba, first prime minister of the independent Congo",
+    title: "Patrice Lumumba",
+    caption: "Patrice Lumumba, the Congo's first elected prime minister, whose pan-African vision made him a global symbol.",
+    credit: "Anefo / Nationaal Archief (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Patrice_Lumumba,_1960.jpg"
   }
 };
