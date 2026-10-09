@@ -16,7 +16,7 @@
   /* Ink */
   --ink: #2a1f14;
   --ink-dim: #5b4a34;
-  --ink-faint: #8a7355;
+  --ink-faint: #6b5638;
 
   /* Gold leaf & rules */
   --gold-light: #c9a94e;
@@ -105,7 +105,7 @@ p { margin: 0 0 1em; }
 .lead { font-size: clamp(1.05rem, 1.7vw, 1.28rem); color: var(--ink-dim); font-weight: 400; }
 
 .gold-text {
-  background: linear-gradient(135deg, #b58f35 0%, #8a6a24 45%, #6b4a15 100%);
+  background: linear-gradient(135deg, #9c7829 0%, #7c5c1f 45%, #5f4313 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
