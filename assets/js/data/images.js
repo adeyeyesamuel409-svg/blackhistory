@@ -184,5 +184,41 @@ window.UnbrokenImages = {
     credit: "Diego Delso (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg"
+  },
+  "kingdoms-zimbabwe": {
+    dir: "kingdoms-zimbabwe", ext: "jpg", widths: [480, 800],
+    alt: "A curving dry-stone wall of the Great Zimbabwe ruins",
+    title: "Great Zimbabwe",
+    caption: "The mortarless granite walls of Great Zimbabwe \u2014 the capital of a gold-and-ivory trading state (c. 1100\u20131450 CE).",
+    credit: "Aart Rietveld / ASC Leiden (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo,_Zimbabwe.jpg"
+  },
+  "kingdoms-benin": {
+    dir: "kingdoms-benin", ext: "jpg", widths: [480],
+    alt: "A cast brass plaque from the Kingdom of Benin showing figures in relief",
+    title: "A Benin brass plaque",
+    caption: "A brass plaque from the Kingdom of Benin \u2014 part of the court art looted by British forces in 1897.",
+    credit: "Photo: Mike Peel, British Museum (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:At_the_British_Museum_2024_014.jpg"
+  },
+  "kingdoms-djenne": {
+    dir: "kingdoms-djenne", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The Great Mosque of Djenn\u00e9 in Mali, a large mud-brick building",
+    title: "The Great Mosque of Djenn\u00e9",
+    caption: "The Great Mosque of Djenn\u00e9 in Mali, the world's largest mud-brick building and a centre of Islamic learning.",
+    credit: "BluesyPete (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:MaliDjenn%C3%A9Mosqu%C3%A9e.JPG"
+  },
+  "kingdoms-aksum": {
+    dir: "kingdoms-aksum", ext: "jpg", widths: [480, 800],
+    alt: "A tall carved granite obelisk or stele at Aksum, Ethiopia",
+    title: "An Aksumite stele",
+    caption: "A carved granite stele at Aksum, Ethiopia \u2014 a monument of a trading empire that minted its own coins.",
+    credit: "Tesfawel (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Aksum_obelisk.jpg"
   }
 };
