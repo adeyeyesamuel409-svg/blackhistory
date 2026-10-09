@@ -365,5 +365,41 @@ window.UnbrokenImages = {
     credit: "Anefo / Nationaal Archief (CC0)", license: "CC0",
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     source: "https://commons.wikimedia.org/wiki/File:Patrice_Lumumba,_1960.jpg"
+  },
+  "cul-kente": {
+    dir: "cul-kente", ext: "jpg", widths: [480, 800],
+    alt: "Several examples of brightly patterned kente cloth from Ghana",
+    title: "Kente cloth, Ghana",
+    caption: "Kente from the Volta region of Ghana \u2014 hand-woven strips whose geometric patterns each carry a name and a meaning.",
+    credit: "Warmglow (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Different_Kente_cloth,_Tafi,_Volta_region.jpg"
+  },
+  "cul-himba": {
+    dir: "cul-himba", ext: "jpg", widths: [480],
+    alt: "Himba herders in northern Namibia",
+    title: "Himba otjize",
+    caption: "Himba herders in Namibia; hair and skin are coated with otjize, a paste of red ochre and butterfat.",
+    credit: "Hans Stieglitz (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg"
+  },
+  "cul-maasai": {
+    dir: "cul-maasai", ext: "jpg", widths: [480],
+    alt: "Maasai beadwork, colourful beaded jewellery from Kenya",
+    title: "Maasai beadwork",
+    caption: "Maasai beadwork from Kenya, in which each colour and pattern signals age, status and identity.",
+    credit: "Cecilia Nkini (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Maasai_beadwork.jpg"
+  },
+  "cul-adire": {
+    dir: "cul-adire", ext: "jpg", widths: [480],
+    alt: "Indigo-dyed adire cloth designs from Nigeria on display",
+    title: "Adire indigo",
+    caption: "Adire, indigo-dyed cloth of the Yoruba (Nigeria), patterned by tying and starching before dyeing.",
+    credit: "Tunde Akangbe (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg"
   }
 };
