@@ -761,5 +761,41 @@ window.UnbrokenImages = {
     credit: "Brigade Piron (CC BY 3.0)", license: "CC BY 3.0",
     licenseUrl: "https://creativecommons.org/licenses/by/3.0",
     source: "https://commons.wikimedia.org/wiki/File:Mau_Mau_safe_conduct_pass.jpg"
+  },
+  "ind-nkrumah": {
+    dir: "ind-nkrumah", ext: "jpg", widths: [480, 800],
+    alt: "The Kwame Nkrumah Memorial Park and Mausoleum in Accra, Ghana",
+    title: "Nkrumah's mausoleum, Accra",
+    caption: "The Kwame Nkrumah Memorial Park and Mausoleum, Accra. Nkrumah led Ghana to independence in 1957 and made the case for African unity.",
+    credit: "Fquasie (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum.jpg"
+  },
+  "ind-oau": {
+    dir: "ind-oau", ext: "jpg", widths: [400],
+    alt: "Haile Selassie and Gamal Abdel Nasser at the founding of the OAU, 1963",
+    title: "Founding of the OAU, 1963",
+    caption: "Emperor Haile Selassie and President Gamal Abdel Nasser, among the 32 leaders who founded the Organisation of African Unity in Addis Ababa, 1963.",
+    credit: "Anonymous (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Selassie_and_Nasser,_1963.jpg"
+  },
+  "ind-cabral": {
+    dir: "ind-cabral", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A portrait of Amílcar Cabral, leader of the liberation movement in Guinea-Bissau and Cape Verde",
+    title: "Amílcar Cabral",
+    caption: "Amílcar Cabral, theorist and leader of the liberation struggle in Guinea-Bissau and Cape Verde — one of the most influential African thinkers of the twentieth century.",
+    credit: "Anonymous (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Cabral_2.png"
+  },
+  "ind-firstencounter": {
+    dir: "ind-firstencounter", ext: "jpg", widths: [400],
+    alt: "A historic scene from Johannesburg in 1994, the year of South Africa's first free elections",
+    title: "Johannesburg, 1994",
+    caption: "Johannesburg, 1994 — the year South Africa held its first elections with universal suffrage, ending apartheid.",
+    credit: "George Hallett (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:First_Encounter,_Johannesburg_in_1994.jpg"
   }
 };

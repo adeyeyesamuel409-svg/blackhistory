@@ -89,7 +89,8 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Herero & Namaqua genocide (1904–08)** — Olusoga & Erichsen, *The Kaiser's Holocaust*; UN/Whitaker Report.
 - **Maji Maji (1905–07); War of the Golden Stool (1900); Mau Mau (1952–60)** — Iliffe, *Tanganyika under German Rule*; Boahen, *African Perspectives on Colonialism*; Anderson, *Histories of the Hanged*.
 - **Independence dates & the Year of Africa (1960).** Cooper, *Africa Since 1940*; Birmingham, *The Decolonization of Africa*.
-- **Pan-Africanism / OAU (1963) → African Union (2002)** — official AU records.
+- **Pan-Africanism / OAU (1963) → African Union (2002)** — official AU records; Du Bois and Nkrumah's Pan-African congresses.
+- **Armed liberation (Guinea-Bissau, Mozambique, Angola, Zimbabwe, Namibia); end of apartheid (1994).** Chabal, *Amílcar Cabral*; Mandela, *Long Walk to Freedom*.
 - Border and legacy analysis draws on the **Berlin Conference** boundaries and standard post-colonial historiography; the page presents colonial-era economic structures as a debated legacy, not a single verdict.
 
 ---
@@ -189,6 +190,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Jomo Kenyatta** — Pridan Moshe; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_(cropped)_in_June_15th,_1966.jpg
 - **Mandela votes, 1994** — Paul Weinberg (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Mandela_voting_in_1994.jpg
 - **Patrice Lumumba** — Anefo / Nationaal Archief (CC0). https://commons.wikimedia.org/wiki/File:Patrice_Lumumba,_1960.jpg
+- **Kwame Nkrumah mausoleum, Accra** — Fquasie (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum.jpg
+- **Founding of the OAU, 1963 (Selassie & Nasser)** — Anonymous (Public domain). https://commons.wikimedia.org/wiki/File:Selassie_and_Nasser,_1963.jpg
+- **Amílcar Cabral** — Anonymous (Public domain). https://commons.wikimedia.org/wiki/File:Cabral_2.png
+- **Johannesburg, 1994** — George Hallett (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:First_Encounter,_Johannesburg_in_1994.jpg
 - **Kente cloth, Ghana** — Warmglow (CC0). https://commons.wikimedia.org/wiki/File:Different_Kente_cloth,_Tafi,_Volta_region.jpg
 - **Himba otjize** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
 - **Maasai beadwork** — Cecilia Nkini (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Maasai_beadwork.jpg
