@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kingdoms — Pre-Colonial African Empires | UNBROKEN</title>
   <meta name="description" content="Interactive map of pre-colonial African kingdoms: Kush, Aksum, Ghana, Mali, Songhai, Great Zimbabwe, Benin and Kongo — their wealth, learning and trade." />
-  <meta name="theme-color" content="#0a0908" />
+  <meta name="theme-color" content="#f3e9d2" />
   <meta property="og:type" content="article" />
   <link rel="canonical" href="https://adeyeyesamuel409-svg.github.io/blackhistory/kingdoms.html" />
   <meta property="og:title" content="Kingdoms — Pre-Colonial African Empires | UNBROKEN" />
@@ -16,7 +16,7 @@
   <meta name="cf-beacon-token" content="" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IM+Fell+English:ital@0;1&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/leaflet.css" />
   <link rel="stylesheet" href="assets/css/site.css" />
   <style>
@@ -96,7 +96,7 @@
       if (!window.L || !window.UnbrokenData) return;
       var data = window.UnbrokenData.empires;
       var map = L.map("empire-map", { scrollWheelZoom: false, minZoom: 3 }).setView([4, 18], 4);
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
         attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
       }).addTo(map);
 

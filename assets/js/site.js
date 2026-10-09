@@ -16,6 +16,8 @@
     initNav();
     initActiveLink();
     initScrollProgress();
+    initImages();
+    initLightbox();
     initReveal();
     initShare();
     initYear();
@@ -67,6 +69,106 @@
     window.addEventListener("scroll", update, { passive: true });
     window.addEventListener("resize", update);
     update();
+  }
+
+  /* ---- Images (build plates from the manifest) -------------------------- */
+  function imgPath(d, w) { return "assets/img/" + d.dir + "/" + d.dir + "-" + w + "." + d.ext; }
+  function srcsetFor(d) {
+    return d.widths.map((w) => imgPath(d, w) + " " + w + "w").join(", ");
+  }
+
+  function initImages() {
+    const M = window.UnbrokenImages;
+    if (!M) return;
+    document.querySelectorAll("[data-image]").forEach(function (el) {
+      const d = M[el.getAttribute("data-image")];
+      if (!d) return;
+      const srcset = srcsetFor(d);
+      const smallest = imgPath(d, d.widths[0]);
+
+      if (el.tagName === "IMG") {
+        el.setAttribute("src", smallest);
+        el.setAttribute("srcset", srcset);
+        if (!el.getAttribute("sizes")) el.setAttribute("sizes", "(max-width:640px) 92vw, 420px");
+        el.setAttribute("alt", d.alt);
+        el.setAttribute("loading", "lazy");
+        el.setAttribute("decoding", "async");
+        return;
+      }
+
+      const media = document.createElement("button");
+      media.type = "button";
+      media.className = "plate-media";
+      media.setAttribute("data-zoom", el.getAttribute("data-image"));
+      media.setAttribute("aria-label", "Enlarge image: " + d.alt);
+      const img = document.createElement("img");
+      img.setAttribute("src", smallest);
+      img.setAttribute("srcset", srcset);
+      img.setAttribute("sizes", "(max-width:640px) 92vw, 560px");
+      img.setAttribute("alt", d.alt);
+      img.setAttribute("loading", "lazy");
+      img.setAttribute("decoding", "async");
+      media.appendChild(img);
+
+      const cap = document.createElement("figcaption");
+      cap.innerHTML =
+        (d.title ? '<span class="plate-title">' + d.title + "</span>" : "") +
+        '<span class="small dim">' + d.caption + "</span>" +
+        '<span class="plate-credit">' + d.credit +
+        (d.license ? ' <span class="license-chip">' + d.license + "</span>" : "") +
+        (d.source ? ' <a href="' + d.source + '" target="_blank" rel="noopener">source</a>' : "") +
+        "</span>";
+
+      el.appendChild(media);
+      el.appendChild(cap);
+    });
+  }
+
+  /* ---- Lightbox for plate images ---------------------------------------- */
+  function initLightbox() {
+    if (!document.querySelector("[data-zoom]")) return;
+    const M = window.UnbrokenImages || {};
+    const lb = document.createElement("div");
+    lb.className = "lightbox";
+    lb.setAttribute("role", "dialog");
+    lb.setAttribute("aria-modal", "true");
+    lb.setAttribute("aria-hidden", "true");
+    lb.setAttribute("aria-label", "Image viewer");
+    lb.innerHTML =
+      '<button class="lightbox-close" type="button" aria-label="Close image viewer">\u2715</button>' +
+      '<img alt="" /><figcaption></figcaption>';
+    document.body.appendChild(lb);
+    const img = lb.querySelector("img");
+    const cap = lb.querySelector("figcaption");
+
+    function close() {
+      lb.classList.remove("open");
+      lb.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+    function open(id) {
+      const d = M[id];
+      if (!d) return;
+      img.setAttribute("src", imgPath(d, d.widths[d.widths.length - 1]));
+      img.setAttribute("alt", d.alt);
+      cap.innerHTML =
+        "<strong>" + d.title + "</strong> \u2014 " + d.caption + "<br>" + d.credit +
+        (d.license ? " \u00b7 " + d.license : "") +
+        (d.source ? ' \u00b7 <a href="' + d.source + '" target="_blank" rel="noopener">Wikimedia Commons</a>' : "");
+      lb.classList.add("open");
+      lb.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    document.querySelectorAll("[data-zoom]").forEach(function (b) {
+      b.addEventListener("click", function () { open(b.getAttribute("data-zoom")); });
+    });
+    lb.addEventListener("click", function (e) {
+      if (e.target === lb || e.target.classList.contains("lightbox-close")) close();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && lb.classList.contains("open")) close();
+    });
   }
 
   /* ---- Reveal on scroll -------------------------------------------------- */
