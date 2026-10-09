@@ -977,5 +977,68 @@ window.UnbrokenImages = {
     credit: "Ruud Zwart (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
     source: "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg"
+  },
+  "nj-dapper": {
+    dir: "nj-dapper", ext: "jpg", widths: [400, 553],
+    alt: "Engraved portrait of Queen Njinga, labelled Ann Zingha, queen of Matamba",
+    title: "Queen Njinga, as Europeans drew her",
+    caption: "A European engraving of Njinga as “Ann Zingha, queen of Matamba”. Made long after her lifetime by artists who never saw her, it shows how Europe imagined the queen it could not defeat.",
+    credit: "After Olfert Dapper · Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Ann_Zingha,_queen_of_Matamba.jpg"
+  },
+  "nj-negotiation": {
+    dir: "nj-negotiation", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Engraving of Queen Njinga in peace negotiations with the Portuguese governor in Luanda",
+    title: "The negotiations in Luanda",
+    caption: "Njinga in negotiations with the Portuguese governor in Luanda, 1622 — the embassy at which, by later tradition, she had an attendant kneel so she could sit at the governor's height.",
+    credit: "17th-century engraving · Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Queen_Nzinga_1657.png"
+  },
+  "nj-baptism": {
+    dir: "nj-baptism", ext: "jpg", widths: [480, 800],
+    alt: "Engraving of the baptism of Njinga in Luanda",
+    title: "The baptism of Njinga",
+    caption: "The baptism of Njinga in Luanda, where she took the Portuguese name Dona Ana de Sousa — a political alliance sealed in the symbols of the foreign power.",
+    credit: "17th-century engraving · Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Christening_of_Njinga.png"
+  },
+  "nj-funeral": {
+    dir: "nj-funeral", ext: "jpg", widths: [480, 800],
+    alt: "Engraving of the funeral of Queen Njinga of Angola",
+    title: "The funeral of Queen Njinga",
+    caption: "An engraving of Njinga's funeral, after the missionary Giovanni Antonio Cavazzi — a European image of a ruler her enemies could never overcome.",
+    credit: "Giovanni Antonio Cavazzi · Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Nzinga_regina,_funerale.jpg"
+  },
+  "nj-map": {
+    dir: "nj-map", ext: "jpg", widths: [640, 960, 1280],
+    alt: "An eighteenth-century map of the kingdoms of Angola, Matamba and Benguela",
+    title: "The kingdoms of Angola, Matamba & Benguela",
+    caption: "“Carte particulière des royaumes d'Angola, de Matamba et de Benguela”, c. 1731 — the political landscape Njinga fought over.",
+    credit: "British Library · No known restrictions", license: "No known restrictions",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Map_of_Angola,_Matamba_and_Benguela,_ca_1731.jpg"
+  },
+  "nj-lithograph": {
+    dir: "nj-lithograph", ext: "jpg", widths: [400, 602],
+    alt: "Hand-coloured lithograph portrait of Queen Njinga Mbande",
+    title: "Queen Ginga",
+    caption: "A hand-coloured lithograph of Njinga Mbande, known in Portuguese as “Queen Ginga” — the warrior-queen of Ndongo and Matamba.",
+    credit: "19th-century lithograph · Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Ann_Zingha.jpg"
+  },
+  "nj-statue": {
+    dir: "nj-statue", ext: "jpg", widths: [400, 640, 900],
+    alt: "A modern statue of Queen Njinga in Luanda, Angola",
+    title: "Njinga in Luanda today",
+    caption: "A statue of Queen Njinga in Luanda, the capital of modern Angola — the sovereign her Portuguese enemies could not remove, honoured by the nation that came after.",
+    credit: "Erik Cleves Kristensen (CC BY 2.0)", license: "CC BY 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Nzingambande.jpg"
   }
 };

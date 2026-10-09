@@ -14,6 +14,7 @@
   onReady(function () {
     initIcons();
     initNav();
+    initNavDrop();
     initActiveLink();
     initScrollProgress();
     initImages();
@@ -46,6 +47,39 @@
         toggle.setAttribute("aria-expanded", "false");
       })
     );
+  }
+
+  /* ---- Deep-dive dropdown ------------------------------------------------ */
+  function initNavDrop() {
+    const drops = document.querySelectorAll(".nav-drop");
+    if (!drops.length) return;
+    drops.forEach(function (drop) {
+      const btn = drop.querySelector(".nav-drop-btn");
+      if (!btn) return;
+      btn.addEventListener("click", function (e) {
+        e.preventDefault();
+        const open = drop.classList.toggle("open");
+        btn.setAttribute("aria-expanded", String(open));
+      });
+    });
+    document.addEventListener("click", function (e) {
+      drops.forEach(function (drop) {
+        if (!drop.contains(e.target)) {
+          drop.classList.remove("open");
+          const b = drop.querySelector(".nav-drop-btn");
+          if (b) b.setAttribute("aria-expanded", "false");
+        }
+      });
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        drops.forEach(function (drop) {
+          drop.classList.remove("open");
+          const b = drop.querySelector(".nav-drop-btn");
+          if (b) b.setAttribute("aria-expanded", "false");
+        });
+      }
+    });
   }
 
   /* ---- Highlight the current page in the nav ----------------------------- */

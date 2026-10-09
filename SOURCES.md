@@ -147,6 +147,22 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Deep dive — Queen Njinga of Ndongo & Matamba
+- **Ndongo, the *ngola*, Portuguese Angola and the slave trade.** Birmingham, *Trade and Conflict in Angola*; Thornton, *Warfare in Atlantic Africa 1500–1800*; Heywood & Thornton, *Central Africans, Atlantic Creoles, and the Foundation of the Americas*.
+- **Biography of Njinga Mbande (c. 1583–1663).** Heywood (ed.), *Njinga of Angola: Africa's Warrior Queen*; Miller, “Nzinga of Matamba in a New Perspective”, *Journal of African History* (1975).
+- **The 1622 embassy to Luanda, the treaty and the baptism as Dona Ana de Sousa.** Heywood; Birmingham.
+- **The “chair” episode and later/hostile portrayals.** Not in the earliest records; from later European accounts — discussed in Heywood; cf. Cavazzi, *Istorica descrizione de' tre regni Congo, Matamba et Angola* (1687), and the “cannibal queen” polemics that followed.
+- **The Imbangala warrior bands.** Miller, “The Imbangala and the Chronology of Early Central African History”, *Journal of African History* (1972).
+- **The Dutch alliance; Ngoleme (1644); Kombi (1646); the Portuguese reconquest of Luanda (1648).** Heywood; Boxer, *Salvador de Sá and the Struggle for Brazil and Angola*.
+- **The peace of 1656–57, her later reign and death (17 December 1663).** Heywood; Birmingham.
+
+## Hub — Myths — debunked
+- **Each correction links to a sourced page elsewhere on the site** (Kemet, Kingdoms, Great Zimbabwe, Mali, Slavery, Colonialism, Independence, Knowledge, Culture). Statements are drawn from the same scholarship catalogued under those sections; where a topic is contested or an estimate, the linked page says so.
+- **The pyramids' builders as paid, organised labour.** See the Kemet sources (workers' village, Wadi al-Jarf papyri, Lehner, Tallet).
+- **Kush: Napata, Meroë, the Meroitic script and the *kandakes*.** See the Kemet and Kingdoms sources (Török; Welsby).
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -259,6 +275,13 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **The Sankore mosque, Timbuktu** — Anne and David (Public domain). https://commons.wikimedia.org/wiki/File:2007_Sankore_Mosque_Timbuktu_01.jpg
 - **Salt for sale, Mopti** — Robin Taylor (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Salt_selling_Mopti_Mali.jpg
 - **The Great Mosque of Djenné** — Ruud Zwart (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg
+- **Portrait of Queen Njinga (Ann Zingha, queen of Matamba)** — after Olfert Dapper (Public domain). https://commons.wikimedia.org/wiki/File:Ann_Zingha,_queen_of_Matamba.jpg
+- **Njinga in negotiations in Luanda (Queen Nzinga 1657)** — 17th-century engraving (Public domain). https://commons.wikimedia.org/wiki/File:Queen_Nzinga_1657.png
+- **The baptism of Njinga (Christening of Njinga)** — 17th-century engraving (Public domain). https://commons.wikimedia.org/wiki/File:Christening_of_Njinga.png
+- **The funeral of Queen Njinga** — Giovanni Antonio Cavazzi (Public domain). https://commons.wikimedia.org/wiki/File:Nzinga_regina,_funerale.jpg
+- **Map of the kingdoms of Angola, Matamba and Benguela, c. 1731** — British Library, King's Topographical Collection (No known restrictions). https://commons.wikimedia.org/wiki/File:Map_of_Angola,_Matamba_and_Benguela,_ca_1731.jpg
+- **Queen Ginga, hand-coloured lithograph (Ann Zingha)** — 19th-century lithograph (Public domain). https://commons.wikimedia.org/wiki/File:Ann_Zingha.jpg
+- **Statue of Queen Njinga, Luanda** — Erik Cleves Kristensen (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Nzingambande.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.
