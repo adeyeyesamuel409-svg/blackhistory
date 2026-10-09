@@ -83,6 +83,8 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ## Volume III — Colonialism & independence
 - **Berlin Conference (1884–85)** — primary records; Pakenham, *The Scramble for Africa*; Förster, Mommsen & Robinson, *Bismarck, Europe, and Africa*.
+- **Pace of partition (Europeans directly ruled ~10% of Africa in 1880; by 1913 only Ethiopia and Liberia independent)** — Pakenham; Iliffe, *Africans: The History of a Continent*.
+- **Congo Free State (1885–1908); Leopold II; E. D. Morel; Casement Report (1904); catastrophic mortality.** Hochschild, *King Leopold's Ghost*; Morel, *Red Rubber*; Casement Report (British Parliamentary Papers). Death tolls are **estimates** and debated.
 - **Battle of Adwa (1896)** — Jonas, *The Battle of Adwa*.
 - **Herero & Namaqua genocide (1904–08)** — Olusoga & Erichsen, *The Kaiser's Holocaust*; UN/Whitaker Report.
 - **Maji Maji (1905–07); War of the Golden Stool (1900); Mau Mau (1952–60)** — Iliffe, *Tanganyika under German Rule*; Boahen, *African Perspectives on Colonialism*; Anderson, *Histories of the Hanged*.
@@ -179,6 +181,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Samori Ture, in exile** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Mali.(Kayes)_Samory_%C3%A9coutant_la_sentence_le_condamnant_%C3%A0_l%27exil.jpg
 - **Carving up a continent** — François Maréchal; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg
 - **Emperor Menelik II** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Menelik_II_of_Ethiopia_Negusa_Nagast.jpg
+- **The Berlin Conference, 1884–85** — Anonymous (CC0). https://commons.wikimedia.org/wiki/File:Berlin_Conference,_1884–85.jpg
+- **The Scramble for Africa, 1880–1913** — davidjl123 / Somebody500 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Scramble-for-Africa-1880-1913.png
+- **Leopold II and the Congo Free State (cartoon)** — Francis Carruthers Gould (Public domain). https://commons.wikimedia.org/wiki/File:Cartoon_by_British_caricaturist_%27Francis_Carruthers_Gould%27_depicting_King_Leopold_2,_and_Congo_Free_State.jpg
+- **Mau Mau safe conduct pass** — Brigade Piron (CC BY 3.0). https://commons.wikimedia.org/wiki/File:Mau_Mau_safe_conduct_pass.jpg
 - **Independence day, 1960** — Somaliland Standard; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Somaliland_independence_26_June_1960.jpg
 - **Jomo Kenyatta** — Pridan Moshe; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_(cropped)_in_June_15th,_1966.jpg
 - **Mandela votes, 1994** — Paul Weinberg (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Mandela_voting_in_1994.jpg

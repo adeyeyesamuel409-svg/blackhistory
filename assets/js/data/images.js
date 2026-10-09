@@ -725,5 +725,41 @@ window.UnbrokenImages = {
     credit: "Abraham Raimbach (Public domain)", license: "Public domain",
     licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg"
+  },
+  "col-conference": {
+    dir: "col-conference", ext: "jpg", widths: [480, 800],
+    alt: "The Berlin Conference of 1884–85, European powers seated around a table",
+    title: "The Berlin Conference",
+    caption: "The Berlin Conference, 1884–85. European powers set the rules for partitioning Africa; no African ruler took part.",
+    credit: "Anonymous (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Berlin_Conference,_1884%E2%80%9385.jpg"
+  },
+  "col-scramble": {
+    dir: "col-scramble", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Map showing the European partition of Africa between 1880 and 1913",
+    title: "The Scramble for Africa",
+    caption: "The partition of Africa, 1880 to 1913. In barely three decades, almost the entire continent was carved into European colonies.",
+    credit: "davidjl123 / Somebody500 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Scramble-for-Africa-1880-1913.png"
+  },
+  "col-congo": {
+    dir: "col-congo", ext: "jpg", widths: [480, 800],
+    alt: "A British satirical cartoon depicting King Leopold II and the Congo Free State",
+    title: "Leopold II & the Congo Free State",
+    caption: "A satirical cartoon on King Leopold II's Congo Free State, run as his private venture (1885–1908). Rubber and ivory were extracted through terror.",
+    credit: "Francis Carruthers Gould (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Cartoon_by_British_caricaturist_%27Francis_Carruthers_Gould%27_depicting_King_Leopold_2,_and_Congo_Free_State.jpg"
+  },
+  "col-maumau": {
+    dir: "col-maumau", ext: "jpg", widths: [400, 640],
+    alt: "A Mau Mau safe conduct pass issued during the Kenya Emergency",
+    title: "Mau Mau safe conduct pass",
+    caption: "A safe conduct pass from the Kenya Emergency. The Mau Mau uprising (1952–60) turned colonial Kenya into a battleground and hastened its independence.",
+    credit: "Brigade Piron (CC BY 3.0)", license: "CC BY 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Mau_Mau_safe_conduct_pass.jpg"
   }
 };
