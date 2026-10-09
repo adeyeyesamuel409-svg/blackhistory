@@ -689,5 +689,41 @@ window.UnbrokenImages = {
     credit: "Janetmpurdy (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Kisiwani_Tanzania.jpg"
+  },
+  "slav-toussaint": {
+    dir: "slav-toussaint", ext: "jpg", widths: [400, 640],
+    alt: "Portrait of Toussaint Louverture, leader of the Haitian Revolution",
+    title: "Toussaint Louverture",
+    caption: "Toussaint Louverture, leader of the revolution in Saint-Domingue. From its victory came Haiti (1804), the first modern republic founded by people who had freed themselves from slavery.",
+    credit: "After A.-F.-L. de Girardin (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Toussaint_Louverture_-_Girardin.jpg"
+  },
+  "slav-cinque": {
+    dir: "slav-cinque", ext: "jpg", widths: [400, 640, 900],
+    alt: "Portrait of Sengbe Pieh (Cinqué), leader of the Amistad revolt",
+    title: "Sengbe Pieh (Cinqué)",
+    caption: "Sengbe Pieh, known as Cinqué (portrait by Nathaniel Jocelyn). He led the 1839 revolt aboard the Amistad and won his freedom before the U.S. Supreme Court.",
+    credit: "Nathaniel Jocelyn (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Sengbe_Pieh.jpg"
+  },
+  "slav-douglass": {
+    dir: "slav-douglass", ext: "jpg", widths: [400, 640, 900],
+    alt: "Portrait of Frederick Douglass, the abolitionist and orator",
+    title: "Frederick Douglass",
+    caption: "Frederick Douglass, who escaped slavery and became one of the most powerful voices against it. He insisted freedom was taken, not given.",
+    credit: "George Kendall Warren (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879).jpg"
+  },
+  "slav-maroons": {
+    dir: "slav-maroons", ext: "jpg", widths: [400, 640],
+    alt: "Portrait drawn from life of Leonard Parkinson, a Jamaican Maroon captain, 1796",
+    title: "A Maroon captain, Jamaica, 1796",
+    caption: "Leonard Parkinson, a Maroon captain, drawn from life in 1796. Maroon communities of escaped people held their freedom by force of arms.",
+    credit: "Abraham Raimbach (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg"
   }
 };

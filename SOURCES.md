@@ -76,6 +76,7 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Trans-Saharan and Indian Ocean trades (estimates vary; millions over 1,000+ years).** Austen; Campbell, *Abolition and the Indian Ocean Slave Trade*; Lovejoy, *Transformations in Slavery*.
 - **African states as participants, and their devastation.** Thornton, *The Kingdom of Kongo*; Lovejoy, *Transformations in Slavery*.
 - **Resistance — Amistad (1839), Haitian Revolution (1791–1804), maroons.** Rediker, *The Amistad Rebellion*; Geggus, *The Haitian Revolution*.
+- **Survivor testimony and abolition.** Equiano, *The Interesting Narrative of the Life of Olaudah Equiano* (1789); Douglass, *Narrative of the Life of Frederick Douglass* (1845).
 - **Abolition dates** — Britain 1807 / 1833; US 13th Amendment 1865; Brazil 1888.
 
 > Note: Trans-Saharan and Indian Ocean slave-trade figures are **estimates** that vary widely between scholars; the page presents them as such rather than as fixed counts.
@@ -167,6 +168,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Great Mosque of Kilwa Kisiwani** — Janetmpurdy (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Kisiwani_Tanzania.jpg
 - **The Door of No Return, Ouidah** — Borisghost (CC0). https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Benin.jpg
 - **The Brookes ship plan (1789)** — James Phillips, London (public domain). https://commons.wikimedia.org/wiki/File:Brookes_slave_ship,_British_Library.jpg
+- **Toussaint Louverture** — after A.-F.-L. de Girardin (Public domain). https://commons.wikimedia.org/wiki/File:Toussaint_Louverture_-_Girardin.jpg
+- **Sengbe Pieh (Cinqué)** — Nathaniel Jocelyn (Public domain). https://commons.wikimedia.org/wiki/File:Sengbe_Pieh.jpg
+- **Frederick Douglass (c. 1879)** — George Kendall Warren (Public domain). https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879).jpg
+- **Leonard Parkinson, Maroon captain (1796)** — Abraham Raimbach (Public domain). https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg
 - **Olaudah Equiano (c. 1745–1797)** — W. Denton & D. Orme, British Library (CC0). https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
 - **Gorée Island** — Adjoajo (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal_2.jpg
 - **Africa partitioned, 1914** — Nicolay Sidorov; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Map_of_Africa_1914.jpg
