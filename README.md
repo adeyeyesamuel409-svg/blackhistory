@@ -6,7 +6,7 @@ An interactive, evidence-based web project tracing African history from the orig
 
 **Volume II — Trade & the slave trades** (live): Trade (trade-route map) · Slavery & Resistance (four systems, Slave Voyages data, resistance timeline).
 
-**Volume III —** Colonialism & independence *(planned)*
+**Volume III — Colonialism & independence** (live): Berlin Conference, wars of resistance, and the road to independence — mapped and sourced.
 
 ---
 
@@ -34,6 +34,7 @@ kemet.html            Kemet, Nubia + pyramid engineering lab
 kingdoms.html         Pre-colonial empires map
 trade.html            Trade-route map (Volume II)
 slavery.html          Slave trades & resistance (Volume II)
+colonialism.html      Colonialism & independence (Volume III)
 culture.html          3D hair & attire archive
 SOURCES.html          Full source list (on-site)
 README.html           About page (on-site)

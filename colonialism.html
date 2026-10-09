@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colonialism &amp; Independence — The Scramble for Africa | UNBROKEN</title>
+  <meta name="description" content="The Berlin Conference of 1884–85, the wars of African resistance, and the road to independence — mapped and sourced." />
+  <meta name="theme-color" content="#0a0908" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Colonialism &amp; Independence | UNBROKEN" />
+  <meta property="og:description" content="Partition, resistance and freedom — the twentieth-century African story." />
+  <meta property="og:image" content="assets/img/og-default.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="cf-beacon-token" content="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/leaflet.css" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <style>
+    #resistance-map { height: min(68vh, 580px); border-radius: var(--radius); border: 1px solid var(--gold-line); background: #0d0c0b; }
+    .leaflet-container { background: #0d0c0b; font-family: var(--font-body); }
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #17130f; color: var(--ink); border: 1px solid var(--gold-line); }
+    .stat-big { font-family: var(--font-display); font-weight: 900; font-size: clamp(1.6rem, 3.6vw, 2.4rem); }
+    .ind-row { display:flex; justify-content:space-between; gap:12px; padding:9px 0; border-bottom:1px solid var(--gold-line); }
+  </style>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <nav class="nav">
+    <a class="nav-brand" href="index.html"><span class="dot"></span><span class="gold-text">UNBROKEN</span></a>
+    <div class="nav-links">
+      <a href="genesis.html">Origins</a>
+      <a href="kemet.html">Kemet</a>
+      <a href="kingdoms.html">Kingdoms</a>
+      <a href="trade.html">Trade</a>
+      <a href="slavery.html">Slavery</a>
+      <a href="colonialism.html">Colonialism</a>
+      <a href="culture.html">Culture</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><i data-lucide="menu"></i></button>
+  </nav>
+
+  <header class="section wrap" style="padding-top:150px">
+    <span class="badge reveal"><i data-lucide="flag" style="width:15px;height:15px"></i> Volume III · Pillar 07</span>
+    <h1 class="reveal mt-6" style="font-size:clamp(2.2rem,6vw,4rem)">Partition, resistance &amp; <span class="gold-text">freedom</span></h1>
+    <p class="lead reveal mt-4" style="max-width:72ch">
+      In 1884 European powers drew lines across a continent they did not govern. Africans resisted from the first day to the
+      last — and within eighty years, had won their independence.
+    </p>
+  </header>
+
+  <!-- STATS -->
+  <section class="section wrap" style="padding-top:0">
+    <div class="grid grid-4" id="stat-row"></div>
+  </section>
+
+  <!-- BERLIN -->
+  <section class="section wrap" style="padding-top:0">
+    <div class="card panel-gold reveal">
+      <span class="kicker">1884–85</span>
+      <h2 class="gold-text" style="font-size:clamp(1.4rem,3.4vw,2rem)">The Berlin Conference</h2>
+      <p class="dim" id="berlin-text" style="max-width:78ch"></p>
+    </div>
+  </section>
+
+  <!-- RESISTANCE MAP -->
+  <section class="section wrap" style="padding-top:0">
+    <div class="card reveal">
+      <span class="kicker">They fought back</span>
+      <h2 class="gold-text mb-4" style="font-size:clamp(1.3rem,3vw,1.8rem)">Wars of resistance</h2>
+      <div id="resistance-map"></div>
+      <p class="tiny faint mt-4">A selection of major episodes; resistance was continuous and continent-wide.</p>
+    </div>
+  </section>
+
+  <!-- INDEPENDENCE -->
+  <section class="section wrap">
+    <div class="grid" style="grid-template-columns:1fr 1fr; gap:34px" id="ind-grid">
+      <div class="reveal">
+        <span class="kicker">1960 · The Year of Africa</span>
+        <h2 class="gold-text" style="font-size:clamp(1.5rem,3.4vw,2.1rem)">The road to independence</h2>
+        <p class="dim small">From Libya in 1951 to South Africa's first free elections in 1994. Seventeen nations became independent in 1960 alone.</p>
+      </div>
+      <div class="card reveal">
+        <div id="ind-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LEGACY -->
+  <section class="section wrap">
+    <div class="card reveal">
+      <span class="kicker">The long shadow</span>
+      <h2 class="gold-text" style="font-size:clamp(1.4rem,3.4vw,2rem)">Legacy &amp; renewal</h2>
+      <p class="dim" id="legacy-text" style="max-width:78ch"></p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-grid">
+      <div>
+        <div class="nav-brand mb-4"><span class="dot"></span><span class="gold-text">UNBROKEN</span></div>
+        <p class="small dim">Volume III — Colonialism &amp; Independence.</p>
+      </div>
+      <div>
+        <h4 class="small gold-text">Explore</h4>
+        <a href="slavery.html">Slavery &amp; Resistance</a><a href="trade.html">Trade</a><a href="kingdoms.html">Kingdoms</a><a href="culture.html">Culture</a><a href="index.html">Home</a>
+      </div>
+      <div>
+        <h4 class="small gold-text">Project</h4>
+        <a href="SOURCES.html">Sources</a>
+        <a href="#" data-share data-share-title="Colonialism &amp; Independence — UNBROKEN">Share this page</a>
+      </div>
+    </div>
+    <div class="wrap center mt-8"><p class="tiny faint">© <span data-year>2026</span> UNBROKEN Digital Heritage Initiative · Facts cited in <a href="SOURCES.html" style="display:inline;color:var(--gold)">Sources</a>.</p></div>
+  </footer>
+
+  <script src="assets/js/vendor/leaflet.js"></script>
+  <script src="assets/js/vendor/lucide.js"></script>
+  <script src="assets/js/data/history.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (function () {
+      if (!window.UnbrokenData) return;
+      var c = window.UnbrokenData.colonial;
+
+      document.getElementById("stat-row").innerHTML = c.stats.map(function (x) {
+        return '<div class="card reveal center"><div class="stat-big gold-text">' + x.value + '</div><p class="small dim" style="margin:6px 0 0">' + x.label + "</p></div>";
+      }).join("");
+
+      document.getElementById("berlin-text").textContent = c.berlin;
+      document.getElementById("legacy-text").textContent = c.legacy;
+
+      document.getElementById("ind-list").innerHTML = c.independence.map(function (x) {
+        return '<div class="ind-row"><span class="small dim">' + x.country + '</span><span class="mono gold-text">' + x.year + "</span></div>";
+      }).join("");
+
+      if (window.L) {
+        var map = L.map("resistance-map", { scrollWheelZoom: false, minZoom: 2 }).setView([2, 20], 3);
+        L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+          attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+        }).addTo(map);
+        c.resistance.forEach(function (r) {
+          L.circleMarker([r.lat, r.lng], { radius: 7, color: "#b4552d", weight: 2, fillColor: "#e0bd6a", fillOpacity: 0.9 })
+            .addTo(map)
+            .bindPopup("<strong style='color:#f3e5ab'>" + r.name + "</strong><br><span style='color:#c5a059'>" + r.year + " · " + r.country + "</span><br>" + r.note);
+        });
+        setTimeout(function () { map.invalidateSize(); }, 300);
+      }
+
+      if (window.lucide) window.lucide.createIcons();
+    })();
+  </script>
+</body>
+</html>

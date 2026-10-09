@@ -304,6 +304,44 @@ window.UnbrokenData = (function () {
     ]
   };
 
+  /* ---- Volume III: Colonialism & independence ---------------------------- */
+  const colonial = {
+    stats: [
+      { value: "1884–85", label: "Berlin Conference partitions Africa" },
+      { value: "1896", label: "Ethiopia defeats Italy at Adwa" },
+      { value: "1960", label: "17 nations gain independence" },
+      { value: "1994", label: "End of apartheid in South Africa" }
+    ],
+    berlin:
+      "At the Berlin Conference of 1884–85, European powers — and the United States as an observer — drew rules for dividing Africa among themselves. No African ruler was invited. Within a generation, almost the entire continent was under colonial rule. The delegates' straight-line borders cut across African polities and peoples, creating fault lines that still shape the continent today.",
+    resistance: [
+      { name: "Battle of Adwa", lat: 14.13, lng: 38.72, year: "1896", country: "Ethiopia", note: "Menelik II and Empress Taytu defeat an invading Italian army, keeping Ethiopia independent." },
+      { name: "Isandlwana", lat: -28.35, lng: 30.65, year: "1879", country: "Zululand", note: "Zulu forces under Cetshwayo rout a British column — a shock to the empire." },
+      { name: "War of the Golden Stool", lat: 6.7, lng: -1.6, year: "1900", country: "Asante", note: "Yaa Asantewaa leads the Asante resistance against British annexation." },
+      { name: "Herero & Namaqua", lat: -22.0, lng: 17.0, year: "1904–08", country: "Namibia", note: "German forces commit genocide against the Herero and Nama peoples." },
+      { name: "Maji Maji Rebellion", lat: -8.9, lng: 37.0, year: "1905–07", country: "German East Africa", note: "Uprising against forced cotton labour and brutal colonial rule." },
+      { name: "Mau Mau", lat: -0.4, lng: 37.0, year: "1952–60", country: "Kenya", note: "Guerrilla uprising against British rule and land seizure, crushed with mass detention." }
+    ],
+    independence: [
+      { country: "Liberia", year: "1847" },
+      { country: "Ethiopia", year: "never colonised" },
+      { country: "Libya", year: "1951" },
+      { country: "Sudan", year: "1956" },
+      { country: "Morocco & Tunisia", year: "1956" },
+      { country: "Ghana", year: "1957" },
+      { country: "Guinea", year: "1958" },
+      { country: "17 nations", year: "1960" },
+      { country: "Algeria", year: "1962" },
+      { country: "Kenya", year: "1963" },
+      { country: "Zimbabwe", year: "1980" },
+      { country: "Namibia", year: "1990" },
+      { country: "Eritrea", year: "1993" },
+      { country: "South Africa", year: "1994" }
+    ],
+    legacy:
+      "Independence did not undo colonial economics. Borders still split communities, and many economies were built to export raw materials and import manufactures. Yet the same decades produced pan-Africanism, the Organisation of African Unity (1963, later the African Union), and cultural movements that reshaped the world. The story of the twentieth century is also one of African nations making their own history."
+  };
+
   /* ---- Sources index ----------------------------------------------------- */
   const sources = [
     { id: "hublin2017", label: "Hublin et al., 'New fossils from Jebel Irhoud, Morocco', Nature (2017)" },
@@ -319,5 +357,5 @@ window.UnbrokenData = (function () {
     { id: "nok", label: "Smithsonian National Museum of African Art — Nok, Kongo, Benin holdings" }
   ];
 
-  return { timeline, migration, kemet, empires, hair, attire, trade, slavery, sources };
+  return { timeline, migration, kemet, empires, hair, attire, trade, slavery, colonial, sources };
 })();

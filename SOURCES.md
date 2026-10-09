@@ -66,10 +66,14 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 > Note: Trans-Saharan and Indian Ocean slave-trade figures are **estimates** that vary widely between scholars; the page presents them as such rather than as fixed counts.
 
-## Coming in Volume III (Colonialism & independence)
-- **Berlin Conference (1884–85)** — primary records and Pakenham, *The Scramble for Africa*.
+## Volume III — Colonialism & independence
+- **Berlin Conference (1884–85)** — primary records; Pakenham, *The Scramble for Africa*; Förster, Mommsen & Robinson, *Bismarck, Europe, and Africa*.
 - **Battle of Adwa (1896)** — Jonas, *The Battle of Adwa*.
-- **Decolonisation** — Ghana's independence (1957); Cooper, *Africa Since 1940*.
+- **Herero & Namaqua genocide (1904–08)** — Olusoga & Erichsen, *The Kaiser's Holocaust*; UN/Whitaker Report.
+- **Maji Maji (1905–07); War of the Golden Stool (1900); Mau Mau (1952–60)** — Iliffe, *Tanganyika under German Rule*; Boahen, *African Perspectives on Colonialism*; Anderson, *Histories of the Hanged*.
+- **Independence dates & the Year of Africa (1960).** Cooper, *Africa Since 1940*; Birmingham, *The Decolonization of Africa*.
+- **Pan-Africanism / OAU (1963) → African Union (2002)** — official AU records.
+- Border and legacy analysis draws on the **Berlin Conference** boundaries and standard post-colonial historiography; the page presents colonial-era economic structures as a debated legacy, not a single verdict.
 
 ---
 
