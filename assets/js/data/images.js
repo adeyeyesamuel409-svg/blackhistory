@@ -599,5 +599,59 @@ window.UnbrokenImages = {
     credit: "Vyacheslav Argenberg (CC BY 4.0)", license: "CC BY 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Thebes,_Medinet_Habu,_Egypt,_Temple_of_Ramesses_III,_Egyptian_hieroglyphs,_Ancient_Egypt.jpg"
+  },
+  "king-mansamusa": {
+    dir: "king-mansamusa", ext: "jpg", widths: [400, 640, 900],
+    alt: "Mansa Musa of Mali depicted on the Catalan Atlas holding a gold nugget",
+    title: "Mansa Musa on the Catalan Atlas",
+    caption: "Mansa Musa of Mali on the Catalan Atlas (1375). His gold-rich pilgrimage of 1324 made Mali famous across the Mediterranean world.",
+    credit: "Abraham Cresques (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+  },
+  "king-beninleopard": {
+    dir: "king-beninleopard", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A cast bronze leopard from the court of Benin, an aquamanile from around the 16th century",
+    title: "Bronze leopard of Benin",
+    caption: "A cast-bronze leopard from the court of Benin. Leopards, symbols of the oba's power, were cast in brass by the royal guilds.",
+    credit: "Vassil (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Leopard_aquamanile_Benin_Berlin_Beyond_compare_03052018_2.jpg"
+  },
+  "king-akscoin": {
+    dir: "king-akscoin", ext: "jpg", widths: [400, 640, 900],
+    alt: "Gold and silver coinage of the kingdom of Aksum",
+    title: "Coins of Aksum",
+    caption: "Aksumite coinage. Minting its own gold coins marked Aksum as one of the great trading states of the ancient world.",
+    credit: "The British Museum (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Axumite_coinage.jpg"
+  },
+  "king-nkisi": {
+    dir: "king-nkisi", ext: "jpg", widths: [400, 640, 900],
+    alt: "A Kongo nkisi nkondi power figure studded with nails, wood and mixed media",
+    title: "Nkisi nkondi, Kongo",
+    caption: "An nkisi nkondi of the Kongo people. Nails driven into the figure sealed oaths and agreements — an instrument of law and healing, not “idol worship”.",
+    credit: "Daderot; Royal Ontario Museum (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Nkisi_nkondi_power_figure,_Kongo_culture,_Democratic_Republic_of_the_Congo,_collected_before_1924,_wood,_metal,_glass,_mirror_-_Royal_Ontario_Museum_-_DSC04524.JPG"
+  },
+  "king-ife": {
+    dir: "king-ife", ext: "jpg", widths: [400, 640, 900],
+    alt: "A naturalistic brass head of an Ife king, Yoruba, from around the 12th to 15th century",
+    title: "Head of a king, Ife",
+    caption: "A brass head of an Ife king (oba). The naturalism of Ife bronze casting, from the 12th–15th centuries, is among the finest sculpture of any age.",
+    credit: "Vassil; The British Museum (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Head_of_a_king_Ife_17022019_5147.jpg"
+  },
+  "king-ethiopia": {
+    dir: "king-ethiopia", ext: "jpg", widths: [400, 640, 900],
+    alt: "An illuminated Ethiopian manuscript page with painted figures and Ge'ez script",
+    title: "Ethiopian illuminated Gospel",
+    caption: "An Ethiopian illuminated manuscript in Ge'ez. Ethiopian scribes and monks kept a literate Christian tradition alive for well over a millennium.",
+    credit: "Ethiopian scribe (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Ethiopian,_Illuminated_Manuscript,_18th_century.jpg"
   }
 };

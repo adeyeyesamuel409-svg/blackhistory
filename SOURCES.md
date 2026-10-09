@@ -49,6 +49,10 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Kingdom of Benin (Benin Bronzes).** British Museum collections; `british` in `history.js`.
 - **Kingdom of Kongo.** Thornton, *The Kingdom of Kongo: Civil Society and Political Culture*.
 - **Ghana Empire (Koumbi Saleh).** UNESCO World Heritage.
+- **Mansa Musa's 1324 pilgrimage; the Catalan Atlas (1375).** Levtzion & Hopkins; Bibliothèque nationale de France (Catalan Atlas, attributed to Abraham Cresques).
+- **Ife brass heads (12th–15th c.); Benin bronze-casting guilds.** The British Museum; Metropolitan Museum of Art.
+- **Kongo nkisi nkondi power figures.** Royal Ontario Museum; Metropolitan Museum of Art.
+- **Aksumite coinage; Ezana's conversion (4th c.).** Munro-Hay, *Aksum*; The British Museum.
 - Territory shapes on the map are **approximate extents at their height**, not precise borders; pre-modern states rarely had fixed boundaries.
 
 ### Culture (hair, attire, textiles)
@@ -119,6 +123,12 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Laas Geel rock art** — najeeb (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Laas_Geel_rock.jpg
 - **The Sphinx, partly excavated** — Maison Bonfils; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Sphinx_partially_excavated2.jpg
 - **Nok terracotta** — Hiart; Honolulu Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Head,_Nok_culture,_terracotta,_Honolulu_Museum_of_Art,_8349.1.JPG
+- **Mansa Musa, Catalan Atlas (1375)** — Abraham Cresques; BnF (Public domain). https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg
+- **Bronze leopard of Benin** — Vassil (CC0). https://commons.wikimedia.org/wiki/File:Leopard_aquamanile_Benin_Berlin_Beyond_compare_03052018_2.jpg
+- **Coins of Aksum** — The British Museum (CC0). https://commons.wikimedia.org/wiki/File:Axumite_coinage.jpg
+- **Nkisi nkondi, Kongo** — Daderot; Royal Ontario Museum (CC0). https://commons.wikimedia.org/wiki/File:Nkisi_nkondi_power_figure,_Kongo_culture,_Democratic_Republic_of_the_Congo,_collected_before_1924,_wood,_metal,_glass,_mirror_-_Royal_Ontario_Museum_-_DSC04524.JPG
+- **Head of a king, Ife** — Vassil; The British Museum (CC0). https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Head_of_a_king_Ife_17022019_5147.jpg
+- **Ethiopian illuminated manuscript** — Ethiopian scribe (Public domain). https://commons.wikimedia.org/wiki/File:Ethiopian,_Illuminated_Manuscript,_18th_century.jpg
 - **Great Zimbabwe (corridor)** — CDC / Dr. J. Lyle Conrad; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Corridor_in_Great_Zimbabwe_Ruins_--_1975.jpg
 - **The Battle of Adwa, 1896** — Unknown artist (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Ethiopian_painting,_Battle_of_Adwa,_1896.jpg
 - **Ghana's independence, 1957** — Paasikivi (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:KwameNkrumahOnGhanianIndependenceDay6March1957PostageStamp.JPG
