@@ -161,8 +161,11 @@
 
       if (window.L) {
         var map = L.map("resistance-map", { scrollWheelZoom: false, minZoom: 2 }).setView([2, 20], 3);
-        L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-          attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+        L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}", {
+          maxZoom: 19, maxNativeZoom: 16
+        }).addTo(map);
+        L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}", {
+          maxZoom: 19, maxNativeZoom: 16, attribution: "Tiles &copy; Esri &mdash; Esri, HERE"
         }).addTo(map);
         c.resistance.forEach(function (r) {
           L.circleMarker([r.lat, r.lng], { radius: 7, color: "#b4552d", weight: 2, fillColor: "#e0bd6a", fillOpacity: 0.9 })

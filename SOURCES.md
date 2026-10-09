@@ -136,7 +136,7 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Adire indigo** — Tunde Akangbe (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg
 
 ### Map tiles, fonts & libraries
-- Map tiles and data © OpenStreetMap contributors © CARTO.
+- Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.
 - Fonts via Google Fonts — Cinzel, EB Garamond, IM Fell English, JetBrains Mono — under the SIL Open Font License / Apache 2.0.
 - Three.js (MIT), Leaflet (BSD-2-Clause), Lucide (ISC).
 - Africa GeoJSON from the *click_that_hood* project, derived from Natural Earth (public domain).

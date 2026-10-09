@@ -116,8 +116,11 @@
       if (!window.L || !window.UnbrokenData) return;
       var data = window.UnbrokenData.empires;
       var map = L.map("empire-map", { scrollWheelZoom: false, minZoom: 3 }).setView([4, 18], 4);
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-        attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+      L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}", {
+        maxZoom: 19, maxNativeZoom: 16
+      }).addTo(map);
+      L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}", {
+        maxZoom: 19, maxNativeZoom: 16, attribution: "Tiles &copy; Esri &mdash; Esri, HERE"
       }).addTo(map);
 
       var list = document.getElementById("empire-list");

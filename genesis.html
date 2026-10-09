@@ -158,8 +158,11 @@
       if (!window.L || !window.UnbrokenData) return;
       var d = window.UnbrokenData.migration;
       var map = L.map("migration-map", { worldCopyJump: true, minZoom: 2, scrollWheelZoom: false }).setView([12, 26], 2);
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-        attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+      L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}", {
+        maxZoom: 19, maxNativeZoom: 16
+      }).addTo(map);
+      L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}", {
+        maxZoom: 19, maxNativeZoom: 16, attribution: "Tiles &copy; Esri &mdash; Esri, HERE"
       }).addTo(map);
 
       d.sites.forEach(function (s) {
