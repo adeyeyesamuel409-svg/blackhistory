@@ -103,5 +103,41 @@ window.UnbrokenImages = {
     credit: "Paasikivi (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:KwameNkrumahOnGhanianIndependenceDay6March1957PostageStamp.JPG"
+  },
+  "gen-herto": {
+    dir: "gen-herto", ext: "jpg", widths: [480, 800],
+    alt: "The Herto (Idaltu) fossil skull of Homo sapiens, found in Ethiopia",
+    title: "Herto (Idaltu) skull",
+    caption: "The Herto skulls from Ethiopia, about 160,000 years old, are among the oldest known Homo sapiens remains.",
+    credit: "Alessandrosmerilli; via Wikimedia Commons",
+    license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Homo_Sapiens_Idaltu.JPG"
+  },
+  "gen-omo": {
+    dir: "gen-omo", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Fossil cranium of Homo sapiens from Omo Kibish, Ethiopia",
+    title: "Omo Kibish cranium",
+    caption: "The Omo Kibish fossils from Ethiopia date to about 233,000 years ago.",
+    credit: "GuillaumeG (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Omo_Kibish_-_MCN_4152.jpg"
+  },
+  "gen-blombos": {
+    dir: "gen-blombos", ext: "jpg", widths: [331],
+    alt: "A piece of deliberately engraved ochre from Blombos Cave, South Africa",
+    title: "Engraved ochre, Blombos Cave",
+    caption: "An engraved ochre block from Blombos Cave, South Africa \u2014 among the earliest known symbolic markings (c. 77,000 years ago).",
+    credit: "Chris S. Henshilwood (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Blombo.jpg"
+  },
+  "gen-sahara-cattle": {
+    dir: "gen-sahara-cattle", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Saharan rock painting showing a daily scene with cattle and herders",
+    title: "Cattle and herders in the Sahara",
+    caption: "Rock art of the \u201cGreen Sahara\u201d, when the desert was grassland and herders painted their herds.",
+    credit: "IssamBarhoumi (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Daily_scene_with_cattle.jpg"
   }
 };

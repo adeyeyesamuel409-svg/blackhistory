@@ -20,11 +20,11 @@
   <link rel="stylesheet" href="assets/css/leaflet.css" />
   <link rel="stylesheet" href="assets/css/site.css" />
   <style>
-    #migration-map { height: min(72vh, 620px); border-radius: var(--radius); border: 1px solid var(--gold-line); background: #0d0c0b; }
-    .leaflet-container { background: #0d0c0b; font-family: var(--font-body); }
+    #migration-map { height: min(72vh, 620px); border-radius: var(--radius); border: 1px solid var(--gold-line); background: #e8dcc0; }
+    .leaflet-container { background: #e8dcc0; font-family: var(--font-body); }
     .mig-route { stroke-dasharray: 8 10; animation: dash 1.4s linear infinite; }
     @keyframes dash { to { stroke-dashoffset: -18; } }
-    .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #17130f; color: var(--ink); border: 1px solid var(--gold-line); }
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #f7f0dd; color: var(--ink); border: 1px solid var(--gold-line); }
     .map-toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:14px; justify-content:space-between; }
     input[type="range"] { accent-color: var(--gold); width: 100%; }
     .ctrl-label { font-family: var(--font-mono); font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); }
@@ -62,6 +62,11 @@
       <a class="btn btn-ghost" href="SOURCES.html"><i data-lucide="book-open" style="width:15px;height:15px"></i> See the sources</a>
     </div>
   </header>
+
+  <!-- FRONTISPIECE -->
+  <section class="section wrap" style="padding-top:0">
+    <figure class="plate plate-wide reveal" data-image="gen-herto"></figure>
+  </section>
 
   <!-- MAP -->
   <section class="section wrap" style="padding-top:0">
@@ -103,6 +108,20 @@
         <p class="dim small">Genetic and fossil evidence agrees: every living human population traces its ancestry to Africa. Migration out of the continent is the family tree of all of us.</p>
         <p class="tiny faint">Note on language: “Out of Africa” describes population movement, not a single tidy departure. It was many movements over tens of thousands of years.</p>
       </article>
+    </div>
+  </section>
+
+  <!-- ARCHIVE PLATES -->
+  <section class="section wrap">
+    <div class="center mb-8 reveal">
+      <span class="kicker">From the archive</span>
+      <h2 class="gold-text" style="font-size:clamp(1.6rem,3.6vw,2.4rem)">Objects &amp; evidence</h2>
+      <div class="rule-orn" aria-hidden="true"><span class="lozenge"></span></div>
+    </div>
+    <div class="gallery">
+      <figure class="plate reveal" data-image="gen-omo"></figure>
+      <figure class="plate reveal" data-image="gen-blombos"></figure>
+      <figure class="plate reveal" data-image="gen-sahara-cattle"></figure>
     </div>
   </section>
 
