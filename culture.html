@@ -93,11 +93,32 @@
           <h3 id="hair-title" class="gold-text" style="font-size:1.2rem">—</h3>
           <p id="hair-origin" class="tiny mono faint">—</p>
           <p id="hair-desc" class="small dim mt-2">—</p>
+          <p id="hair-sources" class="tiny faint mt-3" style="border-top:1px solid var(--gold-line);padding-top:10px">—</p>
         </div>
         <button class="btn btn-primary w-full" data-share data-share-title="African hair &amp; attire" data-share-text="Explore the UNBROKEN culture archive.">
           <i data-lucide="share-2" style="width:15px;height:15px"></i> Share the archive
         </button>
       </div>
+    </div>
+  </section>
+
+  <!-- REAL HAIRSTYLES -->
+  <section class="section wrap">
+    <div class="center mb-8 reveal">
+      <span class="kicker">From the archives</span>
+      <h2 class="gold-text" style="font-size:clamp(1.6rem,3.6vw,2.4rem)">The real hairstyles</h2>
+      <p class="dim small" style="max-width:64ch;margin:10px auto 0">The 3D lab above is stylised. These are authentic period records — photographs and engravings made from the 1880s to the 1930s — of hair worn as identity, status and art.</p>
+      <div class="rule-orn" aria-hidden="true"><span class="lozenge"></span></div>
+    </div>
+    <div class="gallery">
+      <figure class="plate reveal" data-image="hair-fulani"></figure>
+      <figure class="plate reveal" data-image="hair-amz-king"></figure>
+      <figure class="plate reveal" data-image="hair-amz-herdsman"></figure>
+      <figure class="plate reveal" data-image="hair-congo-weave"></figure>
+      <figure class="plate reveal" data-image="hair-congo-braid"></figure>
+      <figure class="plate reveal" data-image="hair-mangbetu"></figure>
+      <figure class="plate reveal" data-image="hair-himba"></figure>
+      <figure class="plate reveal" data-image="hair-himba-otjize"></figure>
     </div>
   </section>
 
@@ -290,6 +311,7 @@
         document.getElementById("hair-title").textContent = h.title;
         document.getElementById("hair-origin").textContent = h.origin;
         document.getElementById("hair-desc").textContent = h.desc;
+        document.getElementById("hair-sources").textContent = "Historical sources: " + (h.sources || "see Sources.");
       }
       applyStyle("fulani");
 

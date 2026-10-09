@@ -58,6 +58,7 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 ### Culture (hair, attire, textiles)
 - General framing and style names draw on museum and ethnographic collections: **The Metropolitan Museum of Art** (Egypt/Nubia), **Smithsonian National Museum of African Art**, **The British Museum**. See `met`, `nok`, `british` in `history.js`.
 - 3D hairstyle models are **stylised representations** for teaching, not accurate reconstructions or portraits.
+- **Historical hairstyles — the "real hairstyles" plates.** Roy Sieber & Frank Herreman (eds.), *Hair in African Art and Culture* (Museum for African Art / Prestel, 2000); A. Raffenel, *Voyage dans l'Afrique occidentale… 1843–1844*; 1887 Peul studio photographs from Senegal (Bonnevide/Hostalier); early Rwandan photography (King Yuhi V Musinga, 1910s; Casimir Zagourski, 1929–37); Congo mission photographs (c. 1900–1915, International Mission Photography Archive); Richard Buchta's Mangbetu images (1877–80); ethnographic photographs of the Himba of north-west Namibia.
 - **Cloth as coded language (kente motifs, adire, bogolan); Ndebele wall painting.** African textile scholarship; museum collections (British Museum, Smithsonian NMAfA).
 - **Griots (Mande jeliw) and the kora as oral archive.** Hale, *Griots and Griottes*; Charry, *Mande Music*.
 - **Polyrhythm, call-and-response and diaspora music.** Standard ethnomusicology (Nketia, *The Music of Africa*).
@@ -336,6 +337,14 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Sketch of the battlefield of Adwa** — Beniamino Melli, *La Colonia Eritrea* (1899) (Public domain). https://commons.wikimedia.org/wiki/File:Schizzo_del_campo_di_battaglia_d%27Adua_(Melli,_La_colonia_eritrea,_1899).jpg
 - **The Battle of Adwa (detail of a painting)** — photo by A. Davey (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Detail,_%22Battle_of_Adwa%22_(2141842256).jpg
 - **Italian prisoners after Adwa** — 1896 illustration (Public domain). https://commons.wikimedia.org/wiki/File:Prisoner-Adwa.jpg
+- **Fulani (Peul) woman, Senegal, 1887** — Bonnevide/Hostalier (Public domain). https://commons.wikimedia.org/wiki/File:2_phot._de_types_peul_du_S%C3%A9n%C3%A9gal,_par_Bonnevide,_phot._%C3%A0_Paris,_don_E._Caminade_en_1887_-_btv1b7702089z_(1_of_2).jpg
+- **King Yuhi V Musinga of Rwanda (1910s)** — photographer unknown (Public domain). https://commons.wikimedia.org/wiki/File:YuhiVMusinga.jpg
+- **Rwandan herdsman (Amasunzu)** — Rwanda Library (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Tutsi_herdsman.jpg
+- **Elaborate hairstyling, Congo c. 1900–1915** — Congo mission photograph (Public domain). https://commons.wikimedia.org/wiki/File:Elaborate_hairstyling,_Congo,_ca._1900-1915_(IMP-CSCNWW33-OS11-13).jpg
+- **Braided hair, Congo c. 1900–1915** — Congo mission photograph (Public domain). https://commons.wikimedia.org/wiki/File:Woman_with_braided_hair,_Congo,_ca._1900-1915_(IMP-CSCNWW33-OS11-19).jpg
+- **Mangbetu coiffure** — Kazimierz Zagórski (Public domain). https://commons.wikimedia.org/wiki/File:Mangbetu_coiffure_de_Kazimierz_Zag%C3%B3rski.jpg
+- **Himba herders, Namibia** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
+- **Himba woman applying otjize (2007)** — Josep M. Gracia (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Himba_woman_applying_otjize_to_her_body_in_northern_Namibia,_2007.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

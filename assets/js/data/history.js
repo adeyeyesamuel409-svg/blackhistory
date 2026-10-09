@@ -209,10 +209,14 @@ window.UnbrokenData = (function () {
 
   /* ---- Hair & attire ----------------------------------------------------- */
   const hair = [
-    { id: "fulani", title: "Fulani Braids & Beads", origin: "Fulani — West Africa", desc: "Long side braids with a central crown, adorned with cowrie shells, amber, and silver to signal lineage and status.", builder: "fulani" },
-    { id: "amasunzu", title: "Amasunzu", origin: "Rwanda — East Africa", desc: "Sculpted crescent crests historically worn by Rwandan men and women to mark status, age, and dignity.", builder: "amasunzu" },
-    { id: "bantu", title: "Bantu Knots", origin: "Bantu peoples — Central & Southern Africa", desc: "Sectioned twists coiled into raised knots, a protective style with deep regional roots.", builder: "bantu" },
-    { id: "himba", title: "Himba Ochre Crown", origin: "Himba — Namibia", desc: "Hair coated in otjize, a paste of butterfat and red ochre, tied to the earth's colour and beauty ideals.", builder: "himba" }
+    { id: "fulani", title: "Fulani Braids & Beads", origin: "Fulani — West Africa", desc: "Long side braids with a central crown, adorned with cowrie shells, amber, and silver to signal lineage and status.", builder: "fulani",
+      sources: "Recorded in A. Raffenel, Voyage dans l'Afrique occidentale (1843–44) and in 1887 Peul studio photographs from Senegal (Bonnevide/Hostalier); surveyed in Sieber & Herreman, Hair in African Art and Culture (2000)." },
+    { id: "amasunzu", title: "Amasunzu", origin: "Rwanda — East Africa", desc: "Sculpted crescent crests historically worn by Rwandan men and women to mark status, age, and dignity.", builder: "amasunzu",
+      sources: "Documented in early Rwandan photography (e.g. King Yuhi V Musinga, 1910s; Zagourski, 1929–37) and surveyed in Sieber & Herreman, Hair in African Art and Culture (2000)." },
+    { id: "bantu", title: "Bantu Knots", origin: "Bantu peoples — Central & Southern Africa", desc: "Sectioned twists coiled into raised knots, a protective style with deep regional roots.", builder: "bantu",
+      sources: "The modern term covers sectioned coils and woven styles recorded in Congo mission photographs (c.1900–1915) and Buchta's Mangbetu images (1877–80); cf. Sieber & Herreman (2000)." },
+    { id: "himba", title: "Himba Ochre Crown", origin: "Himba — Namibia", desc: "Hair coated in otjize, a paste of butterfat and red ochre, tied to the earth's colour and beauty ideals.", builder: "himba",
+      sources: "The otjize butterfat-and-ochre paste is documented in ethnographic photographs of the Himba of north-west Namibia (e.g. Stieglitz; Gracia, 2007)." }
   ];
 
   const attire = [

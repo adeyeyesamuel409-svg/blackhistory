@@ -1283,5 +1283,77 @@ window.UnbrokenImages = {
     credit: "1896 illustration (Public domain)", license: "Public domain",
     licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Prisoner-Adwa.jpg"
+  },
+  "hair-fulani": {
+    dir: "hair-fulani", ext: "jpg", widths: [480, 768],
+    alt: "1887 studio photograph of a Fulani (Peul) woman from Senegal",
+    title: "Fulani, Senegal, 1887",
+    caption: "A Fulani (Peul) woman photographed in Senegal in 1887 - long braids and ornaments worn as markers of identity and status.",
+    credit: "Bonnevide / Hostalier, 1887 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:2_phot._de_types_peul_du_S%C3%A9n%C3%A9gal,_par_Bonnevide,_phot._%C3%A0_Paris,_don_E._Caminade_en_1887_-_btv1b7702089z_(1_of_2).jpg"
+  },
+  "hair-amz-king": {
+    dir: "hair-amz-king", ext: "jpg", widths: [400, 640, 960],
+    alt: "Portrait of King Yuhi V Musinga of Rwanda, 1910s",
+    title: "King Yuhi V Musinga, 1910s",
+    caption: "King Yuhi V Musinga of Rwanda (r. 1896-1931). Rwandan royal and warrior coiffures such as Amasunzu signalled rank and dignity.",
+    credit: "Unknown photographer, 1910s (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:YuhiVMusinga.jpg"
+  },
+  "hair-amz-herdsman": {
+    dir: "hair-amz-herdsman", ext: "jpg", widths: [400],
+    alt: "Historical portrait of a Rwandan Tutsi herdsman",
+    title: "Rwandan herdsman",
+    caption: "A Rwandan herdsman - the sculpted Amasunzu crest, worn by both men and women, marked age, status and dignity.",
+    credit: "Rwanda Library (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Tutsi_herdsman.jpg"
+  },
+  "hair-congo-weave": {
+    dir: "hair-congo-weave", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Photograph of elaborate African hairstyling in the Congo, about 1900 to 1915",
+    title: "Elaborate styling, Congo c.1900-1915",
+    caption: "Elaborate coiffure in the Congo, c.1900-1915: sectioned, woven and sculpted hair as a fine art of adornment.",
+    credit: "Congo mission photograph, c.1900-1915 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Elaborate_hairstyling,_Congo,_ca._1900-1915_(IMP-CSCNWW33-OS11-13).jpg"
+  },
+  "hair-congo-braid": {
+    dir: "hair-congo-braid", ext: "jpg", widths: [400, 640, 900],
+    alt: "Photograph of a woman with braided hair in the Congo, about 1900 to 1915",
+    title: "Braided hair, Congo c.1900-1915",
+    caption: "A woman with braided hair in the Congo, c.1900-1915 - coiled and plaited styles with deep regional roots.",
+    credit: "Congo mission photograph, c.1900-1915 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Woman_with_braided_hair,_Congo,_ca._1900-1915_(IMP-CSCNWW33-OS11-19).jpg"
+  },
+  "hair-mangbetu": {
+    dir: "hair-mangbetu", ext: "jpg", widths: [400, 640, 900],
+    alt: "Photograph of a Mangbetu woman with an elaborate coiffure",
+    title: "Mangbetu coiffure",
+    caption: "A Mangbetu woman's towering coiffure, photographed by Kazimierz Zagorski - hair as a mark of beauty and identity in Central Africa.",
+    credit: "Kazimierz Zagorski (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Mangbetu_coiffure_de_Kazimierz_Zag%C3%B3rski.jpg"
+  },
+  "hair-himba": {
+    dir: "hair-himba", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Himba herders in northern Namibia",
+    title: "Himba herders, Namibia",
+    caption: "Himba herders in north-west Namibia, their hair and bodies dressed with otjize - a paste of butterfat and red ochre.",
+    credit: "Hans Stieglitz (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg"
+  },
+  "hair-himba-otjize": {
+    dir: "hair-himba-otjize", ext: "jpg", widths: [400, 640, 900],
+    alt: "Himba woman applying otjize ochre paste to her hair",
+    title: "Dressing the hair with otjize",
+    caption: "A Himba woman applies otjize, the butterfat-and-ochre paste that colours and protects the hair and skin.",
+    credit: "Josep M. Gracia, 2007 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Himba_woman_applying_otjize_to_her_body_in_northern_Namibia,_2007.jpg"
   }
 };
