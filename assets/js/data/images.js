@@ -1202,5 +1202,86 @@ window.UnbrokenImages = {
     credit: "Wario2 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     source: "https://commons.wikimedia.org/wiki/File:Rabih_az-Zubayr_1896.png"
+  },
+  "ad-hero": {
+    dir: "ad-hero", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Illustration of Emperor Menelik II at the head of his army in 1896",
+    title: "Menelik at the head of his army",
+    caption: "Emperor Menelik II at the head of his army in 1896 - the ruler who led a modernising empire into war.",
+    credit: "1896 illustration (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Menelik_at_the_head_of_his_army.jpg"
+  },
+  "ad-menelik": {
+    dir: "ad-menelik", ext: "jpg", widths: [400, 600, 800],
+    alt: "Formal portrait of Emperor Menelik II of Ethiopia",
+    title: "Emperor Menelik II",
+    caption: "Emperor Menelik II (r. 1889-1913), who repudiated the Treaty of Wuchale and built an army equipped with modern arms.",
+    credit: "Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Emperor_Menelik_II.png"
+  },
+  "ad-crispi": {
+    dir: "ad-crispi", ext: "jpg", widths: [400, 490],
+    alt: "Portrait of Francesco Crispi, prime minister of Italy",
+    title: "Francesco Crispi",
+    caption: "Francesco Crispi, the Italian prime minister whose government sought an empire in the Horn of Africa.",
+    credit: "Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Francesco_Crispi_(1).jpg"
+  },
+  "ad-baratieri": {
+    dir: "ad-baratieri", ext: "jpg", widths: [400, 600, 800],
+    alt: "Portrait of General Oreste Baratieri in uniform",
+    title: "General Oreste Baratieri",
+    caption: "General Oreste Baratieri, commander of Italy's forces in Eritrea, whose divided attack at Adwa ended in disaster.",
+    credit: "Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:General_Oreste_Baratieri.png"
+  },
+  "ad-army": {
+    dir: "ad-army", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Illustration of the Ethiopian army crossing the Awash river in 1896",
+    title: "The army crosses the Awash",
+    caption: "The Ethiopian army on the march in 1896, crossing the Awash - a host gathered from across the empire.",
+    credit: "J. G. Vanderheym (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Ethiopian_army_crosses_Awash.jpg"
+  },
+  "ad-taytu": {
+    dir: "ad-taytu", ext: "jpg", widths: [400, 600, 800],
+    alt: "Portrait of Empress Taytu Betul of Ethiopia",
+    title: "Empress Taytu Betul",
+    caption: "Empress Taytu Betul, Menelik's wife and a decisive force in the war - urging resistance and commanding her own contingent.",
+    credit: "Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Taytu_Betul.jpg"
+  },
+  "ad-map": {
+    dir: "ad-map", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Sketch map of the battlefield of Adwa",
+    title: "The battlefield of Adwa",
+    caption: "A sketch of the battlefield of Adwa - the broken mountain ground that split Baratieri's columns on the night march.",
+    credit: "B. Melli, La Colonia Eritrea (1899) - Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Schizzo_del_campo_di_battaglia_d%27Adua_(Melli,_La_colonia_eritrea,_1899).jpg"
+  },
+  "ad-battle": {
+    dir: "ad-battle", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Detail of a painting of the Battle of Adwa showing Ethiopian and Italian troops fighting",
+    title: "The Battle of Adwa in paint",
+    caption: "The Battle of Adwa as later painted in Italy - the clash that ended, within hours, in the destruction of the Italian army.",
+    credit: "Photo by A. Davey (CC BY 2.0)", license: "CC BY 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Detail,_%22Battle_of_Adwa%22_(2141842256).jpg"
+  },
+  "ad-prisoners": {
+    dir: "ad-prisoners", ext: "jpg", widths: [480, 740],
+    alt: "Illustration of Italian prisoners after the Battle of Adwa",
+    title: "Italian prisoners",
+    caption: "Italian prisoners in Ethiopian hands after Adwa - thousands were captured, and Italy sued for peace.",
+    credit: "1896 illustration (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Prisoner-Adwa.jpg"
   }
 };

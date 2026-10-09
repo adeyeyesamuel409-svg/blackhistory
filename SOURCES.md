@@ -181,6 +181,13 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **The nineteenth century, al-Kanemi and the Shehus.** Louis Brenner, *The Shehus of Kukawa*; Ronald Cohen, *The Kanuri of Bornu*.
 - **The end: Rabih, Kousséri and partition.** Colonial-era records and the accounts of the 1893–1900 conquest; dates and figures for the late period are approximate.
 
+## Deep dive — The Battle of Adwa (1896)
+- **The Ethiopian royal chronicle of Menelik II.** Gäbrä Sǝllase, *Chronique du règne de Ménélik II, roi des rois d'Éthiopie*, ed. & trans. Maurice de Coppet (2 vols., 1930–31).
+- **The treaties.** The Treaty of Wuchale (Uccialli), 1889 — with the divergent Italian and Amharic texts over Article 17 — and the Treaty of Addis Ababa, October 1896.
+- **Italian campaign accounts.** Oreste Baratieri, *Memorie d'Africa (1892–1896)* (1898); G. F. Berkeley, *The Campaign of Adowa and the Rise of Menelik* (1902).
+- **Modern scholarship.** Raymond Jonas, *The Battle of Adwa: African Victory in the Age of Empire* (2011); Bahru Zewde, *A History of Modern Ethiopia, 1855–1991*; Richard Pankhurst, *The Ethiopians*.
+- **Casualty figures.** Estimates of the forces engaged and the dead vary widely between sources; this page gives them as approximations and flags where they are contested.
+
 ---
 
 ### Image credits & licenses
@@ -320,6 +327,15 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **The Shehu of Bornu** — The National Archives UK (No known restrictions). https://commons.wikimedia.org/wiki/File:Shehu_of_Bornu.jpg
 - **Kukawa, 1891** — P.-L. Monteil (Public domain). https://commons.wikimedia.org/wiki/File:Kukawa_in_1891.jpg
 - **Rabih az-Zubayr** — Wario2 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Rabih_az-Zubayr_1896.png
+- **Menelik at the head of his army** — 1896 illustration (Public domain). https://commons.wikimedia.org/wiki/File:Menelik_at_the_head_of_his_army.jpg
+- **Emperor Menelik II** — Photographer unknown (Public domain). https://commons.wikimedia.org/wiki/File:Emperor_Menelik_II.png
+- **Francesco Crispi** — Photographer unknown (Public domain). https://commons.wikimedia.org/wiki/File:Francesco_Crispi_(1).jpg
+- **General Oreste Baratieri** — Photographer unknown (Public domain). https://commons.wikimedia.org/wiki/File:General_Oreste_Baratieri.png
+- **The Ethiopian army crosses the Awash** — J. G. Vanderheym (Public domain). https://commons.wikimedia.org/wiki/File:Ethiopian_army_crosses_Awash.jpg
+- **Empress Taytu Betul** — Photographer unknown, 1896 (Public domain). https://commons.wikimedia.org/wiki/File:Taytu_Betul.jpg
+- **Sketch of the battlefield of Adwa** — Beniamino Melli, *La Colonia Eritrea* (1899) (Public domain). https://commons.wikimedia.org/wiki/File:Schizzo_del_campo_di_battaglia_d%27Adua_(Melli,_La_colonia_eritrea,_1899).jpg
+- **The Battle of Adwa (detail of a painting)** — photo by A. Davey (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Detail,_%22Battle_of_Adwa%22_(2141842256).jpg
+- **Italian prisoners after Adwa** — 1896 illustration (Public domain). https://commons.wikimedia.org/wiki/File:Prisoner-Adwa.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.
