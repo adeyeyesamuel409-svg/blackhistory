@@ -77,6 +77,15 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Interactive Atlas — Independence
+- **Independence years for all 54 African nations.** Standard decolonisation chronology, cross-checked against Cooper, *Africa Since 1940*; Birmingham, *The Decolonization of Africa*; and the African Union member-state record.
+- **Ethiopia — never colonised; Battle of Adwa (1896).** Jonas, *The Battle of Adwa*; brief Italian occupation 1936–41.
+- **Liberia — declared independence 1847.** American Colonization Society records; Levitt, *The African Colonization Movement*.
+- **Western Sahara — non-self-governing territory.** UN list of Non-Self-Governing Territories.
+- **Country boundaries** — Africa GeoJSON from the *click_that_hood* project, derived from Natural Earth (public domain).
+
+---
+
 ### Image, map & library attribution
 - Map tiles and data © OpenStreetMap contributors © CARTO.
 - Fonts via Google Fonts (Cinzel, Inter, JetBrains Mono) under the SIL Open Font License.

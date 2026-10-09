@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Atlas of Independence — Every African Nation | UNBROKEN</title>
+  <meta name="description" content="An interactive map of all 54 African nations and the year each won independence — from Liberia in 1847 to South Sudan in 2011." />
+  <meta name="theme-color" content="#0a0908" />
+  <meta property="og:type" content="article" />
+  <link rel="canonical" href="https://adeyeyesamuel409-svg.github.io/blackhistory/independence.html" />
+  <meta property="og:title" content="The Atlas of Independence | UNBROKEN" />
+  <meta property="og:description" content="Every African nation, one map — the year each won its freedom." />
+  <meta property="og:image" content="https://adeyeyesamuel409-svg.github.io/blackhistory/assets/img/og-default.png" />
+  <meta property="og:url" content="https://adeyeyesamuel409-svg.github.io/blackhistory/independence.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="cf-beacon-token" content="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/leaflet.css" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <style>
+    #africa-map { height: min(74vh, 660px); border-radius: var(--radius); border: 1px solid var(--gold-line); background: #0d0c0b; }
+    .leaflet-container { background: #0d0c0b; font-family: var(--font-body); }
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #17130f; color: var(--ink); border: 1px solid var(--gold-line); }
+    .legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+    .legend-item { display: inline-flex; align-items: center; gap: 8px; background: none; border: 1px solid var(--gold-line); border-radius: 999px; padding: 5px 12px; color: var(--ink); cursor: pointer; font: inherit; font-size: 0.78rem; }
+    .legend-item.active { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+    .legend-item .swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+    .bar-row { display: grid; grid-template-columns: minmax(120px, auto) 1fr auto; align-items: center; gap: 12px; padding: 6px 0; }
+    .bar-track { height: 10px; background: rgba(255,255,255,.06); border-radius: 6px; overflow: hidden; display: block; }
+    .bar-fill { height: 100%; display: block; border-radius: 6px; }
+    .table-scroll { max-height: 460px; overflow-y: auto; }
+    table.ind { width: 100%; border-collapse: collapse; }
+    table.ind th, table.ind td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--gold-line); }
+    table.ind th { position: sticky; top: 0; background: #14110d; font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; }
+    table.ind th:nth-child(2), table.ind td:nth-child(2) { text-align: right; white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <nav class="nav">
+    <a class="nav-brand" href="index.html"><span class="dot"></span><span class="gold-text">UNBROKEN</span></a>
+    <div class="nav-links">
+      <a href="genesis.html">Origins</a>
+      <a href="kemet.html">Kemet</a>
+      <a href="kingdoms.html">Kingdoms</a>
+      <a href="trade.html">Trade</a>
+      <a href="slavery.html">Slavery</a>
+      <a href="colonialism.html">Colonialism</a>
+      <a href="independence.html">Independence</a>
+      <a href="culture.html">Culture</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><i data-lucide="menu"></i></button>
+  </nav>
+
+  <header class="section wrap" style="padding-top:150px">
+    <span class="badge reveal"><i data-lucide="map" style="width:15px;height:15px"></i> Atlas · Interactive</span>
+    <h1 class="reveal mt-6" style="font-size:clamp(2.2rem,6vw,4rem)">Independence, <span class="gold-text">nation by nation</span></h1>
+    <p class="lead reveal mt-4" style="max-width:72ch">
+      Fifty-four nations, one continent, and the year each won its freedom. Tap a country to see the year it became
+      independent and the power it broke from — from Liberia in 1847 to South Sudan in 2011.
+    </p>
+  </header>
+
+  <section class="section wrap" style="padding-top:0">
+    <div class="grid grid-4" id="stat-row"></div>
+  </section>
+
+  <section class="section wrap" style="padding-top:0">
+    <div class="card reveal">
+      <span class="kicker">The whole continent</span>
+      <h2 class="gold-text mb-4" style="font-size:clamp(1.3rem,3vw,1.8rem)">Every nation and its independence year</h2>
+      <div id="africa-map"></div>
+      <div class="legend" id="legend" role="group" aria-label="Filter by era"></div>
+      <p class="tiny faint mt-4">Colours mark the era of independence. Click a legend swatch to highlight an era. Grey areas are territories that are not independent states.</p>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="grid" style="grid-template-columns:1fr 1fr; gap:34px">
+      <div class="reveal">
+        <span class="kicker">By the decade</span>
+        <h2 class="gold-text mb-4" style="font-size:clamp(1.4rem,3.2vw,1.9rem)">The 1960 wave</h2>
+        <p class="dim small mb-4">Seventeen nations became independent in 1960 alone — a single year that reshaped the map of Africa more than any other.</p>
+        <div id="breakdown"></div>
+      </div>
+      <div class="card reveal">
+        <span class="kicker">Read the map</span>
+        <h2 class="gold-text mb-4" style="font-size:clamp(1.4rem,3.2vw,1.9rem)">Exceptions worth knowing</h2>
+        <p class="small dim"><strong class="gold-text">Ethiopia</strong> was never colonised — it crushed an Italian invasion at Adwa in 1896, though it was occupied from 1936 to 1941.</p>
+        <p class="small dim mt-4"><strong class="gold-text">Liberia</strong>, founded by the American Colonization Society, declared independence in 1847 and is Africa's oldest republic.</p>
+        <p class="small dim mt-4"><strong class="gold-text">South Africa</strong> was a self-governing dominion from 1910, but only won full democracy with the end of apartheid in 1994.</p>
+        <p class="small dim mt-4"><strong class="gold-text">Western Sahara</strong> remains a disputed, non-self-governing territory, and <strong class="gold-text">R&eacute;union</strong> is an overseas department of France.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="card reveal">
+      <span class="kicker">The complete list</span>
+      <h2 class="gold-text mb-4" style="font-size:clamp(1.3rem,3vw,1.8rem)">All 54 nations, in order</h2>
+      <div class="table-scroll">
+        <table class="ind">
+          <thead><tr><th>Nation</th><th>Year</th><th>Former power</th></tr></thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-grid">
+      <div>
+        <div class="nav-brand mb-4"><span class="dot"></span><span class="gold-text">UNBROKEN</span></div>
+        <p class="small dim">Interactive Atlas — Independence.</p>
+      </div>
+      <div>
+        <h4 class="small gold-text">Explore</h4>
+        <a href="colonialism.html">Colonialism</a><a href="slavery.html">Slavery</a><a href="kingdoms.html">Kingdoms</a><a href="index.html">Home</a>
+      </div>
+      <div>
+        <h4 class="small gold-text">Project</h4>
+        <a href="SOURCES.html">Sources</a>
+        <a href="#" data-share data-share-title="The Atlas of Independence — UNBROKEN">Share this page</a>
+      </div>
+    </div>
+    <div class="wrap center mt-8"><p class="tiny faint">© <span data-year>2026</span> UNBROKEN Digital Heritage Initiative · Facts cited in <a href="SOURCES.html" style="display:inline;color:var(--gold)">Sources</a>.</p></div>
+  </footer>
+
+  <script src="assets/js/vendor/leaflet.js"></script>
+  <script src="assets/js/vendor/lucide.js"></script>
+  <script src="assets/js/data/history.js"></script>
+  <script src="assets/js/data/africa.js"></script>
+  <script src="assets/data/africa.geojson.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (function () {
+      if (!window.UnbrokenAfrica || !window.UnbrokenAfricaGeo || !window.L) return;
+      var D = window.UnbrokenAfrica;
+      var geo = window.UnbrokenAfricaGeo;
+      var esc = function (s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); };
+
+      function lookup(name) {
+        if (D.countries[name]) return { d: D.countries[name], member: true };
+        if (D.nonMembers[name]) return { d: D.nonMembers[name], member: false };
+        return null;
+      }
+      function bucketFor(d) {
+        if (!d) return null;
+        if (d.year === null) return D.buckets[0];
+        for (var i = 0; i < D.buckets.length; i++) {
+          if (d.year >= D.buckets[i].min && d.year <= D.buckets[i].max) return D.buckets[i];
+        }
+        return D.buckets[D.buckets.length - 1];
+      }
+      function yearText(d) { return d.year === null ? (d.label || "—") : String(d.year); }
+      function popupHtml(r) {
+        var d = r.d;
+        return '<strong style="color:#f3e5ab">' + esc(d.display) + '</strong><br>' +
+          '<span style="color:#c5a059">' + esc(yearText(d)) + '</span>' +
+          (d.former && d.former !== "—" ? '<br><span class="tiny">From: ' + esc(d.former) + '</span>' : '') +
+          (d.note ? '<br><span class="tiny dim">' + esc(d.note) + '</span>' : '');
+      }
+
+      document.getElementById("stat-row").innerHTML = D.stats.map(function (s) {
+        return '<div class="card reveal center"><div class="stat-big gold-text">' + s.value + '</div><p class="small dim" style="margin:6px 0 0">' + s.label + "</p></div>";
+      }).join("");
+
+      document.getElementById("legend").innerHTML = D.buckets.map(function (b, i) {
+        return '<button class="legend-item" data-idx="' + i + '" type="button"><span class="swatch" style="background:' + b.color + '"></span>' + b.label + "</button>";
+      }).join("");
+
+      var counts = D.buckets.map(function (b) {
+        return Object.keys(D.countries).reduce(function (n, k) {
+          return n + (bucketFor(D.countries[k]) === b ? 1 : 0);
+        }, 0);
+      });
+      var max = Math.max.apply(null, counts.concat([1]));
+      document.getElementById("breakdown").innerHTML = D.buckets.map(function (b, i) {
+        var pct = Math.round((counts[i] / max) * 100);
+        return '<div class="bar-row"><span class="small dim">' + b.label + '</span>' +
+          '<span class="bar-track"><span class="bar-fill" style="width:' + pct + '%;background:' + b.color + '"></span></span>' +
+          '<span class="mono gold-text">' + counts[i] + "</span></div>";
+      }).join("");
+
+      var rows = Object.keys(D.countries).map(function (k) { return D.countries[k]; }).sort(function (a, b) {
+        var ay = a.year === null ? -1 : a.year, by = b.year === null ? -1 : b.year;
+        return ay - by || a.display.localeCompare(b.display);
+      });
+      document.getElementById("table-body").innerHTML = rows.map(function (d) {
+        return "<tr><td>" + esc(d.display) + '</td><td class="mono gold-text">' + esc(yearText(d)) + '</td><td class="small dim">' + esc(d.former) + "</td></tr>";
+      }).join("");
+
+      var map = L.map("africa-map", { scrollWheelZoom: false, minZoom: 2 }).setView([3, 20], 3);
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+        attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+      }).addTo(map);
+
+      var activeBucket = -1;
+      function baseFill(name) {
+        var r = lookup(name);
+        if (!r) return "#2a2622";
+        if (!r.member) return "#4a4442";
+        var b = bucketFor(r.d);
+        return b ? b.color : "#2a2622";
+      }
+      function applyStyle(layer) {
+        var dim = activeBucket >= 0 && layer._b !== D.buckets[activeBucket];
+        layer.setStyle({
+          color: "#0a0908",
+          weight: dim ? 0.6 : 1,
+          fillColor: baseFill(layer.feature.properties.name),
+          fillOpacity: dim ? 0.1 : 0.86
+        });
+      }
+
+      var geojsonLayer = L.geoJSON(geo, {
+        style: function (f) { return { color: "#0a0908", weight: 1, fillColor: baseFill(f.properties.name), fillOpacity: 0.86 }; },
+        onEachFeature: function (f, layer) {
+          var r = lookup(f.properties.name);
+          layer._r = r;
+          layer._b = r && r.member ? bucketFor(r.d) : null;
+          if (r) {
+            layer.bindTooltip(esc(r.d.display) + " · " + esc(yearText(r.d)), { sticky: true });
+            layer.bindPopup(popupHtml(r));
+            layer.on({
+              mouseover: function () { layer.setStyle({ weight: 1.8, color: "#f3e5ab", fillOpacity: r.member ? 0.95 : 0.6 }); },
+              mouseout: function () { applyStyle(layer); },
+              click: function () { layer.openPopup(); }
+            });
+          }
+        }
+      }).addTo(map);
+      map.fitBounds(geojsonLayer.getBounds(), { padding: [12, 12] });
+
+      document.getElementById("legend").querySelectorAll(".legend-item").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var i = Number(btn.getAttribute("data-idx"));
+          activeBucket = activeBucket === i ? -1 : i;
+          document.getElementById("legend").querySelectorAll(".legend-item").forEach(function (b, j) {
+            b.classList.toggle("active", j === activeBucket);
+          });
+          geojsonLayer.eachLayer(applyStyle);
+        });
+      });
+
+      setTimeout(function () { map.invalidateSize(); }, 300);
+      if (window.lucide) window.lucide.createIcons();
+    })();
+  </script>
+</body>
+</html>
