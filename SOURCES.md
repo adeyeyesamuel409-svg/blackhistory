@@ -86,6 +86,21 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Volume IV — Science, technology & knowledge
+- **Ishango bone (c. 20,000 BP) and Lebombo bone (c. 42,000 BP)** — de Heinzelin, *"Ishango"*, **Scientific American** (1962); Marshack, *The Roots of Civilization* (1972). The famous lunar-calendar reading is debated and often regarded as a tally.
+- **Nabta Playa archaeoastronomy (c. 5,000 BCE)** — Wendorf & Schild, *Holocene Settlement of the Egyptian Sahara*; Brophy & Rosen on the calendar circle's solstice alignment.
+- **Edwin Smith and Ebers papyri** — Breasted, *The Edwin Smith Surgical Papyrus* (1930); Ebbell, *The Papyrus Ebers*; digitised holdings of the U.S. National Library of Medicine.
+- **Nok culture and early West African iron** — Breunig, *Nok: African Sculpture in Archaeological Context*. The age and independence of West African ironworking remain actively debated.
+- **Haya (Tanzania) pre-heated furnaces / carbon steel (c. 1,500–2,000 BP)** — Schmidt & Avery, *"Complex Iron Smelting and Prehistoric Culture in Tanzania"*, **Science** 201 (1978).
+- **Timbuktu manuscripts (astronomy, mathematics, medicine, law)** — UNESCO; Ahmed Baba Institute; Hunwick, *Timbuktu and the Songhay Empire*; Timbuktu Manuscripts Project.
+- **Rock-hewn churches of Lalibela; Old Towns of Djenné; Great Zimbabwe** — UNESCO World Heritage listings.
+- **Ge'ez, Tifinagh, Nsibidi, Ajami, Vai and Meroitic scripts** — standard script references; UNESCO documentation of Nsibidi; Rilly on Meroitic.
+- **Swahili dhows and monsoon navigation** — Horton & Middleton, *The Swahili*; UNESCO (Kilwa Kisiwani, Lamu Old Town).
+- **Egyptian quarrying, obelisks and engineering** — Lehner, *The Complete Pyramids*; the Unfinished Obelisk at Aswan (Egyptian Ministry of Antiquities).
+- **Geometry and fractals in African design** — Eglash, *African Fractals: Modern Computing and Indigenous Design* (1999).
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -134,6 +149,19 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Himba otjize** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
 - **Maasai beadwork** — Cecilia Nkini (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Maasai_beadwork.jpg
 - **Adire indigo** — Tunde Akangbe (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg
+- **The Ishango bone** — Claire H. (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Ishango_Bone.jpg
+- **The Nabta Playa calendar** — Raymbetz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG
+- **The Edwin Smith papyrus** — Jeff Dahl; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg
+- **The Ebers papyrus** — Wellcome Collection (CC BY 4.0). https://commons.wikimedia.org/wiki/File:Tafel_LV_from_reproduction_of_Ebers_Papyrus_Wellcome_L0002145.jpg
+- **Nok kneeling figure** — Hiart; Honolulu Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Kneeling_figure,_Nok_culture,_terracotta,_Honolulu_Museum_of_Art,_8348.1.JPG
+- **The Great Mosque of Djenné** — Dr. Ondřej Havelka (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:The_Great_Clay_Mosque_in_Djenne,_Mali.jpg
+- **Rock-hewn church, Lalibela** — Radosław Botev (CC BY 3.0 pl). https://commons.wikimedia.org/wiki/File:Rock-Hewn_Churches,_Lalibela_Ethiopia_(1).jpg
+- **Ge'ez Gospel leaf** — Cleveland Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Clevelandart_1999.212.jpg
+- **The Tifinagh script** — Kwamikagami; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Tifinagh_abjad.png
+- **Nsibidi symbols** — Jujuman778 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Bamboo_Nsibidi_Scroll.jpg
+- **A Swahili dhow, Lamu** — Elena.laps (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Traditional_dhow_sailboat_in_Lamu,_Kenya.jpg
+- **Timbuktu manuscript on the stars** — Library of Congress / World Digital Library (Public domain). https://commons.wikimedia.org/wiki/File:Knowledge_of_the_Movement_of_the_Stars_and_What_It_Portends_in_Every_Year_WDL463.jpg
+- **The unfinished obelisk, Aswan** — Olaf Tausch (CC BY 3.0). https://commons.wikimedia.org/wiki/File:Assuan_Unvollendeter_Obelisk_35.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

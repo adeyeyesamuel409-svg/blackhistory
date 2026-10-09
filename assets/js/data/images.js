@@ -401,5 +401,122 @@ window.UnbrokenImages = {
     credit: "Tunde Akangbe (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg"
+  },
+  "sci-ishango": {
+    dir: "sci-ishango", ext: "jpg", widths: [400, 640, 900],
+    alt: "The Ishango bone, a notched baboon fibula from the Democratic Republic of the Congo",
+    title: "The Ishango bone",
+    caption: "A notched bone from Ishango (DRC), about 20,000 years old — among the oldest known tallying or counting objects, though its exact meaning is debated.",
+    credit: "Claire H. (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Ishango_Bone.jpg"
+  },
+  "sci-nabta": {
+    dir: "sci-nabta", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The stone calendar circle at Nabta Playa in the Egyptian Sahara",
+    title: "The Nabta Playa calendar",
+    caption: "A stone circle at Nabta Playa in Egypt's Western Desert, aligned to the summer solstice — one of the world's earliest known archaeoastronomy sites.",
+    credit: "Raymbetz (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG"
+  },
+  "sci-edwinsmith": {
+    dir: "sci-edwinsmith", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A reproduction of the Edwin Smith surgical papyrus of ancient Egypt",
+    title: "The Edwin Smith papyrus",
+    caption: "The Edwin Smith papyrus (c. 1600 BCE) describes the examination, diagnosis and treatment of injuries across 48 cases — with the earliest known descriptions of the brain and spinal cord.",
+    credit: "Jeff Dahl; via Wikimedia Commons", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg"
+  },
+  "sci-ebers": {
+    dir: "sci-ebers", ext: "jpg", widths: [400, 640, 900],
+    alt: "A page from a reproduction of the Ebers papyrus, an ancient Egyptian medical text",
+    title: "The Ebers papyrus",
+    caption: "The Ebers papyrus (c. 1550 BCE), one of the oldest surviving medical texts, compiles hundreds of remedies and early accounts of treating wounds and tumours.",
+    credit: "Wellcome Collection (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Tafel_LV_from_reproduction_of_Ebers_Papyrus_Wellcome_L0002145.jpg"
+  },
+  "sci-nok": {
+    dir: "sci-nok", ext: "jpg", widths: [400, 640, 900],
+    alt: "A kneeling terracotta figure from the Nok culture of Nigeria",
+    title: "Nok kneeling figure",
+    caption: "A kneeling terracotta figure of the Nok culture (Nigeria). The Nok, associated with some of the earliest iron smelting in West Africa, flourished from roughly 1500 BCE to 500 CE.",
+    credit: "Hiart; Honolulu Museum of Art (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Kneeling_figure,_Nok_culture,_terracotta,_Honolulu_Museum_of_Art,_8348.1.JPG"
+  },
+  "sci-djenne": {
+    dir: "sci-djenne", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The Great Mosque of Djenné in Mali, a large adobe building with conical towers",
+    title: "The Great Mosque of Djenné",
+    caption: "The Great Mosque of Djenné (current form 1907) is the largest adobe building in the world — Sudano-Sahelian architecture whose wooden toron supports are renewed at an annual festival.",
+    credit: "Dr. Ondřej Havelka (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:The_Great_Clay_Mosque_in_Djenne,_Mali.jpg"
+  },
+  "sci-lalibela": {
+    dir: "sci-lalibela", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A rock-hewn church at Lalibela in Ethiopia, carved down from solid rock",
+    title: "Rock-hewn church, Lalibela",
+    caption: "The eleven rock-hewn churches of Lalibela, Ethiopia (12th–13th century), were excavated downward from solid volcanic rock as a symbolic 'New Jerusalem'.",
+    credit: "Radosław Botev (CC BY 3.0 pl)", license: "CC BY 3.0 pl",
+    licenseUrl: "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    source: "https://commons.wikimedia.org/wiki/File:Rock-Hewn_Churches,_Lalibela_Ethiopia_(1).jpg"
+  },
+  "sci-geez": {
+    dir: "sci-geez", ext: "jpg", widths: [400, 640, 900],
+    alt: "A leaf from a 15th-century Ethiopian Gospel book written in the Ge'ez script",
+    title: "Ge'ez Gospel leaf",
+    caption: "A leaf from a 15th-century Ethiopian Gospel book. Ge'ez, still used in Ethiopian and Eritrean liturgy, is among the world's oldest continuously used writing systems.",
+    credit: "Cleveland Museum of Art (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Clevelandart_1999.212.jpg"
+  },
+  "sci-tifinagh": {
+    dir: "sci-tifinagh", ext: "png", widths: [400, 640, 900],
+    alt: "A chart of the Tifinagh abjad, the script of the Amazigh (Berber) peoples",
+    title: "The Tifinagh script",
+    caption: "Tifinagh, the script of the Amazigh (Berber) peoples of North Africa, descends from ancient Libyco-Berber inscriptions and is still used by Tuareg communities.",
+    credit: "Kwamikagami; via Wikimedia Commons", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Tifinagh_abjad.png"
+  },
+  "sci-nsibidi": {
+    dir: "sci-nsibidi", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A bamboo scroll bearing Nsibidi symbols, an indigenous writing system of south-eastern Nigeria",
+    title: "Nsibidi symbols",
+    caption: "Nsibidi, an indigenous symbol script of the Ejagham and Igbo peoples of south-eastern Nigeria, recorded on bamboo, cloth and skin and used by the Ekpe society.",
+    credit: "Jujuman778 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Bamboo_Nsibidi_Scroll.jpg"
+  },
+  "sci-dhow": {
+    dir: "sci-dhow", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A traditional Swahili dhow with a lateen sail at Lamu, Kenya",
+    title: "A Swahili dhow, Lamu",
+    caption: "A dhow with a lateen sail at Lamu, Kenya. Such craft rode the monsoon winds that linked East Africa to Arabia, Persia, India and China for over a millennium.",
+    credit: "Elena.laps (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Traditional_dhow_sailboat_in_Lamu,_Kenya.jpg"
+  },
+  "sci-astronomy": {
+    dir: "sci-astronomy", ext: "jpg", widths: [400, 640, 900],
+    alt: "A Timbuktu manuscript page on the movements of the stars",
+    title: "Timbuktu manuscript on the stars",
+    caption: "A Timbuktu manuscript on the movements of the stars. Scholars in Timbuktu advanced astronomy, mathematics, medicine and law, working from manuscripts copied and traded across the Sahel.",
+    credit: "Library of Congress / World Digital Library", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Knowledge_of_the_Movement_of_the_Stars_and_What_It_Portends_in_Every_Year_WDL463.jpg"
+  },
+  "sci-obelisk": {
+    dir: "sci-obelisk", ext: "jpg", widths: [400, 640, 900],
+    alt: "The unfinished obelisk at Aswan, Egypt, still attached to the bedrock",
+    title: "The unfinished obelisk, Aswan",
+    caption: "The unfinished obelisk at Aswan, abandoned in the quarry after a crack appeared — it reveals how Egyptian engineers carved, dressed and raised colossal stone.",
+    credit: "Olaf Tausch (CC BY 3.0)", license: "CC BY 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Assuan_Unvollendeter_Obelisk_35.jpg"
   }
 };
