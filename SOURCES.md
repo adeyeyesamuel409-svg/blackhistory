@@ -163,6 +163,16 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Deep dive — The Zanj Rebellion (869–883)
+- **The Zanj: East African peoples and the Indian Ocean slave trade.** al-Tabari, *History* (*Ta'rikh al-rusul wa'l-muluk*); al-Mas'udi, *Muruj al-dhahab* (*Meadows of Gold*); Popovic, *The Revolt of African Slaves in Iraq in the 3rd/9th Century*; Sheriff, *Slaves, Spices and Ivory in Zanzibar*; Horton & Middleton, *The Swahili*.
+- **Ali ibn Muhammad and the course of the revolt (869–883).** al-Tabari; al-Mas'udi.
+- **The sack of Basra (871) and the rebel state at al-Mukhtara.** al-Tabari; Talhami, “The Zanj Rebellion Reconsidered”, *International Journal of Middle East Studies* (1977); Waines, “The Third Century Internal Crisis of the Abbasids”, *JESHO* (1977).
+- **Al-Muwaffaq's campaign and the fall of the revolt (879–883).** al-Tabari; Bonner, *Jihad in Islamic History*.
+- **Numbers, dates and extent — approximate and disputed; the sources inflate freely.** Figures are given here as ranges, with uncertainty flagged.
+- **Anti-Black prejudice and al-Jahiz's defence of Africans.** al-Jahiz, *Fakhr al-Sudan 'ala al-Bidan*; Lewis, *Race and Slavery in the Middle East* (approach contested).
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -282,6 +292,15 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Map of the kingdoms of Angola, Matamba and Benguela, c. 1731** — British Library, King's Topographical Collection (No known restrictions). https://commons.wikimedia.org/wiki/File:Map_of_Angola,_Matamba_and_Benguela,_ca_1731.jpg
 - **Queen Ginga, hand-coloured lithograph (Ann Zingha)** — 19th-century lithograph (Public domain). https://commons.wikimedia.org/wiki/File:Ann_Zingha.jpg
 - **Statue of Queen Njinga, Luanda** — Erik Cleves Kristensen (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Nzingambande.jpg
+- **The Zanj rising** — Ahmad Barakizadeh (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Zanj_Rebellion_-_Thawrat_al-Zanj_-_by_Ahmad_Barakizadeh.jpg
+- **The Swahili coast / Omani Empire** — OER Project (CC BY 4.0). https://commons.wikimedia.org/wiki/File:Swahili_Coast_and_Omani_Empire.png
+- **Marsh Arabs in a mashoof** — Hassan Janali, U.S. Army Corps of Engineers (Public domain). https://commons.wikimedia.org/wiki/File:Marsh_Arabs_in_a_mashoof.jpg
+- **Basra (17th-century map)** — British Museum (Public domain). https://commons.wikimedia.org/wiki/File:Delineation_Regionis_-_Bassora_-_cum_-_Pagis..._(BM_1898,0725.8.1475).jpg
+- **Map of the Zanj rebellion** — Ro4444 (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Zanj_Rebellion.svg
+- **Al-Ahwaz, c. 875** — Ro4444 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Al-Ahwaz_ca._875.svg
+- **Al-Jahiz** — Public domain. https://commons.wikimedia.org/wiki/File:Al-Jahiz.jpg
+- **The Tigris and Euphrates** — Unknown (Public domain). https://commons.wikimedia.org/wiki/File:Tigre_et_Euphrate.jpg
+- **Map of the Islamic world by al-Istakhri** — al-Istakhri (Public domain). https://commons.wikimedia.org/wiki/File:Al_Istakhri_map.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

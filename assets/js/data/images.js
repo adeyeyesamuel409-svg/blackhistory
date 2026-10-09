@@ -1040,5 +1040,86 @@ window.UnbrokenImages = {
     credit: "Erik Cleves Kristensen (CC BY 2.0)", license: "CC BY 2.0",
     licenseUrl: "https://creativecommons.org/licenses/by/2.0",
     source: "https://commons.wikimedia.org/wiki/File:Nzingambande.jpg"
+  },
+  "zj-hero": {
+    dir: "zj-hero", ext: "jpg", widths: [400, 600, 800],
+    alt: "Modern painting depicting the Zanj Rebellion, the uprising of enslaved East Africans in ninth-century Iraq",
+    title: "The Zanj rising",
+    caption: "The Zanj rising - a modern imagining of the revolt by Ahmad Barakizadeh.",
+    credit: "Ahmad Barakizadeh (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Zanj_Rebellion_-_Thawrat_al-Zanj_-_by_Ahmad_Barakizadeh.jpg"
+  },
+  "zj-trade": {
+    dir: "zj-trade", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Map of the Swahili Coast and the Omani Empire along the East African seaboard",
+    title: "The Swahili coast",
+    caption: "The East African coast - the Swahili world from which the Zanj were carried across the Indian Ocean.",
+    credit: "OER Project (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Swahili_Coast_and_Omani_Empire.png"
+  },
+  "zj-marsh": {
+    dir: "zj-marsh", ext: "jpg", widths: [640, 960, 1280],
+    alt: "A marsh Arab poling a mashoof canoe through the marshes of southern Iraq",
+    title: "The marshes of southern Iraq",
+    caption: "The marshlands of southern Iraq - the environment in which the Zanj were forced to work, and in which they found refuge.",
+    credit: "Hassan Janali, U.S. Army Corps of Engineers (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Marsh_Arabs_in_a_mashoof.jpg"
+  },
+  "zj-bassora": {
+    dir: "zj-bassora", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Old engraved map of Basra and the surrounding region",
+    title: "Basra",
+    caption: "Basra, mapped in the seventeenth century. In 871 the Zanj rebels stormed the city and sacked it.",
+    credit: "British Museum (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Delineation_Regionis_-_Bassora_-_cum_-_Pagis..._(BM_1898,0725.8.1475).jpg"
+  },
+  "zj-map": {
+    dir: "zj-map", ext: "jpg", widths: [640, 900],
+    alt: "Map of southern Iraq showing the territory held by the Zanj rebels",
+    title: "The theatre of the revolt",
+    caption: "The Zanj rebellion, 869-883: the marshlands, Basra and the lands the rebels held around their capital al-Mukhtara.",
+    credit: "Ro4444 (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Zanj_Rebellion.svg"
+  },
+  "zj-ahwaz": {
+    dir: "zj-ahwaz", ext: "jpg", widths: [450],
+    alt: "Map of al-Ahwaz (Khuzistan) around 875 during the Zanj rebellion",
+    title: "Al-Ahwaz, c. 875",
+    caption: "The province of al-Ahwaz (Khuzistan), which the rebels overran at the height of their power.",
+    credit: "Ro4444 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Al-Ahwaz_ca._875.svg"
+  },
+  "zj-jahiz": {
+    dir: "zj-jahiz", ext: "jpg", widths: [400, 600, 800],
+    alt: "Portrait engraving of the Abbasid writer al-Jahiz",
+    title: "Al-Jahiz (c. 776-868)",
+    caption: "The Abbasid essayist al-Jahiz, who wrote in defence of Black Africans - a reminder that the Zanj lived in a society that both depended on and despised them.",
+    credit: "Public domain", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Al-Jahiz.jpg"
+  },
+  "zj-rivers": {
+    dir: "zj-rivers", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Historic map of the Tigris and Euphrates rivers and the land between them",
+    title: "The land between the rivers",
+    caption: "The Tigris and the Euphrates - the fertile, slave-worked heartland of Abbasid Iraq.",
+    credit: "Unknown (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Tigre_et_Euphrate.jpg"
+  },
+  "zj-istakhri": {
+    dir: "zj-istakhri", ext: "jpg", widths: [640, 960],
+    alt: "Tenth-century map of the Islamic world by the geographer al-Istakhri",
+    title: "The world of the caliphate",
+    caption: "The Islamic world as drawn by the geographer al-Istakhri in the tenth century - the empire the Zanj rose against.",
+    credit: "al-Istakhri (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Al_Istakhri_map.jpg"
   }
 };
