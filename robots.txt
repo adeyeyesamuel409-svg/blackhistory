@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_archive/
 
-Sitemap: https://YOUR-DOMAIN/sitemap.xml
+Sitemap: https://adeyeyesamuel409-svg.github.io/blackhistory/sitemap.xml
