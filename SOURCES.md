@@ -13,6 +13,10 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Omo Kibish, Ethiopia — c. 233,000 years ago.** McDougall et al., **Nature** 433 (2005).
 - **Herto, Ethiopia — c. 160,000 years ago.** White et al., **Nature** 423 (2003).
 - **Blombos Cave, South Africa — c. 100,000 years ago (ochre drawing).** Henshilwood et al., **Nature** 562 (2018).
+- **Blombos shell beads — c. 75,000 years ago (personal ornament).** d'Errico et al., *"Nassarius kraussianus shell beads from Blombos Cave"*, **Journal of Human Evolution** 48 (2005); Henshilwood et al., **Science** 295 (2002).
+- **Acheulean hand axes — from c. 1.7 million years ago (Africa).** Lepre et al., **Nature** 488 (2011); Klein, *The Human Career*.
+- **Aterian bone tools (Dar es-Soltan, Morocco) — c. 90,000 years ago.** Bouzouggar et al., *"90,000 year-old specialised bone technology in the Aterian Middle Stone Age of North Africa"*, **PLOS ONE** 13 (2018).
+- **Deepest human genetic diversity is in Africa; mitochondrial haplogroup L is the deepest-rooting.** Cann, Stoneking & Wilson, **Nature** 325 (1987); reviewed in Tishkoff et al., **Science** 324 (2009).
 
 ### Out of Africa (migrations)
 - **Misliya Cave, Israel — c. 180,000 years ago.** Hershkovitz et al., *"The earliest modern humans outside Africa"*, **Science** 359 (2018).
@@ -118,6 +122,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Herto (Idaltu) skull** — Alessandrosmerilli; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Homo_Sapiens_Idaltu.JPG
 - **Omo Kibish cranium** — GuillaumeG (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Omo_Kibish_-_MCN_4152.jpg
 - **Engraved ochre, Blombos Cave** — Chris S. Henshilwood (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Blombo.jpg
+- **Acheulean hand axe** — Daderot; Canterbury Museum (Public domain). https://commons.wikimedia.org/wiki/File:Acheulean_hand_axe,_c._450,000_years_before_present,_stone_-_Canterbury_Museum_-_Christchurch,_NZ_-_DSC02244.jpg
+- **Nassarius shell beads, Blombos Cave** — Chenshilwood (CC BY 2.5). https://commons.wikimedia.org/wiki/File:BBC-shell-beads.jpg
+- **Aterian bone tool, Dar es-Soltan** — Bouzouggar et al. (CC BY 4.0). https://commons.wikimedia.org/wiki/File:Specialised_bone_tool_in_the_Aterian_Middle_Stone_Age_of_North_Africa_90,000_year-old_Dar_es-Soltan.jpg
+- **San rock art, Cederberg** — Zaian (CC0). https://commons.wikimedia.org/wiki/File:Cederberg_rock_art_near_Stadsaal.jpg
 - **Cattle and herders in the Sahara** — IssamBarhoumi (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Daily_scene_with_cattle.jpg
 - **The pyramids of Giza** — Ricardo Liberato (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg
 - **The Narmer Palette** — Ancient Egyptian; photograph via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Narmer_palette_(obverse).jpg

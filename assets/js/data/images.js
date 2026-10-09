@@ -518,5 +518,41 @@ window.UnbrokenImages = {
     credit: "Olaf Tausch (CC BY 3.0)", license: "CC BY 3.0",
     licenseUrl: "https://creativecommons.org/licenses/by/3.0",
     source: "https://commons.wikimedia.org/wiki/File:Assuan_Unvollendeter_Obelisk_35.jpg"
+  },
+  "gen-handaxe": {
+    dir: "gen-handaxe", ext: "jpg", widths: [400, 640, 900],
+    alt: "An Acheulean stone hand axe, a teardrop-shaped tool worked on both faces",
+    title: "Acheulean hand axe",
+    caption: "An Acheulean hand axe (c. 450,000 years old), a deliberately shaped tool made on both faces — a technology that endured across Africa and beyond for over a million years.",
+    credit: "Daderot; Canterbury Museum (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Acheulean_hand_axe,_c._450,000_years_before_present,_stone_-_Canterbury_Museum_-_Christchurch,_NZ_-_DSC02244.jpg"
+  },
+  "gen-beads": {
+    dir: "gen-beads", ext: "jpg", widths: [400, 640],
+    alt: "Perforated Nassarius shell beads from Blombos Cave, South Africa",
+    title: "Shell beads, Blombos Cave",
+    caption: "Perforated Nassarius shell beads from Blombos Cave (c. 75,000 years ago) — among the earliest evidence of personal ornament, a marker of symbolic thought.",
+    credit: "Chenshilwood (CC BY 2.5)", license: "CC BY 2.5",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.5",
+    source: "https://commons.wikimedia.org/wiki/File:BBC-shell-beads.jpg"
+  },
+  "gen-bonetool": {
+    dir: "gen-bonetool", ext: "jpg", widths: [400, 640, 900],
+    alt: "A specialised bone tool from the Aterian Middle Stone Age of North Africa",
+    title: "Aterian bone tool",
+    caption: "A specialised bone tool from the Aterian industry at Dar es-Soltan, Morocco (c. 90,000 years ago) — evidence of varied toolkits across Middle Stone Age Africa.",
+    credit: "Bouzouggar et al. (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Specialised_bone_tool_in_the_Aterian_Middle_Stone_Age_of_North_Africa_90,000_year-old_Dar_es-Soltan.jpg"
+  },
+  "gen-sanrock": {
+    dir: "gen-sanrock", ext: "jpg", widths: [480, 800, 1280],
+    alt: "San (Bushman) rock paintings of human and animal figures in the Cederberg, South Africa",
+    title: "San rock art, Cederberg",
+    caption: "San rock paintings in the Cederberg, South Africa. The San and Khoikhoi carry some of the deepest-rooted linguistic and genetic lineages of living people.",
+    credit: "Zaian (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Cederberg_rock_art_near_Stadsaal.jpg"
   }
 };
