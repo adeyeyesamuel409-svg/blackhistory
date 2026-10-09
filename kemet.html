@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kemet &amp; Nubia — How the Pyramids Were Built | UNBROKEN</title>
+  <meta name="description" content="How indigenous African engineers built the pyramids: water-lubricated sledges, ramps, astronomical alignment, and organised paid labour. Interactive engineering lab." />
+  <meta name="theme-color" content="#0a0908" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Kemet &amp; Nubia — How the Pyramids Were Built | UNBROKEN" />
+  <meta property="og:description" content="Engineering, not myth. Test the physics of moving a 2.5-tonne block." />
+  <meta property="og:image" content="assets/img/og-default.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="cf-beacon-token" content="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <style>
+    .lab-scene { position: relative; height: 280px; background: linear-gradient(#100e0c, #1a1512); border: 1px solid var(--gold-line); border-radius: var(--radius-sm); overflow: hidden; }
+    .ramp { position: absolute; left: 8%; bottom: 40px; width: 78%; height: 12px; background: linear-gradient(90deg, #5a431f, #8c6221); border-radius: 4px; transform-origin: left center; }
+    .block { position: absolute; left: 8%; bottom: 46px; width: 68px; height: 46px; border-radius: 6px; background: linear-gradient(135deg, #b8860b, #5a431f); border: 1px solid var(--gold); display: flex; align-items: center; justify-content: center; color: var(--gold-light); font: 600 9px/1 var(--font-mono); text-align: center; transition: transform 1.4s ease; z-index: 3; }
+    .ground { position: absolute; left: 0; right: 0; bottom: 28px; height: 14px; background: linear-gradient(#3a2c16, #241c10); }
+    .meter { height: 10px; border-radius: 999px; background: #241f1a; overflow: hidden; border: 1px solid var(--gold-line); }
+    .meter > span { display: block; height: 100%; background: linear-gradient(90deg, var(--gold-deep), var(--gold)); transition: width .25s; }
+    .shake { animation: shake .45s; }
+    @keyframes shake { 0%,100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+    .stat { display:flex; justify-content:space-between; font-family: var(--font-mono); font-size:.78rem; }
+  </style>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+
+  <nav class="nav">
+    <a class="nav-brand" href="index.html"><span class="dot"></span><span class="gold-text">UNBROKEN</span></a>
+    <div class="nav-links">
+      <a href="genesis.html">Origins</a>
+      <a href="kemet.html">Kemet</a>
+      <a href="kingdoms.html">Kingdoms</a>
+      <a href="culture.html">Culture</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><i data-lucide="menu"></i></button>
+  </nav>
+
+  <header class="section wrap" style="padding-top:150px">
+    <span class="badge reveal"><i data-lucide="triangle" style="width:15px;height:15px"></i> Pillar 02 · Kemet &amp; Nubia</span>
+    <h1 class="reveal mt-6" style="font-size:clamp(2.2rem,6vw,4rem)">Built by <span class="gold-text">African engineers</span></h1>
+    <p class="lead reveal mt-4" style="max-width:68ch">
+      The pyramids of Giza and Meroë were the work of indigenous African architects, surveyors and organised labour —
+      not slaves, and not mystery. Here is the evidence, and a lab to test it yourself.
+    </p>
+  </header>
+
+  <!-- KEY FACTS -->
+  <section class="section wrap" style="padding-top:0">
+    <div class="grid grid-3" id="pyramid-facts"></div>
+  </section>
+
+  <!-- LAB -->
+  <section class="section wrap">
+    <div class="card reveal">
+      <span class="kicker">Engineering lab</span>
+      <h2 class="gold-text" style="font-size:clamp(1.4rem,3.4vw,2.1rem)">Move a 2.5-tonne block</h2>
+      <p class="dim small" style="max-width:70ch">
+        Adjust water on the sand and the ramp angle, then set your workforce. Experiments (Fall et al., 2014) show that the
+        right amount of water roughly halves the friction — the technique shown in the tomb of Djehutihotep.
+      </p>
+
+      <div class="grid" style="grid-template-columns:1.4fr 1fr; gap:26px; margin-top:22px" id="lab-grid">
+        <div>
+          <div class="lab-scene">
+            <div class="ground"></div>
+            <div class="ramp" id="ramp"></div>
+            <div class="block" id="block">2.5t</div>
+          </div>
+          <button class="btn btn-primary w-full mt-4" id="attempt"><i data-lucide="users" style="width:15px;height:15px"></i> Attempt the pull</button>
+        </div>
+
+        <div class="stack">
+          <div>
+            <label class="ctrl-label" for="water">Water lubrication · <span id="water-val">0%</span></label>
+            <input id="water" type="range" min="0" max="100" value="0" class="mt-2" />
+          </div>
+          <div>
+            <label class="ctrl-label" for="angle">Ramp angle · <span id="angle-val">6°</span></label>
+            <input id="angle" type="range" min="0" max="15" value="6" class="mt-2" />
+          </div>
+          <div>
+            <label class="ctrl-label" for="workers">Your workforce · <span id="workers-val">60</span> pullers</label>
+            <input id="workers" type="range" min="1" max="200" value="60" class="mt-2" />
+          </div>
+          <hr class="hr" />
+          <div class="stat"><span class="dim">Friction (μ)</span><span id="mu-val" class="gold-text">0.50</span></div>
+          <div class="meter mt-2"><span id="mu-bar" style="width:50%"></span></div>
+          <div class="stat mt-4"><span class="dim">Force required</span><span id="force-val" class="gold-text">0 N</span></div>
+          <div class="meter mt-2"><span id="force-bar" style="width:20%"></span></div>
+          <div class="stat mt-4"><span class="dim">Pullers needed</span><span id="need-val" class="gold-text">0</span></div>
+          <p class="tiny faint mt-4">Model assumes a rolling/sliding coefficient of ≈0.25 (optimal wet sand) to ≈0.50 (dry), ~500 N sustainable pull per person, m = 2,500 kg. A teaching approximation, not an excavation report.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EVIDENCE -->
+  <section class="section wrap">
+    <div class="center mb-8 reveal">
+      <span class="kicker">The evidence</span>
+      <h2 class="gold-text" style="font-size:clamp(1.6rem,3.6vw,2.4rem)">Myths meet archaeology</h2>
+    </div>
+    <div class="grid grid-2" id="evidence-grid"></div>
+  </section>
+
+  <!-- NUBIA -->
+  <section class="section wrap">
+    <div class="card panel-gold reveal">
+      <span class="kicker">South of Egypt</span>
+      <h2 class="gold-text" style="font-size:clamp(1.4rem,3.4vw,2rem)">Nubia: the other pyramid builders</h2>
+      <p class="dim" id="nubia-text" style="max-width:75ch"></p>
+      <a class="btn btn-ghost mt-4" href="kingdoms.html"><i data-lucide="crown" style="width:15px;height:15px"></i> See the kingdom of Kush</a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-grid">
+      <div>
+        <div class="nav-brand mb-4"><span class="dot"></span><span class="gold-text">UNBROKEN</span></div>
+        <p class="small dim">Volume I — Origins &amp; Empires.</p>
+      </div>
+      <div>
+        <h4 class="small gold-text">Explore</h4>
+        <a href="genesis.html">Origins</a>
+        <a href="index.html">Home</a>
+        <a href="kingdoms.html">Kingdoms</a>
+        <a href="culture.html">Culture</a>
+      </div>
+      <div>
+        <h4 class="small gold-text">Project</h4>
+        <a href="SOURCES.html">Sources</a>
+        <a href="#" data-share data-share-title="Kemet &amp; Nubia — UNBROKEN">Share this page</a>
+      </div>
+    </div>
+    <div class="wrap center mt-8">
+      <p class="tiny faint">© <span data-year>2026</span> UNBROKEN Digital Heritage Initiative · Facts cited in <a href="SOURCES.html" style="display:inline;color:var(--gold)">Sources</a>.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/vendor/lucide.js"></script>
+  <script src="assets/js/data/history.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (function () {
+      if (!window.UnbrokenData) return;
+      var k = window.UnbrokenData.kemet;
+
+      // Fact cards
+      var facts = [
+        { t: k.pyramid.name, d: k.pyramid.date + " · " + k.pyramid.blocks + " · " + k.pyramid.height },
+        { t: "≈ 2.3 million blocks", d: "Averaging ~2.5 tonnes, moved by sledge, ramp and river barge." },
+        { t: "Aligned to true north", d: "Within a fraction of a degree, by observing circumpolar stars." }
+      ];
+      document.getElementById("pyramid-facts").innerHTML = facts.map(function (f) {
+        return '<div class="card card-hover reveal"><h3 class="gold-text" style="font-size:1.1rem">' + f.t + '</h3><p class="small dim">' + f.d + "</p></div>";
+      }).join("");
+
+      // Evidence
+      document.getElementById("evidence-grid").innerHTML = k.engineering.map(function (e) {
+        return '<article class="card reveal"><h3 class="gold-text" style="font-size:1.1rem">' + e.title + '</h3><p class="small dim">' + e.body + "</p></article>";
+      }).join("");
+
+      document.getElementById("nubia-text").textContent = k.nubia;
+      if (window.lucide) window.lucide.createIcons();
+
+      // ---- Simulator ----
+      var M = 2500, G = 9.81, PULL = 500, WOPT = 35;
+      var water = document.getElementById("water"), angle = document.getElementById("angle"), workers = document.getElementById("workers");
+      var muVal = document.getElementById("mu-val"), muBar = document.getElementById("mu-bar");
+      var forceVal = document.getElementById("force-val"), forceBar = document.getElementById("force-bar");
+      var needVal = document.getElementById("need-val");
+      var ramp = document.getElementById("ramp"), block = document.getElementById("block"), attempt = document.getElementById("attempt");
+
+      function mu(w) {
+        if (w <= WOPT) return 0.5 + (0.25 - 0.5) * (w / WOPT);
+        return 0.25 + (0.45 - 0.25) * ((w - WOPT) / (100 - WOPT));
+      }
+      function update() {
+        var w = +water.value, a = +angle.value, n = +workers.value;
+        var m = mu(w);
+        var rad = a * Math.PI / 180;
+        var F = M * G * (Math.sin(rad) + m * Math.cos(rad));
+        var need = Math.ceil(F / PULL);
+        document.getElementById("water-val").textContent = w + "%";
+        document.getElementById("angle-val").textContent = a + "°";
+        document.getElementById("workers-val").textContent = n;
+        muVal.textContent = m.toFixed(2);
+        muBar.style.width = Math.min(100, m / 0.6 * 100) + "%";
+        forceVal.textContent = Math.round(F).toLocaleString() + " N";
+        forceBar.style.width = Math.min(100, F / 40000 * 100) + "%";
+        needVal.textContent = need;
+        ramp.style.transform = "rotate(-" + a + "deg)";
+      }
+      [water, angle, workers].forEach(function (el) { el.addEventListener("input", update); });
+      update();
+
+      attempt.addEventListener("click", function () {
+        var w = +water.value, a = +angle.value, n = +workers.value;
+        var rad = a * Math.PI / 180;
+        var F = M * G * (Math.sin(rad) + mu(w) * Math.cos(rad));
+        if (n * PULL >= F) {
+          block.style.transform = "translate(340px, -86px)";
+          setTimeout(function () { block.style.transform = "translate(0,0)"; }, 1800);
+        } else {
+          block.classList.remove("shake");
+          void block.offsetWidth;
+          block.classList.add("shake");
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

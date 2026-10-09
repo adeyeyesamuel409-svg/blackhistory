@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kingdoms — Pre-Colonial African Empires | UNBROKEN</title>
+  <meta name="description" content="Interactive map of pre-colonial African kingdoms: Kush, Aksum, Ghana, Mali, Songhai, Great Zimbabwe, Benin and Kongo — their wealth, learning and trade." />
+  <meta name="theme-color" content="#0a0908" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Kingdoms — Pre-Colonial African Empires | UNBROKEN" />
+  <meta property="og:description" content="Before European contact, African states controlled the world's richest trade routes." />
+  <meta property="og:image" content="assets/img/og-default.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="cf-beacon-token" content="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/leaflet.css" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <style>
+    #empire-map { height: min(70vh, 600px); border-radius: var(--radius); border: 1px solid var(--gold-line); background: #0d0c0b; }
+    .leaflet-container { background: #0d0c0b; font-family: var(--font-body); }
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #17130f; color: var(--ink); border: 1px solid var(--gold-line); }
+    .empire-btn { text-align: left; cursor: pointer; }
+    .empire-btn[aria-pressed="true"] { border-color: var(--gold); background: rgba(197,160,89,0.12); }
+  </style>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+
+  <nav class="nav">
+    <a class="nav-brand" href="index.html"><span class="dot"></span><span class="gold-text">UNBROKEN</span></a>
+    <div class="nav-links">
+      <a href="genesis.html">Origins</a>
+      <a href="kemet.html">Kemet</a>
+      <a href="kingdoms.html">Kingdoms</a>
+      <a href="culture.html">Culture</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><i data-lucide="menu"></i></button>
+  </nav>
+
+  <header class="section wrap" style="padding-top:150px">
+    <span class="badge reveal"><i data-lucide="crown" style="width:15px;height:15px"></i> Pillar 03 · Kingdoms</span>
+    <h1 class="reveal mt-6" style="font-size:clamp(2.2rem,6vw,4rem)">Empires of a <span class="gold-text">continent</span></h1>
+    <p class="lead reveal mt-4" style="max-width:68ch">
+      Long before European contact, African states commanded the world's great trade routes and built centres of science
+      and scholarship. Territories here are shown as approximate extents, not precise borders.
+    </p>
+  </header>
+
+  <section class="section wrap" style="padding-top:0">
+    <div class="grid" style="grid-template-columns:1fr 320px; gap:22px" id="kingdom-grid">
+      <div class="card reveal" style="padding:12px">
+        <div id="empire-map"></div>
+      </div>
+      <div class="stack" id="empire-list" style="max-height:min(70vh,600px); overflow:auto"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-grid">
+      <div>
+        <div class="nav-brand mb-4"><span class="dot"></span><span class="gold-text">UNBROKEN</span></div>
+        <p class="small dim">Volume I — Origins &amp; Empires.</p>
+      </div>
+      <div>
+        <h4 class="small gold-text">Explore</h4>
+        <a href="genesis.html">Origins</a>
+        <a href="kemet.html">Kemet &amp; Nubia</a>
+        <a href="index.html">Home</a>
+        <a href="culture.html">Culture</a>
+      </div>
+      <div>
+        <h4 class="small gold-text">Project</h4>
+        <a href="SOURCES.html">Sources</a>
+        <a href="#" data-share data-share-title="Kingdoms — UNBROKEN">Share this page</a>
+      </div>
+    </div>
+    <div class="wrap center mt-8">
+      <p class="tiny faint">© <span data-year>2026</span> UNBROKEN Digital Heritage Initiative · Facts cited in <a href="SOURCES.html" style="display:inline;color:var(--gold)">Sources</a>.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/vendor/leaflet.js"></script>
+  <script src="assets/js/vendor/lucide.js"></script>
+  <script src="assets/js/data/history.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (function () {
+      if (!window.L || !window.UnbrokenData) return;
+      var data = window.UnbrokenData.empires;
+      var map = L.map("empire-map", { scrollWheelZoom: false, minZoom: 3 }).setView([4, 18], 4);
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+        attribution: "&copy; OpenStreetMap contributors &copy; CARTO", subdomains: "abcd", maxZoom: 19
+      }).addTo(map);
+
+      var list = document.getElementById("empire-list");
+      var circles = {};
+      data.forEach(function (e, i) {
+        var c = L.circle([e.lat, e.lng], { radius: e.radius, color: "#c5a059", weight: 1.5, fillColor: "#c5a059", fillOpacity: 0.12 })
+          .addTo(map)
+          .bindPopup("<strong style='color:#f3e5ab'>" + e.name + "</strong><br><span style='color:#c5a059'>" + e.period + "</span><br>" + e.blurb);
+        circles[e.id] = c;
+
+        var btn = document.createElement("button");
+        btn.className = "card card-hover empire-btn reveal";
+        btn.setAttribute("aria-pressed", "false");
+        btn.innerHTML = '<h3 class="gold-text" style="font-size:1.05rem">' + e.name + '</h3>' +
+          '<span class="tiny mono faint">' + e.period + "</span>" +
+          '<p class="small dim mt-2">' + e.blurb + "</p>";
+        btn.addEventListener("click", function () {
+          document.querySelectorAll(".empire-btn").forEach(function (b) { b.setAttribute("aria-pressed", "false"); });
+          btn.setAttribute("aria-pressed", "true");
+          map.flyTo([e.lat, e.lng], 5, { duration: 0.9 });
+          setTimeout(function () { circles[e.id].openPopup(); }, 950);
+        });
+        list.appendChild(btn);
+      });
+
+      if (window.lucide) window.lucide.createIcons();
+      setTimeout(function () { map.invalidateSize(); }, 300);
+    })();
+  </script>
+</body>
+</html>
