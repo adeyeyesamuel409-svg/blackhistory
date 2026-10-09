@@ -797,5 +797,41 @@ window.UnbrokenImages = {
     credit: "George Hallett (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
     source: "https://commons.wikimedia.org/wiki/File:First_Encounter,_Johannesburg_in_1994.jpg"
+  },
+  "cult-bogolan": {
+    dir: "cult-bogolan", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Bogolan mud cloth from Mali, hand-painted with fermented mud",
+    title: "Bogolan mud cloth, Mali",
+    caption: "Bogolan (mud cloth) from Mali — cotton dyed with leaves and painted with fermented iron-rich mud, its patterns carrying proverbs and status.",
+    credit: "BluesyPete (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:BogolanMali4.JPG"
+  },
+  "cult-kora": {
+    dir: "cult-kora", ext: "jpg", widths: [480, 800],
+    alt: "A kora, the 21-string harp-lute of the Mande griots",
+    title: "The kora",
+    caption: "The kora, a 21-string harp-lute played by Mande jeliw (griots) to carry history, praise and genealogy in song.",
+    credit: "4MAPS (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:La_kora,_instrument_rituel_et_m%C3%A9moire_vivante_05.jpg"
+  },
+  "cult-gelede": {
+    dir: "cult-gelede", ext: "jpg", widths: [400, 640, 900],
+    alt: "A carved Yoruba Gelede mask",
+    title: "Gelede mask, Yoruba",
+    caption: "A Gelede mask of the Yoruba. Gelede masquerades are performed to honour the mothers and the community's well-being.",
+    credit: "Vassil / British Museum (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg"
+  },
+  "cult-tuareg": {
+    dir: "cult-tuareg", ext: "jpg", widths: [480, 800],
+    alt: "A Tuareg man wearing the tagelmust, the indigo veil",
+    title: "Tuareg tagelmust",
+    caption: "A Tuareg man in the tagelmust, the indigo veil worn for protection and identity — colours, drapes and adornment signal age, group and status.",
+    credit: "David Stanley (CC BY 2.0)", license: "CC BY 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Tuareg_Man_(5282881121).jpg"
   }
 };

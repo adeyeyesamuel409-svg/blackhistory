@@ -58,6 +58,10 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 ### Culture (hair, attire, textiles)
 - General framing and style names draw on museum and ethnographic collections: **The Metropolitan Museum of Art** (Egypt/Nubia), **Smithsonian National Museum of African Art**, **The British Museum**. See `met`, `nok`, `british` in `history.js`.
 - 3D hairstyle models are **stylised representations** for teaching, not accurate reconstructions or portraits.
+- **Cloth as coded language (kente motifs, adire, bogolan); Ndebele wall painting.** African textile scholarship; museum collections (British Museum, Smithsonian NMAfA).
+- **Griots (Mande jeliw) and the kora as oral archive.** Hale, *Griots and Griottes*; Charry, *Mande Music*.
+- **Polyrhythm, call-and-response and diaspora music.** Standard ethnomusicology (Nketia, *The Music of Africa*).
+- **Gelede masquerade; Ifa divination; Ubuntu philosophy.** Drewal & Drewal, *Gelede*; Abiodun, *Ifá Divination Poetry*; Ramose, *African Philosophy Through Ubuntu*.
 
 ---
 
@@ -198,6 +202,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Himba otjize** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
 - **Maasai beadwork** — Cecilia Nkini (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Maasai_beadwork.jpg
 - **Adire indigo** — Tunde Akangbe (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg
+- **Bogolan mud cloth, Mali** — BluesyPete (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:BogolanMali4.JPG
+- **The kora** — 4MAPS (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:La_kora,_instrument_rituel_et_m%C3%A9moire_vivante_05.jpg
+- **Gelede mask, Yoruba** — Vassil / British Museum (CC0). https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg
+- **Tuareg tagelmust** — David Stanley (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Tuareg_Man_(5282881121).jpg
 - **The Ishango bone** — Claire H. (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Ishango_Bone.jpg
 - **The Nabta Playa calendar** — Raymbetz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG
 - **The Edwin Smith papyrus** — Jeff Dahl; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg
