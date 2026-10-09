@@ -134,6 +134,19 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Deep dive — Mansa Musa & the Mali Empire
+- **Sundiata Keita, the Battle of Kirina (c. 1235) and the Kouroukan Fouga charter.** Niane, *Sundiata: An Epic of Old Mali*; Conrad, *Empires of Medieval West Africa*; Levtzion, *Ancient Ghana and Mali*.
+- **The Mali Empire: provinces, the *mansa*, Niani, and control of the gold–salt trade.** Levtzion; Conrad; Ibn Battuta, *Travels in Asia and Africa 1325–1354* (Gibb, trans.).
+- **Mansa Musa (r. c. 1312–1337) and the hajj of 1324; the fall in the price of gold in Cairo.** al-Umari, *Masalik al-absar fi mamalik al-amsar*, in Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History*.
+- **Caravan size, gold wealth and “richest man in history” totals are estimates** and later reconstructions; the page presents them as such.
+- **Gold from Bambuk and Bure; salt from Taghaza; copper; cowrie currency.** Levtzion; Mauny; Conrad.
+- **Timbuktu and Sankore as centres of scholarship; the manuscript tradition and the trade in books.** Hunwick, *Timbuktu and the Songhay Empire*; Hunwick & Boye, *The Hidden Treasures of Timbuktu*; UNESCO (Timbuktu).
+- **al-Sahili and Sudano-Sahelian architecture; Djenné.** UNESCO (Old Towns of Djenné); standard architectural histories.
+- **Decline: Tuareg and Songhai ascendancy; Battle of Tondibi (1591).** Hunwick, *Timbuktu and the Songhay Empire*; Levtzion.
+- **The Catalan Atlas (1375) depiction of Mansa Musa.** Bibliothèque nationale de France, *Catalan Atlas*, by Abraham Cresques.
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -239,6 +252,13 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Sofala, Mozambique** — E. Thiesson; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Native_Woman_of_Sofala_(Mozambique).jpg
 - **Cecil John Rhodes** — William Thomas Stead; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Cecil_Rhodes_in_Matopos.jpg
 - **The 1891 Mashonaland excavation plate** — The British Library (No known copyright restrictions). https://commons.wikimedia.org/wiki/File:10_of_%27The_Ruined_Cities_of_Mashonaland-_being_a_record_of_excavation_and_exploration_in_1891_..._With_a_chapter_on_the_orientation_and_mensuration_of_the_temples_by_R._M._W._Swan._(With_plates.)%27_(11218736476).jpg
+- **Mansa Musa, Catalan Atlas (1375)** — Abraham Cresques (Public domain). https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg
+- **Mansa Musa (cropped), Catalan Atlas** — Abraham Cresques (Public domain). https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg
+- **A caravan on the Catalan Atlas** — Abraham Cresques (Public domain). https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Western_Sahara.jpg
+- **A Timbuktu manuscript** — Mark Fischer (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Timbuktu_Manuscript_(48522180467).jpg
+- **The Sankore mosque, Timbuktu** — Anne and David (Public domain). https://commons.wikimedia.org/wiki/File:2007_Sankore_Mosque_Timbuktu_01.jpg
+- **Salt for sale, Mopti** — Robin Taylor (CC BY 2.0). https://commons.wikimedia.org/wiki/File:Salt_selling_Mopti_Mali.jpg
+- **The Great Mosque of Djenné** — Ruud Zwart (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

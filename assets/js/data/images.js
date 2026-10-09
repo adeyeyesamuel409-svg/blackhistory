@@ -913,6 +913,69 @@ window.UnbrokenImages = {
     caption: "A plate from J. Theodore Bent's 1891 account of the ruins — an early excavation that wrongly attributed the city to foreign builders.",
     credit: "British Library (No known copyright restrictions)", license: "Public domain",
     licenseUrl: "https://creativecommons.org/publicdomain/mark/1.0",
-    source: "https://commons.wikimedia.org/wiki/File:10_of_%27The_Ruined_Cities_of_Mashonaland-_being_a_record_of_excavation_and_exploration_in_1891_..._With_a_chapter_on_the_orientation_and_mensuration_of_the_temples_by_R._M._W._Swan._(With_plates.)%27_(11218636476).jpg"
+    source: "https://commons.wikimedia.org/wiki/File:10_of_%27The_Ruined_Cities_of_Mashonaland-_being_a_record_of_excavation_and_exploration_in_1891_..._With_a_chapter_on_the_orientation_and_mensuration_of_the_temples_by_R._M._W._Swan._(With_plates.)%27_(11218736476).jpg"
+  },
+  "ml-catalan": {
+    dir: "ml-catalan", ext: "jpg", widths: [640, 960, 1280, 1600],
+    alt: "Sheet 6 of the Catalan Atlas showing Mansa Musa of Mali holding a gold nugget",
+    title: "Mansa Musa on the Catalan Atlas, 1375",
+    caption: "Sheet 6 of the Catalan Atlas (1375) by Abraham Cresques, showing Mansa Musa of Mali enthroned and holding a nugget of gold.",
+    credit: "Abraham Cresques (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg"
+  },
+  "ml-musa": {
+    dir: "ml-musa", ext: "jpg", widths: [400, 640, 900],
+    alt: "Mansa Musa of Mali depicted on the Catalan Atlas holding a gold nugget",
+    title: "Mansa Musa",
+    caption: "Mansa Musa I of Mali (reigned c. 1312–1337), depicted on the Catalan Atlas. His 1324 pilgrimage to Mecca made Mali famous across the Mediterranean.",
+    credit: "Abraham Cresques (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+  },
+  "ml-manuscript": {
+    dir: "ml-manuscript", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A decorated manuscript page from Timbuktu",
+    title: "A Timbuktu manuscript",
+    caption: "A manuscript page from Timbuktu, where scholars copied and wrote works on astronomy, law, medicine and mathematics.",
+    credit: "Mark Fischer (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Timbuktu_Manuscript_(48522180467).jpg"
+  },
+  "ml-sankore": {
+    dir: "ml-sankore", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The Sankore mosque in Timbuktu, Mali",
+    title: "The Sankore mosque, Timbuktu",
+    caption: "The Sankore mosque in Timbuktu, at the heart of a celebrated community of scholars and students.",
+    credit: "Anne and David (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:2007_Sankore_Mosque_Timbuktu_01.jpg"
+  },
+  "ml-salt": {
+    dir: "ml-salt", ext: "jpg", widths: [480, 800],
+    alt: "Slabs of salt offered for sale in Mopti, Mali",
+    title: "Salt for sale, Mopti",
+    caption: "Slabs of desert salt, like those carried south from mines such as Taghaza and traded across the Sahel — at times for their weight in gold.",
+    credit: "Robin Taylor (CC BY 2.0)", license: "CC BY 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Salt_selling_Mopti_Mali.jpg"
+  },
+  "ml-caravancatalan": {
+    dir: "ml-caravancatalan", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A camel caravan crossing the Sahara, illustrated on the Catalan Atlas",
+    title: "A caravan on the Catalan Atlas",
+    caption: "A camel caravan crossing the Sahara, from the Catalan Atlas (1375) — the routes that carried Mali's gold north and salt south.",
+    credit: "Abraham Cresques (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Western_Sahara.jpg"
+  },
+  "ml-djenne": {
+    dir: "ml-djenne", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The Great Mosque of Djenné in Mali",
+    title: "The Great Mosque of Djenné",
+    caption: "The Great Mosque of Djenné, the world's largest mud-brick building — Sudano-Sahelian architecture descended from the building tradition Mali helped spread.",
+    credit: "Ruud Zwart (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg"
   }
 };
