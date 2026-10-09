@@ -653,5 +653,41 @@ window.UnbrokenImages = {
     credit: "Ethiopian scribe (Public domain)", license: "Public domain",
     licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Ethiopian,_Illuminated_Manuscript,_18th_century.jpg"
+  },
+  "trade-dinar": {
+    dir: "trade-dinar", ext: "jpg", widths: [400, 640],
+    alt: "An Almoravid gold dinar coin struck in Seville in 1116, from Saharan gold",
+    title: "A dinar of Saharan gold",
+    caption: "An Almoravid gold dinar (Seville, 1116). Much of the gold that reached the Mediterranean world began in the Niger and Senegal river regions of West Africa.",
+    credit: "PHGCOM; The British Museum (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Almoravid_gold_dinar_coin_from_Seville,_Spain,_1116_British_Museum.jpg"
+  },
+  "trade-ibnbattuta": {
+    dir: "trade-ibnbattuta", ext: "jpg", widths: [400, 640],
+    alt: "A manuscript page of Ibn Battuta's travels, in Arabic script",
+    title: "Ibn Battuta's travels",
+    caption: "A page of Ibn Battuta's travels. The Moroccan jurist crossed the Sahara to Mali in 1352–53 and described its towns and copper trade firsthand.",
+    credit: "Anonymous manuscript (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Ibn_Battuta,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png"
+  },
+  "trade-timbuktuplan": {
+    dir: "trade-timbuktuplan", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Heinrich Barth's 1858 plan of Timbuktu, showing its streets and quarters",
+    title: "Plan of Timbuktu, 1858",
+    caption: "Heinrich Barth's plan of Timbuktu (1858). A Saharan crossroads and a city of scholars, Timbuktu traded gold, salt and — above all — books.",
+    credit: "Heinrich Barth (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Barth_1858_Plan_Timbuktu_without_key.jpg"
+  },
+  "trade-kilwamosque": {
+    dir: "trade-kilwamosque", ext: "jpg", widths: [480, 800],
+    alt: "The coral-stone ruins of the Great Mosque of Kilwa Kisiwani, Tanzania",
+    title: "Great Mosque of Kilwa",
+    caption: "The Great Mosque of Kilwa Kisiwani. This Swahili port city grew rich on the Indian Ocean trade in gold, ivory and slaves, minting its own coins.",
+    credit: "Janetmpurdy (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Kisiwani_Tanzania.jpg"
   }
 };

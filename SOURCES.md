@@ -67,6 +67,9 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Trans-Saharan gold, salt and caravan trade.** Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History*; Austen, *Trans-Saharan Africa in World History*.
 - **Swahili coast & Indian Ocean trade; Kilwa, Sofala.** UNESCO World Heritage (Kilwa Kisiwani, Stone Town of Zanzibar); Horton & Middleton, *The Swahili*.
 - **Aksum / Adulis Red Sea trade.** Munro-Hay, *Aksum*.
+- **Gold and salt as the core of trans-Saharan exchange; salt traded for its weight in gold.** Levtzion & Hopkins; Austen; Mauny, *Tableau géographique de l'Ouest africain au Moyen-Âge*.
+- **Timbuktu as a centre of manuscript scholarship; surviving libraries.** Hunwick & Boye, *The Hidden Treasures of Timbuktu*; UNESCO (Timbuktu manuscripts).
+- **Ibn Battuta's account of Mali (1352–53).** Ibn Battuta, *Travels in Asia and Africa 1325–1354* (H.A.R. Gibb, trans.).
 
 ### The slave trades
 - **Transatlantic totals (≈12.5m embarked, ≈10.7m disembarked).** **Slave Voyages** database, slavevoyages.org (Eltis et al.).
@@ -158,6 +161,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Kilwa Kisiwani** — Karalyn Monteil (CC BY-SA 3.0 IGO). https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-127035.jpg
 - **Cowrie shells** — Vidya pmysore (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Big_and_small_cowrie_shells.jpg
 - **An Asante gold weight** — Cleveland Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Africa,_Ghana,_Asante,_19th_century_-_Gold_Weight-_Fish_-_1961.399_-_Cleveland_Museum_of_Art.tif
+- **Almoravid gold dinar (Seville, 1116)** — PHGCOM; The British Museum (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Almoravid_gold_dinar_coin_from_Seville,_Spain,_1116_British_Museum.jpg
+- **Ibn Battuta's travels (manuscript)** — Anonymous (Public domain). https://commons.wikimedia.org/wiki/File:Ibn_Battuta,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png
+- **Plan of Timbuktu, 1858** — Heinrich Barth (Public domain). https://commons.wikimedia.org/wiki/File:Barth_1858_Plan_Timbuktu_without_key.jpg
+- **Great Mosque of Kilwa Kisiwani** — Janetmpurdy (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Kisiwani_Tanzania.jpg
 - **The Door of No Return, Ouidah** — Borisghost (CC0). https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Benin.jpg
 - **The Brookes ship plan (1789)** — James Phillips, London (public domain). https://commons.wikimedia.org/wiki/File:Brookes_slave_ship,_British_Library.jpg
 - **Olaudah Equiano (c. 1745–1797)** — W. Denton & D. Orme, British Library (CC0). https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
