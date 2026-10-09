@@ -5,6 +5,8 @@
   <url><loc>https://YOUR-DOMAIN/genesis.html</loc><priority>0.9</priority></url>
   <url><loc>https://YOUR-DOMAIN/kemet.html</loc><priority>0.9</priority></url>
   <url><loc>https://YOUR-DOMAIN/kingdoms.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN/trade.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN/slavery.html</loc><priority>0.9</priority></url>
   <url><loc>https://YOUR-DOMAIN/culture.html</loc><priority>0.9</priority></url>
   <url><loc>https://YOUR-DOMAIN/SOURCES.html</loc><priority>0.5</priority></url>
   <url><loc>https://YOUR-DOMAIN/README.html</loc><priority>0.4</priority></url>

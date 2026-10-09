@@ -222,6 +222,88 @@ window.UnbrokenData = (function () {
     { id: "mola", title: "Mola", origin: "Guna — Panama", desc: "Reverse-appliqué textile panels, part of a blouse, made by Guna women of Central America." }
   ];
 
+  /* ---- Volume II: Trade networks ----------------------------------------- */
+  const trade = {
+    networks: [
+      {
+        id: "transsaharan",
+        name: "Trans-Saharan trade",
+        era: "c. 300 CE onward",
+        blurb: "Camel caravans linked West African goldfields to the Mediterranean and Egypt, carrying salt north-to-south and gold, ivory and enslaved people south-to-north. Timbuktu, Gao and Kano grew into great market cities.",
+        goods: ["Gold", "Salt", "Copper", "Textiles", "Horses", "Books & paper"]
+      },
+      {
+        id: "indianocean",
+        name: "Indian Ocean & Swahili coast",
+        era: "c. 1st millennium CE onward",
+        blurb: "Monsoon winds powered a trade that tied the Swahili city-states — Kilwa, Mombasa, Malindi, Sofala — to Arabia, Persia, India and China. Gold and ivory went out; ceramics, glass and cloth came in.",
+        goods: ["Gold", "Ivory", "Timber", "Porcelain", "Glass", "Spices"]
+      },
+      {
+        id: "intra",
+        name: "Intra-African trade",
+        era: "continuous",
+        blurb: "Long before outside contact, African regions traded with each other: salt from the Sahara, copper from Katanga, kola nut in West Africa, and cloth and iron across the continent.",
+        goods: ["Salt", "Copper crosses", "Kola nut", "Iron", "Cloth"]
+      }
+    ],
+    hubs: [
+      { name: "Timbuktu", lat: 16.77, lng: -3.01, note: "Trans-Saharan gold, salt and scholarship." },
+      { name: "Gao", lat: 16.27, lng: -0.05, note: "Songhai capital on the Niger." },
+      { name: "Kano", lat: 12.0, lng: 8.52, note: "Sahelian terminus of desert caravans." },
+      { name: "Sijilmasa", lat: 31.28, lng: -4.28, note: "Northern Saharan gateway." },
+      { name: "Kilwa Kisiwani", lat: -8.94, lng: 39.51, note: "Swahili gold port linked to Great Zimbabwe." },
+      { name: "Sofala", lat: -20.17, lng: 34.73, note: "Port for interior gold." },
+      { name: "Adulis", lat: 15.26, lng: 39.66, note: "Red Sea port of Aksum." }
+    ],
+    routes: [
+      { id: "ts1", system: "transsaharan", color: "#e0bd6a", points: [[16.77, -3.01], [22.0, -3.5], [31.28, -4.28], [31.63, -7.99]] },
+      { id: "ts2", system: "transsaharan", color: "#e0bd6a", points: [[12.0, 8.52], [17.0, 8.0], [30.13, 9.5], [32.9, 13.19]] },
+      { id: "ts3", system: "transsaharan", color: "#e0bd6a", points: [[16.27, -0.05], [22.0, 5.0], [30.05, 31.24]] },
+      { id: "io1", system: "indianocean", color: "#8fa6d8", points: [[-20.17, 34.73], [-8.94, 39.51], [-6.16, 39.2], [23.6, 58.5]] },
+      { id: "io2", system: "indianocean", color: "#8fa6d8", points: [[-6.16, 39.2], [12.5, 45.0], [20.0, 70.0], [8.5, 76.9]] },
+      { id: "io3", system: "indianocean", color: "#8fa6d8", points: [[15.26, 39.66], [23.0, 38.0], [30.0, 32.5]] }
+    ]
+  };
+
+  /* ---- Volume II: The slave trades --------------------------------------- */
+  const slavery = {
+    systems: [
+      { name: "Trans-Saharan", period: "Antiquity – 20th c.", note: "Enslaved people crossed the Sahara to North Africa and the Mediterranean, alongside the gold and salt caravans." },
+      { name: "Indian Ocean & Red Sea", period: "Antiquity – 20th c.", note: "From East African ports to Arabia, Persia and India — a trade over a thousand years older than the Atlantic one." },
+      { name: "Transatlantic", period: "c. 1525 – 1866", note: "The largest forced maritime migration in history, driven by European demand for plantation labour in the Americas." },
+      { name: "Intra-African", period: "continuous", note: "Slavery and the enslaving of war captives existed within and between African societies long before and during outside contact." }
+    ],
+    stats: [
+      { value: "12.5m", label: "Africans embarked across the Atlantic" },
+      { value: "10.7m", label: "Survived the crossing (Slave Voyages)" },
+      { value: "~1,300 yrs", label: "Span of the Trans-Saharan trade" },
+      { value: "1807", label: "Britain abolishes the slave trade" }
+    ],
+    timeline: [
+      { year: "9th c.", event: "Trans-Saharan trade at its height; African and Arab merchants move gold, salt and enslaved people." },
+      { year: "1441", event: "Portuguese ships carry the first enslaved Africans to Europe, beginning the Atlantic trade." },
+      { year: "1525", event: "Large-scale transatlantic voyages to the Americas begin in earnest." },
+      { year: "1791", event: "The Haitian Revolution begins — the only successful large-scale slave revolt to found a state." },
+      { year: "1807", event: "Britain abolishes its slave trade; the Royal Navy begins interception at sea." },
+      { year: "1839", event: "The Amistad revolt: enslaved Mende Africans seize their ship and win freedom in court." },
+      { year: "1865", event: "The 13th Amendment ends slavery in the United States." },
+      { year: "1888", event: "Brazil, the last country in the Americas, abolishes slavery." }
+    ],
+    resistance: [
+      { title: "Shipboard revolts", note: "Resistance began on the water: the Amistad (1839) and hundreds of smaller revolts." },
+      { title: "Maroon communities", note: "Escaped people built free settlements across the Americas, from Jamaica to Brazil." },
+      { title: "Revolution", note: "Haiti (1791–1804) abolished slavery and won independence — a blow that reshaped the Atlantic world." }
+    ],
+    nuance: "This history is often flattened into a single story. In reality four distinct trades spanned more than a thousand years; African states and merchants were active participants as well as victims; and European demand reshaped the scale and direction of the trade from the 15th century. States such as Kongo were devastated by it. The enslaved were not passive: they resisted at every stage — in Africa, on the ships, and in the Americas.",
+    routes: [
+      { id: "atl1", system: "transatlantic", color: "#b4552d", points: [[6.0, 3.0], [-8.0, 13.0], [-20.0, 30.0], [-15.0, -60.0], [18.0, -72.0]] },
+      { id: "atl2", system: "transatlantic", color: "#b4552d", points: [[-8.0, 13.0], [-25.0, 10.0], [-10.0, -35.0], [25.0, -80.0], [37.0, -76.0]] },
+      { id: "tsh1", system: "transsaharan", color: "#e0bd6a", points: [[15.0, 7.0], [22.0, 4.0], [30.0, 9.0], [32.9, 13.19]] },
+      { id: "io1", system: "indianocean", color: "#8fa6d8", points: [[-6.16, 39.2], [-8.94, 39.51], [12.5, 45.0], [23.6, 58.5]] }
+    ]
+  };
+
   /* ---- Sources index ----------------------------------------------------- */
   const sources = [
     { id: "hublin2017", label: "Hublin et al., 'New fossils from Jebel Irhoud, Morocco', Nature (2017)" },
@@ -237,5 +319,5 @@ window.UnbrokenData = (function () {
     { id: "nok", label: "Smithsonian National Museum of African Art — Nok, Kongo, Benin holdings" }
   ];
 
-  return { timeline, migration, kemet, empires, hair, attire, sources };
+  return { timeline, migration, kemet, empires, hair, attire, trade, slavery, sources };
 })();

@@ -50,11 +50,21 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
-## Coming in Volume II (Trade & the slave trades)
-Planned primary datasets and works:
-- **Slave Voyages** database (Transatlantic + Intra-American), slavevoyages.org.
-- **Trans-Saharan and Indian Ocean** slave trades — Austen, *Trans-Saharan Africa in World History*; Campbell, *Abolition and the Indian Ocean Slave Trade*.
-- **African states' involvement** — Thorton; Lovejoy, *Transformations in Slavery*.
+## Volume II — Trade & the slave trades
+
+### Trade networks
+- **Trans-Saharan gold, salt and caravan trade.** Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History*; Austen, *Trans-Saharan Africa in World History*.
+- **Swahili coast & Indian Ocean trade; Kilwa, Sofala.** UNESCO World Heritage (Kilwa Kisiwani, Stone Town of Zanzibar); Horton & Middleton, *The Swahili*.
+- **Aksum / Adulis Red Sea trade.** Munro-Hay, *Aksum*.
+
+### The slave trades
+- **Transatlantic totals (≈12.5m embarked, ≈10.7m disembarked).** **Slave Voyages** database, slavevoyages.org (Eltis et al.).
+- **Trans-Saharan and Indian Ocean trades (estimates vary; millions over 1,000+ years).** Austen; Campbell, *Abolition and the Indian Ocean Slave Trade*; Lovejoy, *Transformations in Slavery*.
+- **African states as participants, and their devastation.** Thornton, *The Kingdom of Kongo*; Lovejoy, *Transformations in Slavery*.
+- **Resistance — Amistad (1839), Haitian Revolution (1791–1804), maroons.** Rediker, *The Amistad Rebellion*; Geggus, *The Haitian Revolution*.
+- **Abolition dates** — Britain 1807 / 1833; US 13th Amendment 1865; Brazil 1888.
+
+> Note: Trans-Saharan and Indian Ocean slave-trade figures are **estimates** that vary widely between scholars; the page presents them as such rather than as fixed counts.
 
 ## Coming in Volume III (Colonialism & independence)
 - **Berlin Conference (1884–85)** — primary records and Pakenham, *The Scramble for Africa*.

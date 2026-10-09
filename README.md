@@ -2,10 +2,10 @@
 
 An interactive, evidence-based web project tracing African history from the origins of *Homo sapiens* through the great pre-colonial empires and into living culture.
 
-**Volume I — Origins & Empires** (this release):
-Origins (migration map) · Kemet & Nubia (pyramid engineering lab) · Kingdoms (empire map) · Culture (3D hair & attire archive).
+**Volume I — Origins & Empires:** Origins (migration map) · Kemet & Nubia (pyramid engineering lab) · Kingdoms (empire map) · Culture (3D hair & attire archive).
 
-**Volume II —** Trade & the slave trades *(planned)*
+**Volume II — Trade & the slave trades** (live): Trade (trade-route map) · Slavery & Resistance (four systems, Slave Voyages data, resistance timeline).
+
 **Volume III —** Colonialism & independence *(planned)*
 
 ---
@@ -32,6 +32,8 @@ index.html            Home + deep-time timeline
 genesis.html          Origins + Out of Africa map
 kemet.html            Kemet, Nubia + pyramid engineering lab
 kingdoms.html         Pre-colonial empires map
+trade.html            Trade-route map (Volume II)
+slavery.html          Slave trades & resistance (Volume II)
 culture.html          3D hair & attire archive
 SOURCES.html          Full source list (on-site)
 README.html           About page (on-site)
