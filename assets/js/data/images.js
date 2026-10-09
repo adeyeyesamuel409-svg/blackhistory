@@ -220,5 +220,41 @@ window.UnbrokenImages = {
     credit: "Tesfawel (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Aksum_obelisk.jpg"
+  },
+  "trade-caravan": {
+    dir: "trade-caravan", ext: "jpg", widths: [480, 800, 1280],
+    alt: "A camel caravan crossing the dunes of the Sahara Desert",
+    title: "A Saharan caravan",
+    caption: "Caravans like this carried salt south and gold north \u2014 the arteries of trans-Saharan trade for over a thousand years.",
+    credit: "Asfour hamza (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Camel_caravan_going_through_sand_in_the_Sahara_Desert.jpg"
+  },
+  "trade-kilwa": {
+    dir: "trade-kilwa", ext: "jpg", widths: [480, 800],
+    alt: "Stone ruins of the Swahili trading city of Kilwa Kisiwani, Tanzania",
+    title: "Kilwa Kisiwani",
+    caption: "The ruins of Kilwa Kisiwani on the Swahili coast, once a wealthy hub of the Indian Ocean gold trade.",
+    credit: "Karalyn Monteil (CC BY-SA 3.0 IGO)", license: "CC BY-SA 3.0 IGO",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    source: "https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-127035.jpg"
+  },
+  "trade-cowrie": {
+    dir: "trade-cowrie", ext: "jpg", widths: [480, 800],
+    alt: "A pile of large and small cowrie shells",
+    title: "Cowrie shells",
+    caption: "Cowrie shells served as currency across much of Africa \u2014 durable, countable and hard to counterfeit.",
+    credit: "Vidya pmysore (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Big_and_small_cowrie_shells.jpg"
+  },
+  "trade-goldweight": {
+    dir: "trade-goldweight", ext: "jpg", widths: [480, 800],
+    alt: "A small brass Asante gold weight in the form of a fish",
+    title: "An Asante gold weight",
+    caption: "A brass gold weight from the Asante (Ghana), used to weigh gold dust; many are miniature works of art.",
+    credit: "Cleveland Museum of Art (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Africa,_Ghana,_Asante,_19th_century_-_Gold_Weight-_Fish_-_1961.399_-_Cleveland_Museum_of_Art.tif"
   }
 };
