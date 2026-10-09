@@ -1121,5 +1121,86 @@ window.UnbrokenImages = {
     credit: "al-Istakhri (Public domain)", license: "Public domain",
     licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Al_Istakhri_map.jpg"
+  },
+  "kb-hero": {
+    dir: "kb-hero", ext: "jpg", widths: [640, 960, 1280],
+    alt: "A line of Bornu spearmen saluting in front of the walls of Kukawa",
+    title: "Spears before Kukawa",
+    caption: "A salute of spears before Kukawa, the Bornu capital - the empire's warriors in the 1890s.",
+    credit: "P.-L. Monteil (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:The_Salute_of_the_spears_in_front_of_Kukawa.jpg"
+  },
+  "kb-map": {
+    dir: "kb-map", ext: "jpg", widths: [640, 900],
+    alt: "Map of the Kanem-Bornu empire in 1650",
+    title: "Kanem-Bornu in 1650",
+    caption: "Kanem-Bornu at its greatest extent, c. 1650, spanning the Central Sudan around Lake Chad.",
+    credit: "Ermanarich (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Kanem-Bornu_1650.svg"
+  },
+  "kb-cavalry": {
+    dir: "kb-cavalry", ext: "jpg", widths: [400, 600, 800],
+    alt: "Illustration of a Bornu cavalryman on horseback in armour",
+    title: "A Bornu cavalryman",
+    caption: "A Bornu cavalryman - the horse and the camel gave the empire its reach across the Sahara.",
+    credit: "Ernst von Raben (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:A_Bornu_cavalryman.jpg"
+  },
+  "kb-barth": {
+    dir: "kb-barth", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Lithograph of a street and court scene in Kukawa, Bornu, in the 1850s",
+    title: "Kukawa in the 1850s",
+    caption: "A court scene in Kukawa, drawn after the travels of Heinrich Barth - an eyewitness view of Bornu.",
+    credit: "Martin Bernatz, after Heinrich Barth (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Barth_1857_Dendal_in_Kukawa.jpg"
+  },
+  "kb-chad": {
+    dir: "kb-chad", ext: "jpg", widths: [640, 960],
+    alt: "Nineteenth-century map of Lake Chad and the surrounding region",
+    title: "Lake Chad",
+    caption: "Lake Chad and the lands around it, mapped by Gustav Nachtigal in the 1870s - the heart of the empire.",
+    credit: "Gustav Nachtigal / Edward Weller (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Map_Lake_Chad_1876_B002.png"
+  },
+  "kb-musketeers": {
+    dir: "kb-musketeers", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Uniformed musketeers of the Shehu of Bornu, photographed in 1912",
+    title: "Musketeers of Bornu",
+    caption: "Uniformed musketeers of the Shehu of Bornu - the firearm corps that made the empire a power, photographed in 1912.",
+    credit: "Internet Archive Book Images (CC0)", license: "CC0",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Uniformed_musketeers_of_the_Shehu_of_Bornu_(1912).jpg"
+  },
+  "kb-shehu": {
+    dir: "kb-shehu", ext: "jpg", widths: [400, 600, 794],
+    alt: "Photograph of a Shehu (ruler) of Bornu",
+    title: "The Shehu of Bornu",
+    caption: "A Shehu of Bornu - the office that took real power from the old kings in the nineteenth century.",
+    credit: "The National Archives UK (No known restrictions)", license: "No known restrictions",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Shehu_of_Bornu.jpg"
+  },
+  "kb-kukawa": {
+    dir: "kb-kukawa", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Wide view of Kukawa, the nineteenth-century capital of Bornu",
+    title: "Kukawa",
+    caption: "Kukawa, the last of Bornu's great capitals, in the 1890s.",
+    credit: "P.-L. Monteil (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Kukawa_in_1891.jpg"
+  },
+  "kb-rabih": {
+    dir: "kb-rabih", ext: "jpg", widths: [400, 600, 825],
+    alt: "Portrait of the warlord Rabih az-Zubayr",
+    title: "Rabih az-Zubayr",
+    caption: "Rabih az-Zubayr, who seized Bornu in 1893 - the empire's thousand-year story ended in the scramble for Africa.",
+    credit: "Wario2 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Rabih_az-Zubayr_1896.png"
   }
 };

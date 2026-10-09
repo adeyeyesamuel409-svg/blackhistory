@@ -173,6 +173,16 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
+## Deep dive — Kanem-Bornu (c. 700–1900)
+- **The Sayfawa king-list (the *Dīwān*) and the dynasty's chronology.** H. R. Palmer, *Bornu Sahara and Sudan*; Dierk Lange, *Le dīwān des sultans du Kānem-Bornū*.
+- **The reign and wars of Mai Idris Alooma — a first-hand court chronicle.** Ahmad ibn Furtu, *Kitab al-Ghazawat* (“Book of the Holy Wars”), trans. H. R. Palmer, *History of the First Twelve Years of the Reign of Mai Idris Alooma*.
+- **Early Arabic geographers on Kanem.** al-Bakri, al-Ya'qubi, al-Maqrizi and Ibn Khaldun, in Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History*.
+- **State formation, Islam and the Central Sudan.** A. Smith, “The Early States of the Central Sudan”; Dierk Lange, *A Sudanic Chronicle: The Borno Expeditions of Idris Alauma*; John Hunwick.
+- **The nineteenth century, al-Kanemi and the Shehus.** Louis Brenner, *The Shehus of Kukawa*; Ronald Cohen, *The Kanuri of Bornu*.
+- **The end: Rabih, Kousséri and partition.** Colonial-era records and the accounts of the 1893–1900 conquest; dates and figures for the late period are approximate.
+
+---
+
 ### Image credits & licenses
 Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
 
@@ -301,6 +311,15 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Al-Jahiz** — Public domain. https://commons.wikimedia.org/wiki/File:Al-Jahiz.jpg
 - **The Tigris and Euphrates** — Unknown (Public domain). https://commons.wikimedia.org/wiki/File:Tigre_et_Euphrate.jpg
 - **Map of the Islamic world by al-Istakhri** — al-Istakhri (Public domain). https://commons.wikimedia.org/wiki/File:Al_Istakhri_map.jpg
+- **The salute of the spears in front of Kukawa** — P.-L. Monteil (Public domain). https://commons.wikimedia.org/wiki/File:The_Salute_of_the_spears_in_front_of_Kukawa.jpg
+- **Kanem-Bornu in 1650** — Ermanarich (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Kanem-Bornu_1650.svg
+- **A Bornu cavalryman** — Ernst von Raben (Public domain). https://commons.wikimedia.org/wiki/File:A_Bornu_cavalryman.jpg
+- **Kukawa in the 1850s (Barth)** — Martin Bernatz, after Heinrich Barth (Public domain). https://commons.wikimedia.org/wiki/File:Barth_1857_Dendal_in_Kukawa.jpg
+- **Map of Lake Chad, 1870s** — Gustav Nachtigal / Edward Weller (Public domain). https://commons.wikimedia.org/wiki/File:Map_Lake_Chad_1876_B002.png
+- **Uniformed musketeers of the Shehu of Bornu (1912)** — Internet Archive Book Images (CC0). https://commons.wikimedia.org/wiki/File:Uniformed_musketeers_of_the_Shehu_of_Bornu_(1912).jpg
+- **The Shehu of Bornu** — The National Archives UK (No known restrictions). https://commons.wikimedia.org/wiki/File:Shehu_of_Bornu.jpg
+- **Kukawa, 1891** — P.-L. Monteil (Public domain). https://commons.wikimedia.org/wiki/File:Kukawa_in_1891.jpg
+- **Rabih az-Zubayr** — Wario2 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Rabih_az-Zubayr_1896.png
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.
