@@ -86,7 +86,57 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 
 ---
 
-### Image, map & library attribution
+### Image credits & licenses
+Every photograph and artwork on the site is public-domain, CC0, or a Creative Commons licence that permits reuse with attribution. Each credit line also appears beneath its plate on the page (`assets/js/data/images.js`).
+
+- **Rock painting, Tassili n'Ajjer** — Unknown author; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Cave_painting_from_the_Tassili_n%27Ajjer_mountains.jpg
+- **The Pyramids, by the Zangaki studio** — Zangaki studio; scanned by Boston Public Library (Public domain). https://commons.wikimedia.org/wiki/File:Zangaki._0388._The_Pests_of_the_Pyramids.jpg
+- **A Timbuktu manuscript** — Elias Altmimi; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Timbuktu-manuscripts-astronomy-mathematics.jpg
+- **Jebel Irhoud, Morocco** — Ryan Somma (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Jebel_Irhoud_1._Homo_Sapiens.jpg
+- **Out of Africa** — Jayasinghe23 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Migration_routes_of_modern_humans_(2023).png
+- **Laas Geel rock art** — najeeb (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Laas_Geel_rock.jpg
+- **The Sphinx, partly excavated** — Maison Bonfils; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Sphinx_partially_excavated2.jpg
+- **Nok terracotta** — Hiart; Honolulu Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Head,_Nok_culture,_terracotta,_Honolulu_Museum_of_Art,_8349.1.JPG
+- **Great Zimbabwe (corridor)** — CDC / Dr. J. Lyle Conrad; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Corridor_in_Great_Zimbabwe_Ruins_--_1975.jpg
+- **The Battle of Adwa, 1896** — Unknown artist (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Ethiopian_painting,_Battle_of_Adwa,_1896.jpg
+- **Ghana's independence, 1957** — Paasikivi (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:KwameNkrumahOnGhanianIndependenceDay6March1957PostageStamp.JPG
+- **Herto (Idaltu) skull** — Alessandrosmerilli; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Homo_Sapiens_Idaltu.JPG
+- **Omo Kibish cranium** — GuillaumeG (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Omo_Kibish_-_MCN_4152.jpg
+- **Engraved ochre, Blombos Cave** — Chris S. Henshilwood (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Blombo.jpg
+- **Cattle and herders in the Sahara** — IssamBarhoumi (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Daily_scene_with_cattle.jpg
+- **The pyramids of Giza** — Ricardo Liberato (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg
+- **The Narmer Palette** — Ancient Egyptian; photograph via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Narmer_palette_(obverse).jpg
+- **Mask of Tutankhamun** — Roland Unger; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg
+- **The pyramids of Meroë** — Fabrizio Demartis (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Sudan_Meroe_Pyramids_30sep2005_2.jpg
+- **Abu Simbel** — Diego Delso (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg
+- **Great Zimbabwe (walls)** — Aart Rietveld / ASC Leiden (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo,_Zimbabwe.jpg
+- **A Benin brass plaque** — Photo: Mike Peel, British Museum (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:At_the_British_Museum_2024_014.jpg
+- **The Great Mosque of Djenné** — BluesyPete (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:MaliDjenn%C3%A9Mosqu%C3%A9e.JPG
+- **An Aksumite stele** — Tesfawel (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Aksum_obelisk.jpg
+- **A Saharan caravan** — Asfour hamza (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Camel_caravan_going_through_sand_in_the_Sahara_Desert.jpg
+- **Kilwa Kisiwani** — Karalyn Monteil (CC BY-SA 3.0 IGO). https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-127035.jpg
+- **Cowrie shells** — Vidya pmysore (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Big_and_small_cowrie_shells.jpg
+- **An Asante gold weight** — Cleveland Museum of Art (CC0). https://commons.wikimedia.org/wiki/File:Africa,_Ghana,_Asante,_19th_century_-_Gold_Weight-_Fish_-_1961.399_-_Cleveland_Museum_of_Art.tif
+- **The Door of No Return, Ouidah** — Borisghost (CC0). https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Benin.jpg
+- **The Brookes ship plan (1789)** — James Phillips, London (public domain). https://commons.wikimedia.org/wiki/File:Brookes_slave_ship,_British_Library.jpg
+- **Olaudah Equiano (c. 1745–1797)** — W. Denton & D. Orme, British Library (CC0). https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
+- **Gorée Island** — Adjoajo (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal_2.jpg
+- **Africa partitioned, 1914** — Nicolay Sidorov; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Map_of_Africa_1914.jpg
+- **The Rhodes Colossus** — Edward Linley Sambourne, Punch (public domain). https://commons.wikimedia.org/wiki/File:Rhodes_Colossus_Punch_1892_(crop).jpg
+- **Samori Ture, in exile** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Mali.(Kayes)_Samory_%C3%A9coutant_la_sentence_le_condamnant_%C3%A0_l%27exil.jpg
+- **Carving up a continent** — François Maréchal; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg
+- **Emperor Menelik II** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Menelik_II_of_Ethiopia_Negusa_Nagast.jpg
+- **Independence day, 1960** — Somaliland Standard; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Somaliland_independence_26_June_1960.jpg
+- **Jomo Kenyatta** — Pridan Moshe; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_(cropped)_in_June_15th,_1966.jpg
+- **Mandela votes, 1994** — Paul Weinberg (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Mandela_voting_in_1994.jpg
+- **Patrice Lumumba** — Anefo / Nationaal Archief (CC0). https://commons.wikimedia.org/wiki/File:Patrice_Lumumba,_1960.jpg
+- **Kente cloth, Ghana** — Warmglow (CC0). https://commons.wikimedia.org/wiki/File:Different_Kente_cloth,_Tafi,_Volta_region.jpg
+- **Himba otjize** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
+- **Maasai beadwork** — Cecilia Nkini (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Maasai_beadwork.jpg
+- **Adire indigo** — Tunde Akangbe (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Adire_designs_on_stand.jpg
+
+### Map tiles, fonts & libraries
 - Map tiles and data © OpenStreetMap contributors © CARTO.
-- Fonts via Google Fonts (Cinzel, Inter, JetBrains Mono) under the SIL Open Font License.
+- Fonts via Google Fonts — Cinzel, EB Garamond, IM Fell English, JetBrains Mono — under the SIL Open Font License / Apache 2.0.
 - Three.js (MIT), Leaflet (BSD-2-Clause), Lucide (ISC).
+- Africa GeoJSON from the *click_that_hood* project, derived from Natural Earth (public domain).
