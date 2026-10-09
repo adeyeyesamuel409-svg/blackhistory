@@ -256,5 +256,40 @@ window.UnbrokenImages = {
     credit: "Cleveland Museum of Art (CC0)", license: "CC0",
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     source: "https://commons.wikimedia.org/wiki/File:Africa,_Ghana,_Asante,_19th_century_-_Gold_Weight-_Fish_-_1961.399_-_Cleveland_Museum_of_Art.tif"
+  },
+  "slavery-ouidah-door": {
+    dir: "slavery-ouidah-door", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The Door of No Return memorial arch at Ouidah, Benin, facing the sea",
+    title: "The Door of No Return, Ouidah",
+    caption: "The memorial at Ouidah, Benin, remembering the point of embarkation for enslaved Africans shipped across the Atlantic. Photographed with respect for the site's meaning.",
+    credit: "Borisghost (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Benin.jpg"
+  },
+  "slavery-brookes": {
+    dir: "slavery-brookes", ext: "jpg", widths: [480],
+    alt: "The 1789 Brookes slave ship diagram, showing enslaved Africans packed in rows below deck",
+    title: "The Brookes ship plan (1789)",
+    caption: "The plan of the slave ship Brookes, published by abolitionists to expose the conditions on board. Shown as historical evidence \u2014 these were people, not cargo.",
+    credit: "James Phillips, London (public domain)", license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Brookes_slave_ship,_British_Library.jpg"
+  },
+  "slavery-equiano": {
+    dir: "slavery-equiano", ext: "jpg", widths: [480],
+    alt: "Portrait of Olaudah Equiano (Gustavus Vassa), African writer and abolitionist",
+    title: "Olaudah Equiano (c. 1745\u20131797)",
+    caption: "Olaudah Equiano, a formerly enslaved man whose autobiography (1789) helped fuel the abolitionist movement.",
+    credit: "W. Denton & D. Orme, British Library (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg"
+  },
+  "slavery-goree": {
+    dir: "slavery-goree", ext: "jpg", widths: [480],
+    alt: "The coast of Gor\u00e9e Island, Senegal",
+    title: "Gor\u00e9e Island",
+    caption: "Gor\u00e9e Island off Senegal, an entry point of the Atlantic trade and today a UNESCO site of memory.",
+    credit: "Adjoajo (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal_2.jpg"
   }
 };
