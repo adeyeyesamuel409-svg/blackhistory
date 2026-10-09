@@ -58,7 +58,8 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 ### Culture (hair, attire, textiles)
 - General framing and style names draw on museum and ethnographic collections: **The Metropolitan Museum of Art** (Egypt/Nubia), **Smithsonian National Museum of African Art**, **The British Museum**. See `met`, `nok`, `british` in `history.js`.
 - 3D hairstyle models are **stylised representations** for teaching, not accurate reconstructions or portraits.
-- **Historical hairstyles — the "real hairstyles" plates.** Roy Sieber & Frank Herreman (eds.), *Hair in African Art and Culture* (Museum for African Art / Prestel, 2000); A. Raffenel, *Voyage dans l'Afrique occidentale… 1843–1844*; 1887 Peul studio photographs from Senegal (Bonnevide/Hostalier); early Rwandan photography (King Yuhi V Musinga, 1910s; Casimir Zagourski, 1929–37); Congo mission photographs (c. 1900–1915, International Mission Photography Archive); Richard Buchta's Mangbetu images (1877–80); ethnographic photographs of the Himba of north-west Namibia.
+- **Historical hairstyles — the "real hairstyles" plates.** Roy Sieber & Frank Herreman (eds.), *Hair in African Art and Culture* (Museum for African Art / Prestel, 2000); A. Raffenel, *Voyage dans l'Afrique occidentale… 1843–1844*; 1887 Peul studio photographs from Senegal (Bonnevide/Hostalier); early Rwandan photography (King Yuhi V Musinga, 1910s; Casimir Zagourski, 1929–37); Congo mission photographs (c. 1900–1915); Richard Buchta's Mangbetu images (1877–80); ethnographic photographs of the Himba of north-west Namibia.
+- **Transatlantic slavery era (17th–19th century) — documented hair and headwraps.** Period photographs and prints of enslaved and African-descended women (e.g. New Orleans, 1850s; emancipated people brought from Louisiana, December 1863, Myron H. Kimball; Marguerite, a former slave, 1880); see also collections at the Metropolitan Museum of Art and Library of Congress for context. Where direct evidence is scarce, descriptions are limited to verifiably visible features.
 - **Cloth as coded language (kente motifs, adire, bogolan); Ndebele wall painting.** African textile scholarship; museum collections (British Museum, Smithsonian NMAfA).
 - **Griots (Mande jeliw) and the kora as oral archive.** Hale, *Griots and Griottes*; Charry, *Mande Music*.
 - **Polyrhythm, call-and-response and diaspora music.** Standard ethnomusicology (Nketia, *The Music of Africa*).
@@ -345,6 +346,9 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Mangbetu coiffure** — Kazimierz Zagórski (Public domain). https://commons.wikimedia.org/wiki/File:Mangbetu_coiffure_de_Kazimierz_Zag%C3%B3rski.jpg
 - **Himba herders, Namibia** — Hans Stieglitz (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Himba-Hirten.jpg
 - **Himba woman applying otjize (2007)** — Josep M. Gracia (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Himba_woman_applying_otjize_to_her_body_in_northern_Namibia,_2007.jpg
+- **Woman with an enslaved girl, New Orleans, 1850s** — The Burns Archive (Public domain). https://commons.wikimedia.org/wiki/File:Woman_with_enslaved_girl,_New_Orleans_1850s.jpg
+- **Emancipated people brought from Louisiana by Colonel George H. Banks, December 1863** — Myron H. Kimball (CC0). https://commons.wikimedia.org/wiki/File:Emancipated_Slaves_Brought_from_Louisiana_by_Colonel_George_H._Banks_MET_DP274834.jpg
+- **Marguerite, a former slave, 1880** — Unknown (Public domain). https://commons.wikimedia.org/wiki/File:Marguerite,_a_former_slave,_1880.jpg
 
 ### Map tiles, fonts & libraries
 - Map tiles & data © Esri — World Light Gray Canvas, keyless basemap.

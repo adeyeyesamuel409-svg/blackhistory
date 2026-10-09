@@ -1355,5 +1355,32 @@ window.UnbrokenImages = {
     credit: "Josep M. Gracia, 2007 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     source: "https://commons.wikimedia.org/wiki/File:Himba_woman_applying_otjize_to_her_body_in_northern_Namibia,_2007.jpg"
+  },
+  "slv-no1850s": {
+    dir: "slv-no1850s", ext: "jpg", widths: [480, 640],
+    alt: "Woman with an enslaved girl, New Orleans, 1850s",
+    title: "New Orleans, 1850s",
+    caption: "Woman with an enslaved girl, New Orleans, 1850s. Photographs from this era show tightly drawn hair and headwraps worn by many enslaved and free Black women.",
+    credit: "The Burns Archive (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Woman_with_enslaved_girl,_New_Orleans_1850s.jpg"
+  },
+  "slv-la1863": {
+    dir: "slv-la1863", ext: "jpg", widths: [640, 960, 1280],
+    alt: "Emancipated slaves brought from Louisiana by Colonel George H. Banks, December 1863",
+    title: "Emancipated people, Louisiana, 1863",
+    caption: "Emancipated people brought from Louisiana by Colonel George H. Banks, December 1863 (Myron H. Kimball). Many wear wrapped, braided or dressed hair under headwraps.",
+    credit: "Myron H. Kimball, 1863 (CC0)", license: "CC0",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Emancipated_Slaves_Brought_from_Louisiana_by_Colonel_George_H._Banks_MET_DP274834.jpg"
+  },
+  "slv-marg1880": {
+    dir: "slv-marg1880", ext: "jpg", widths: [480, 640],
+    alt: "Marguerite, a former slave, photographed 1880",
+    title: "Marguerite, a former slave, 1880",
+    caption: "Marguerite, a former slave, photographed 1880. Her coiffure reflects practical and cultural styles maintained by African-descended women in the post-emancipation era.",
+    credit: "Unknown, 1880 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Marguerite,_a_former_slave,_1880.jpg"
   }
 };
