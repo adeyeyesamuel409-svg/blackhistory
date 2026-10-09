@@ -37,6 +37,9 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Wadi al-Jarf papyri (logistics).** Tallet, *Les papyrus de la mer Rouge* (2017).
 - **Astronomical alignment to true north.** Spence, **Nature** 408 (2000); Belmonte, *"On the Orientation of Old Kingdom Egyptian Pyramids"*.
 - **Kingdom of Kush / Meroë, ~200 pyramids; 25th Dynasty c. 744–656 BCE.** UNESCO World Heritage; *The Kingdom of Kush* (László Török).
+- **Rosetta Stone (196 BCE); decipherment by Champollion (1822).** British Museum; Champollion, *Lettre à M. Dacier* (1822).
+- **Rhind Mathematical Papyrus (c. 1650 BCE).** Chace, *The Rhind Mathematical Papyrus* (1927–29); British Museum.
+- **Ebers Papyrus and Edwin Smith Papyrus (medicine).** Ebbell, *The Papyrus Ebers* (1937); Breasted, *The Edwin Smith Surgical Papyrus* (1930).
 
 ### Pre-colonial empires
 - **Mali (Mansa Musa, r. c. 1312–1337).** Levtzion & Hopkins, *Corpus of Early Arabic Sources for West African History*.
@@ -129,6 +132,11 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Cattle and herders in the Sahara** — IssamBarhoumi (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Daily_scene_with_cattle.jpg
 - **The pyramids of Giza** — Ricardo Liberato (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg
 - **The Narmer Palette** — Ancient Egyptian; photograph via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Narmer_palette_(obverse).jpg
+- **The Rosetta Stone** — via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:The_Rosetta_Stone.jpg
+- **Rhind Mathematical Papyrus** — Ancient Egyptian (Public domain). https://commons.wikimedia.org/wiki/File:Rhind_Mathematical_Papyrus.jpg
+- **Granite ram of Amun protecting Taharqa** — Gary Todd (CC0). https://commons.wikimedia.org/wiki/File:Egyptian_Granite_Statue_of_Amun_as_Ram_Protecting_King_Taharqa,_25th_Dynasty_(36490513726).jpg
+- **The seated scribe** — Museo Egizio, Turin (CC0). https://commons.wikimedia.org/wiki/File:Statue_of_a_scribe,_limestone_-_Museo_Egizio_Turin_C_3045_p01.jpg
+- **Hieroglyphs, Medinet Habu** — Vyacheslav Argenberg (CC BY 4.0). https://commons.wikimedia.org/wiki/File:Thebes,_Medinet_Habu,_Egypt,_Temple_of_Ramesses_III,_Egyptian_hieroglyphs,_Ancient_Egypt.jpg
 - **Mask of Tutankhamun** — Roland Unger; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg
 - **The pyramids of Meroë** — Fabrizio Demartis (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:Sudan_Meroe_Pyramids_30sep2005_2.jpg
 - **Abu Simbel** — Diego Delso (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg

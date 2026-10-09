@@ -554,5 +554,50 @@ window.UnbrokenImages = {
     credit: "Zaian (CC0)", license: "CC0",
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
     source: "https://commons.wikimedia.org/wiki/File:Cederberg_rock_art_near_Stadsaal.jpg"
+  },
+  "kem-rosetta": {
+    dir: "kem-rosetta", ext: "jpg", widths: [400, 640, 900],
+    alt: "The Rosetta Stone, bearing the same decree in hieroglyphic, demotic and Greek",
+    title: "The Rosetta Stone",
+    caption: "The Rosetta Stone (196 BCE) carries the same decree in hieroglyphic, demotic and Greek — the key that let Champollion decipher Egyptian writing in 1822.",
+    credit: "Photograph via Wikimedia Commons (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:The_Rosetta_Stone.jpg"
+  },
+  "kem-rhind": {
+    dir: "kem-rhind", ext: "jpg", widths: [400, 640],
+    alt: "A page of the Rhind Mathematical Papyrus with columns of Egyptian fractions and problems",
+    title: "Rhind Mathematical Papyrus",
+    caption: "The Rhind Mathematical Papyrus (c. 1650 BCE) works problems in fractions, geometry, slope and volume — the practical mathematics of surveying and construction.",
+    credit: "Ancient Egyptian (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Rhind_Mathematical_Papyrus.jpg"
+  },
+  "kem-taharqa": {
+    dir: "kem-taharqa", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Granite statue of the god Amun as a ram protecting the Kushite king Taharqa",
+    title: "Taharqa, king of Kush and Egypt",
+    caption: "A granite ram of Amun shielding the Kushite king Taharqa (25th Dynasty) — a Nubian ruler of a united Egypt and Kush, from the Nile Delta to the Atbara.",
+    credit: "Gary Todd (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Egyptian_Granite_Statue_of_Amun_as_Ram_Protecting_King_Taharqa,_25th_Dynasty_(36490513726).jpg"
+  },
+  "kem-scribe": {
+    dir: "kem-scribe", ext: "jpg", widths: [400, 640, 900],
+    alt: "Limestone statue of a seated Egyptian scribe with a papyrus roll on his lap",
+    title: "The seated scribe",
+    caption: "A seated scribe (Museo Egizio, Turin). Literacy was the gateway to Egypt's administration — the scribe recorded the grain, the taxes and the law.",
+    credit: "Museo Egizio, Turin (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0",
+    source: "https://commons.wikimedia.org/wiki/File:Statue_of_a_scribe,_limestone_-_Museo_Egizio_Turin_C_3045_p01.jpg"
+  },
+  "kem-hieroglyphs": {
+    dir: "kem-hieroglyphs", ext: "jpg", widths: [480, 800, 1280],
+    alt: "Densely carved Egyptian hieroglyphs on a temple wall at Medinet Habu",
+    title: "Hieroglyphs, Medinet Habu",
+    caption: "Hieroglyphs carved at Medinet Habu. Beyond monuments, the script recorded medicine, mathematics and everyday letters — a literate African civilisation.",
+    credit: "Vyacheslav Argenberg (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Thebes,_Medinet_Habu,_Egypt,_Temple_of_Ramesses_III,_Egyptian_hieroglyphs,_Ancient_Egypt.jpg"
   }
 };
