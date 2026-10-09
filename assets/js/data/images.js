@@ -139,5 +139,50 @@ window.UnbrokenImages = {
     credit: "IssamBarhoumi (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Daily_scene_with_cattle.jpg"
+  },
+  "kemet-pyramids": {
+    dir: "kemet-pyramids", ext: "jpg", widths: [480, 800, 1280],
+    alt: "The three main pyramids of the Giza plateau in Egypt",
+    title: "The pyramids of Giza",
+    caption: "The Giza pyramids, raised c. 2560\u20132500 BCE by Egyptian workers using sledges, ramps and the Nile flood.",
+    credit: "Ricardo Liberato (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg"
+  },
+  "kemet-narmer": {
+    dir: "kemet-narmer", ext: "jpg", widths: [500],
+    alt: "The Narmer Palette, an ancient Egyptian carved ceremonial slab",
+    title: "The Narmer Palette",
+    caption: "The Narmer Palette (c. 3100 BCE), a ceremonial slab marking the unification of Upper and Lower Egypt.",
+    credit: "Ancient Egyptian; photograph via Wikimedia Commons",
+    license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Narmer_palette_(obverse).jpg"
+  },
+  "kemet-tutankhamun": {
+    dir: "kemet-tutankhamun", ext: "jpg", widths: [500],
+    alt: "The gold funerary mask of the pharaoh Tutankhamun",
+    title: "Mask of Tutankhamun",
+    caption: "The gold funerary mask of Tutankhamun (r. c. 1332\u20131323 BCE), Egyptian Museum, Cairo.",
+    credit: "Roland Unger; via Wikimedia Commons",
+    license: "Public domain", licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+  },
+  "kemet-meroe": {
+    dir: "kemet-meroe", ext: "jpg", widths: [480, 800],
+    alt: "The pyramids of Mero\u00eb in Sudan, built by the kingdom of Kush",
+    title: "The pyramids of Mero\u00eb",
+    caption: "The Nubian pyramids of Mero\u00eb, Sudan \u2014 built by Kushite rulers, among the largest pyramid fields in the world.",
+    credit: "Fabrizio Demartis (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:Sudan_Meroe_Pyramids_30sep2005_2.jpg"
+  },
+  "kemet-abu-simbel": {
+    dir: "kemet-abu-simbel", ext: "jpg", widths: [480, 800],
+    alt: "The Great Temple of Ramesses II at Abu Simbel, Egypt",
+    title: "Abu Simbel",
+    caption: "The Great Temple of Ramesses II at Abu Simbel (13th century BCE), aligned so sunlight reaches its inner sanctuary twice a year.",
+    credit: "Diego Delso (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg"
   }
 };
