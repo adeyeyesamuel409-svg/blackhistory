@@ -47,7 +47,9 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Great Zimbabwe (c. 1100–1450 CE; walls up to 11 m).** UNESCO World Heritage; Pikirayi, *The Zimbabwe Culture*.
 - **Aksum (coins, 4th-c. Christianity).** UNESCO World Heritage; Munro-Hay, *Aksum: An African Civilisation of Late Antiquity*.
 - **Kingdom of Benin (Benin Bronzes).** British Museum collections; `british` in `history.js`.
-- **Kingdom of Kongo.** Thornton, *The Kingdom of Kongo: Civil Society and Political Culture*.
+- **Kingdom of Kongo.** Thornton, *The Kingdom of Kongo: Civil Society and Political Culture*; Hilton, *The Kingdom of Kongo* (Oxford, 1985).
+- **Sokoto Caliphate (1804-1903).** Johnston, *The Fulani Empire of Sokoto* (1967); Murray Last, *The Sokoto Caliphate* (1967); Mack &amp; Boyd on Nana Asma'u.
+- **Oyo Empire (c. 1400-1896).** Balogun, "The Origin of the Oyo Empire"; J.D. Fage, *An Outline of the History of the Western Sudan*; Robin Law, *West Africa and the Atlantic Slave Trade* (1977).
 - **Ghana Empire (Koumbi Saleh).** UNESCO World Heritage.
 - **Mansa Musa's 1324 pilgrimage; the Catalan Atlas (1375).** Levtzion & Hopkins; Bibliothèque nationale de France (Catalan Atlas, attributed to Abraham Cresques).
 - **Ife brass heads (12th–15th c.); Benin bronze-casting guilds.** The British Museum; Metropolitan Museum of Art.
@@ -183,12 +185,49 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **The nineteenth century, al-Kanemi and the Shehus.** Louis Brenner, *The Shehus of Kukawa*; Ronald Cohen, *The Kanuri of Bornu*.
 - **The end: Rabih, Kousséri and partition.** Colonial-era records and the accounts of the 1893–1900 conquest; dates and figures for the late period are approximate.
 
+## Page — Maiherpri (KV36, c. 1418–1390 BCE)
+- **Topography and tomb.** Bertha Porter & Rosalind L. B. Moss, *Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings I: The Theban Necropolis Part 2* (2nd ed., 1964).
+- **Titles and context.** Dennis C. Forbes, *Tombs, Treasures, Mummies: Seven Great Discoveries of Egyptian Archaeology* (1998); Eric H. Cline & David B. O'Connor (eds.), *Thutmose III: A New Biography* (2006).
+- **Note.** No verifiably public-domain image of Maiherpri has been located; the page is text-based with cited sources.
+
 ## Deep dive — The Battle of Adwa (1896)
 - **The Ethiopian royal chronicle of Menelik II.** Gäbrä Sǝllase, *Chronique du règne de Ménélik II, roi des rois d'Éthiopie*, ed. & trans. Maurice de Coppet (2 vols., 1930–31).
 - **The treaties.** The Treaty of Wuchale (Uccialli), 1889 — with the divergent Italian and Amharic texts over Article 17 — and the Treaty of Addis Ababa, October 1896.
 - **Italian campaign accounts.** Oreste Baratieri, *Memorie d'Africa (1892–1896)* (1898); G. F. Berkeley, *The Campaign of Adowa and the Rise of Menelik* (1902).
 - **Modern scholarship.** Raymond Jonas, *The Battle of Adwa: African Victory in the Age of Empire* (2011); Bahru Zewde, *A History of Modern Ethiopia, 1855–1991*; Richard Pankhurst, *The Ethiopians*.
 - **Casualty figures.** Estimates of the forces engaged and the dead vary widely between sources; this page gives them as approximations and flags where they are contested.
+
+## Deep dive — Nanny of the Maroons (1738–39 treaties)
+- **Nanny and the Windward Maroons.** Bryan Edwards, *The History, Civil and Commercial, of the British Colonies in the West Indies* (1793); Richard Hart, *Slaves Who Abolished Slavery: Blacks in Rebellion* (1985).
+- **Oral tradition as the primary record.** Jamaica National Heritage Trust; contested details are flagged on the page.
+
+## Deep dive — Yaa Asantewaa and the War of the Golden Stool (1900)
+- **The war, March–September 1900.** Colonial dispatches (Public Records Office) on the Ashanti Expedition of 1900; Governor Hodgson's demand for the Golden Stool.
+- **Asante institutions and the exile of Prempeh I (1896).** Ivor Wilks, *Asante in the Nineteenth Century* (1975); David Owusu-Ansah, *Historical Dictionary of Ghana* (2014).
+
+## Deep dive — Agojie of Dahomey
+- **19th-century eyewitness accounts.** R. F. Burton and the accounts of the Anglo-Dahomey Wars (Forbes, Skertchly) — critically assessed in Stanley B. Alpern, *Amazons of Black Sparta* (1998).
+- **State and gender.** Edna G. Bay, *Wives of the Leopard* (1998); Robin Law, *The Slave Coast of West Africa, 1550–1750* (1991).
+
+## Deep dive — Kongo Kingdom (c. 1390–1914)
+- **Political history, the Lukeni lineage and the 1491 baptism.** John K. Thornton, *The Kingdom of Kongo* (1983); Anne Hilton, *The Kingdom of Kongo* (Oxford, 1985).
+- **Diplomacy and Christianity.** John Thornton, *Africa and Africans in the Making of the Atlantic World, 1400–1800* (1998).
+
+## Deep dive — Benin Kingdom (Edo)
+- **Dynasty and city.** R. E. Bradbury, *The Benin Kingdom and the Edo-Speaking Peoples of South-Western Nigeria* (IAI, 1957).
+- **Art.** Paula Girshick Ben-Amos, *The Art of Benin* (Thames & Hudson, 1995); British Museum collections.
+- **European contact and 1897.** A. F. C. Ryder, *Benin and the Europeans, 1485–1897* (1969).
+
+## Deep dive — Sokoto Caliphate (1804–1903)
+- **The jihād of 1804.** S. Johnston, *The Fulani Empire of Sokoto* (1967); Murray Last, *The Sokoto Caliphate* (1967).
+- **Women's scholarship.** Beverly B. Mack & Jean Boyd, *Nana Asma'u, Daughter of Shehu Usman: Life and Legacy*.
+- **Conquest in 1903.** Colonial-era records; Martha Hiskett, *The Sword of Truth*.
+
+## Deep dive — Oyo Empire (c. 1400–1896)
+- **Origin and cavalry.** S. D. Balogun, "The Origin of the Oyo Empire", *Journal of the Historical Society of Nigeria*.
+- **Institutions.** Bolanle Awe, *Kingdoms of Nigeria* (1974) — the Oyo chapter.
+- **Trade and wars.** Robin Law, *West Africa and the Atlantic Slave Trade* (1977).
+- **Decline.** J. D. Fage, "An Outline of the History of the Western Sudan", *JHSN*; civil war and Ibadan's ascendancy, 1820s–1830s.
 
 ---
 
