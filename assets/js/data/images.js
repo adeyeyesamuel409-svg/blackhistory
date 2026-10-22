@@ -1382,5 +1382,59 @@ window.UnbrokenImages = {
     credit: "Unknown, 1880 (Public domain)", license: "Public domain",
     licenseUrl: "",
     source: "https://commons.wikimedia.org/wiki/File:Marguerite,_a_former_slave,_1880.jpg"
+  },
+  "oy-alaafin": {
+    dir: "oy-alaafin", ext: "jpg", widths: [400, 600],
+    alt: "The Alaafin of Oyo with the British colonial governor Sir Walter Egerton, c. 1910",
+    title: "The Alaafin of Oyo and Sir Walter Egerton, c. 1910",
+    caption: "The Alaafin (king) of Oyo, seated with Sir Walter Egerton, Governor of Southern Nigeria, c. 1910 - a portrait from the twilight of Oyo's autonomy.",
+    credit: "The National Archives UK (OGL v1.0)", license: "OGL v1.0",
+    licenseUrl: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/",
+    source: "https://commons.wikimedia.org/wiki/File:Alafin_Oyo_%26_Sir_Walter_Egerton.png"
+  },
+  "oy-palace": {
+    dir: "oy-palace", ext: "jpg", widths: [400, 500],
+    alt: "The palace of the Alaafin of Oyo, photographed c. mid-1900s",
+    title: "The palace of the Alaafin of Oyo",
+    caption: "The palace compound of the Alaafin at Oyo, photographed in the mid-twentieth century - rebuilt on the site of the older royal capital.",
+    credit: "The African History (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Palace_of_Alaafin_of_Oyo_circa_mid-1900s.jpg"
+  },
+  "oy-wall": {
+    dir: "oy-wall", ext: "jpg", widths: [400, 600, 900],
+    alt: "A ruined earthen wall at Old Oyo (Oyo-Ile)",
+    title: "The walls of Old Oyo (Oyo-Ile)",
+    caption: "A surviving section of the great earthen wall-and-ditch system that ringed Oyo-Ile, the imperial capital, among the largest earthworks in pre-colonial West Africa.",
+    credit: "Ifecenticpolity (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Old_Oyo_wall_ruin.jpg"
+  },
+  "oy-brass": {
+    dir: "oy-brass", ext: "jpg", widths: [400, 600, 900],
+    alt: "Two brass roof pillars from the palace at Old Oyo, Yoruba, photographed in colour",
+    title: "Brass pillars from the palace at Old Oyo",
+    caption: "Two cast-brass roof pillars, probably from the palace at Old Oyo, decorated with figures and openwork - evidence of the court's metalworking and royal display.",
+    credit: "Peter Morton-Williams (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Two_Brass_Yoruba_Pillars_Colorized.png"
+  },
+  "oy-map": {
+    dir: "oy-map", ext: "jpg", widths: [400, 600, 900],
+    alt: "Map of the Oyo Empire at its greatest extent, c. 1780",
+    title: "The Oyo Empire at its greatest extent, c. 1780",
+    caption: "The Oyo Empire at its greatest extent, c. 1780, reaching from the Niger bend to the Bight of Benin and Dahomey - after Lovejoy (Slavery Images).",
+    credit: "Slavery Images / Henry B. Lovejoy (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Oyo_Empire_at_Its_Greatest_Extent,_c._1780.jpg"
+  },
+  "oy-frontiers": {
+    dir: "oy-frontiers", ext: "jpg", widths: [400, 600, 800],
+    alt: "Map of the frontiers of the Kingdom of Oyo and its neighbours, c. 1790",
+    title: "Oyo and its neighbours, c. 1790",
+    caption: "The frontiers of the Kingdom of Oyo and its neighbouring states, c. 1790, showing its Yoruba core and the surrounding polities it dominated or traded with.",
+    credit: "Henry B. Lovejoy (CC BY 4.0)", license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg"
   }
 };

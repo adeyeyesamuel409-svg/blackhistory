@@ -228,6 +228,7 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **Institutions.** Bolanle Awe, *Kingdoms of Nigeria* (1974) — the Oyo chapter.
 - **Trade and wars.** Robin Law, *West Africa and the Atlantic Slave Trade* (1977).
 - **Decline.** J. D. Fage, "An Outline of the History of the Western Sudan", *JHSN*; civil war and Ibadan's ascendancy, 1820s–1830s.
+- **Images.** The Alaafin of Oyo with Sir Walter Egerton, c. 1910 — The National Archives UK (OGL v1.0); Palace of the Alaafin of Oyo, c. mid-1900s — public domain; Old Oyo wall ruin — Ifecenticpolity (CC BY-SA 4.0); Two brass Yoruba pillars — Peter Morton-Williams (CC0); Oyo Empire at its greatest extent c. 1780 and Frontiers of the Kingdom of Oyo c. 1790 — Slavery Images / Henry B. Lovejoy (CC BY 4.0).
 
 ---
 
