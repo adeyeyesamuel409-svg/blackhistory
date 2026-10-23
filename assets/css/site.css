@@ -265,6 +265,9 @@ p { margin: 0 0 1em; }
 button.plate-media { width: 100%; padding: 0; background: transparent; font: inherit; color: inherit; text-align: inherit; }
 .plate-wide { max-width: 1040px; margin-inline: auto; }
 .plate-wide .plate-media img { width: 100%; max-height: 66vh; object-fit: cover; }
+.plate-doc { max-width: 1040px; margin-inline: auto; }
+.plate-doc .plate-media { display: flex; justify-content: center; background: var(--paper-warm); }
+.plate-doc .plate-media img { width: auto; max-width: 100%; max-height: 78vh; object-fit: contain; }
 .plate-title { font-family: var(--font-display); font-size: 0.98rem; color: var(--ink); display: block; margin-bottom: 4px; }
 .plate-credit { font-size: 0.72rem; color: var(--ink-faint); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .license-chip {

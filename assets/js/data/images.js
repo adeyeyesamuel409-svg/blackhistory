@@ -1607,5 +1607,77 @@ window.UnbrokenImages = {
     credit: "Gabagool (CC BY 3.0)", license: "CC BY 3.0",
     licenseUrl: "https://creativecommons.org/licenses/by/3.0",
     source: "https://commons.wikimedia.org/wiki/File:Kingdom_of_Kongo_1600.png"
+  },
+  "slv-brookes1788": {
+    dir: "slv-brookes1788", ext: "jpg", widths: [500, 800, 1028],
+    alt: "Stowage plan of the British slave ship Brookes, 1788",
+    title: "The slave ship Brookes, 1788",
+    caption: "The stowage plan of the British slave ship Brookes under the regulated slave trade act of 1788 - the abolitionists' diagram that showed how tightly the enslaved were packed. Library of Congress.",
+    credit: "Printed Ephemera Collection, Library of Congress (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Stowage_of_the_British_slave_ship_Brookes_under_the_regulated_slave_trade_act_of_1788_LCCN98504459.jpg"
+  },
+  "slv-saphira": {
+    dir: "slv-saphira", ext: "jpg", widths: [500, 700, 960],
+    alt: "Plan of the lower deck of the Brazilian slave ship Saphira, c. 1848",
+    title: "Lower deck of the Saphira, c. 1848",
+    caption: "Plan of the lower deck of the Brazilian slave ship Saphira, drawn by Captain William Buck RN of the Royal Navy's anti-slavery patrol, c. 1848.",
+    credit: "Capt. W. Buck RN, South Street Seaport Museum (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Plan_of_the_Lower_Deck_of_the_Brazilian_Slave_ship_Saphira_1981.042.0014.jpg"
+  },
+  "slv-marie": {
+    dir: "slv-marie", ext: "jpg", widths: [800, 1200, 1600],
+    alt: "Plan, profile and layout of the slave ship Marie-Seraphique of Nantes, 1770",
+    title: "Deck plan of the Marie-Seraphique, 1770",
+    caption: "Plan, profile and stowage of the slave ship La Marie-Seraphique of Nantes, fitted out for Angola in 1770 - a rare contemporary French plan showing how captives were held below deck.",
+    credit: "Chateau des ducs de Bretagne, Nantes (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Slave_deck_of_the_Marie_S%C3%A9raphique.jpg"
+  },
+  "slv-deckjam": {
+    dir: "slv-deckjam", ext: "jpg", widths: [500, 800, 1200],
+    alt: "Deck of a slave ship approaching Jamaica, 19th century",
+    title: "On the deck of a slave ship",
+    caption: "On the deck of a slave ship approaching Jamaica, 19th century - captives being prepared and exercised on deck (Slavery Images).",
+    credit: "Unknown, 19th century (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Deck_of_Slave_Ship,_Jamaica,_19th_cent_-_Pont_d%27un_navire_n%C3%A9grier_%C3%A0_l%27approche_de_la_Jama%C3%AFque,_XIXe_si%C3%A8cle.jpg"
+  },
+  "slv-neckshackles": {
+    dir: "slv-neckshackles", ext: "jpg", widths: [400, 600, 947],
+    alt: "Iron neck shackles used to restrain enslaved people",
+    title: "Neck shackles",
+    caption: "Iron neck shackles used to restrain enslaved Africans, displayed at the Nantes History Museum - the collar-and-staple design locked around the neck.",
+    credit: "Szilas, Nantes History Museum (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Neck_shackles_for_slaves.jpg"
+  },
+  "slv-shackles18c": {
+    dir: "slv-shackles18c", ext: "jpg", widths: [400, 600, 900],
+    alt: "18th-century slave shackles from Tamale, Northern Ghana, International Slavery Museum",
+    title: "Shackles, 18th century",
+    caption: "18th-century slave shackles from Tamale, Northern Ghana, held by the International Slavery Museum, Liverpool - heavy iron fetters worn on the wrists and ankles.",
+    credit: "Adam Jones, International Slavery Museum (CC BY-SA 2.0)", license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+    source: "https://commons.wikimedia.org/wiki/File:18th-Century_Slave_Shackles_from_Tamale,_Northern_Ghana_-_International_Slavery_Museum_-_Liverpool_-_England_(28144996426).jpg"
+  },
+  "slv-chains-badagry": {
+    dir: "slv-chains-badagry", ext: "jpg", widths: [400, 600, 900],
+    alt: "Iron chains used during the slave trade, Slave Relics Museum, Badagry",
+    title: "Chains of the trade, Badagry",
+    caption: "Iron chains used during the slave trade, held at the Slave Relics Museum in Badagry, Nigeria - a coastal point of embarkation.",
+    credit: "Samuel Tobbytex007 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:CHAINS_USED_DURING_THE_SLAVE_TRADE._SLAVE_RELICS_MUSEUM,_BADAGRY.JPG"
+  },
+  "slv-shipmodel": {
+    dir: "slv-shipmodel", ext: "jpg", widths: [500, 800, 1200],
+    alt: "A folk-art model of a slave ship, National Museum of African American History and Culture",
+    title: "A slave-ship model",
+    caption: "A folk-art model of a slave ship, made by an unknown artist in the first half of the 20th century, displayed at the National Museum of African American History and Culture.",
+    credit: "NMAAHC, Smithsonian (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Slave_Ship_Model.jpg"
   }
 };

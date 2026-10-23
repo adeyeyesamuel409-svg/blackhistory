@@ -293,6 +293,14 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Leonard Parkinson, Maroon captain (1796)** — Abraham Raimbach (Public domain). https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg
 - **Olaudah Equiano (c. 1745–1797)** — W. Denton & D. Orme, British Library (CC0). https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
 - **Gorée Island** — Adjoajo (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Goree_Island,_Senegal_2.jpg
+- **Stowage of the slave ship *Brookes*, 1788** — Printed Ephemera Collection, Library of Congress (Public domain). https://commons.wikimedia.org/wiki/File:Stowage_of_the_British_slave_ship_Brookes_under_the_regulated_slave_trade_act_of_1788_LCCN98504459.jpg
+- **Deck plan of *La Marie-Séraphique*, Nantes, 1770** — Château des ducs de Bretagne, Nantes (Public domain). https://commons.wikimedia.org/wiki/File:Slave_deck_of_the_Marie_Séraphique.jpg
+- **Lower deck of the Brazilian slave ship *Saphira*, c. 1848** — Capt. William Buck RN, South Street Seaport Museum (Public domain). https://commons.wikimedia.org/wiki/File:Plan_of_the_Lower_Deck_of_the_Brazilian_Slave_ship_Saphira_1981.042.0014.jpg
+- **Deck of a slave ship approaching Jamaica (19th c.)** — Slavery Images (Public domain). https://commons.wikimedia.org/wiki/File:Deck_of_Slave_Ship,_Jamaica,_19th_cent_-_Pont_d%27un_navire_n%C3%A9grier_%C3%A0_l%27approche_de_la_Jama%C3%AFque,_XIXe_si%C3%A8cle.jpg
+- **Slave-ship model (folk art)** — NMAAHC, Smithsonian (CC0). https://commons.wikimedia.org/wiki/File:Slave_Ship_Model.jpg
+- **Neck shackles for enslaved people** — Szilas, Nantes History Museum (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Neck_shackles_for_slaves.jpg
+- **18th-century slave shackles, Tamale, Ghana** — Adam Jones, International Slavery Museum, Liverpool (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:18th-Century_Slave_Shackles_from_Tamale,_Northern_Ghana_-_International_Slavery_Museum_-_Liverpool_-_England_(28144996426).jpg
+- **Slave-trade chains, Badagry** — Samuel Tobbytex007 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:CHAINS_USED_DURING_THE_SLAVE_TRADE._SLAVE_RELICS_MUSEUM,_BADAGRY.JPG
 - **Africa partitioned, 1914** — Nicolay Sidorov; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Map_of_Africa_1914.jpg
 - **The Rhodes Colossus** — Edward Linley Sambourne, Punch (public domain). https://commons.wikimedia.org/wiki/File:Rhodes_Colossus_Punch_1892_(crop).jpg
 - **Samori Ture, in exile** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Mali.(Kayes)_Samory_%C3%A9coutant_la_sentence_le_condamnant_%C3%A0_l%27exil.jpg
