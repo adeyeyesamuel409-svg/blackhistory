@@ -1436,5 +1436,68 @@ window.UnbrokenImages = {
     credit: "Henry B. Lovejoy (CC BY 4.0)", license: "CC BY 4.0",
     licenseUrl: "https://creativecommons.org/licenses/by/4.0",
     source: "https://commons.wikimedia.org/wiki/File:Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg"
+  },
+  "sk-view1890": {
+    dir: "sk-view1890", ext: "jpg", widths: [480, 700, 1000],
+    alt: "View of the town of Sokoto, 1890",
+    title: "View of Sokoto, 1890",
+    caption: "A view of Sokoto in 1890, drawn from P.-L. Monteil's account of his crossing of the Sudan - the walled capital of the caliphate six years before the British conquest.",
+    credit: "P.-L. Monteil, 1890 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:View_of_Sokoto_(1890).jpg"
+  },
+  "sk-natives1904": {
+    dir: "sk-natives1904", ext: "jpg", widths: [400, 600, 900],
+    alt: "People of Sokoto photographed early in colonial Nigeria, 1904",
+    title: "Natives of Sokoto, 1904",
+    caption: "Residents of Sokoto photographed in 1904 by the Anglo-French Niger-Chad Boundary Commission, the year after the caliphate's defeat at Burmi.",
+    credit: "J. A. Burdon, 1904 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Natives_of_Sokoto_early_in_colonial_Nigeria.png"
+  },
+  "sk-tomb1904": {
+    dir: "sk-tomb1904", ext: "jpg", widths: [400, 600, 800],
+    alt: "The tomb of Usman dan Fodio at Sokoto, photographed 1904",
+    title: "The tomb of Usman dan Fodio, 1904",
+    caption: "The tomb of Shehu Usman dan Fodio (d. 1817) at Sokoto, photographed by the 1904 boundary commission - the founding reformer's burial place and a site of pilgrimage.",
+    credit: "J. A. Burdon, 1904 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:The_tomb_of_Usman_dan_Fodio.png"
+  },
+  "sk-asmau1822": {
+    dir: "sk-asmau1822", ext: "jpg", widths: [400, 600],
+    alt: "A manuscript poem written by Nana Asma'u in 1822",
+    title: "A poem by Nana Asma'u, 1822",
+    caption: "A manuscript poem by Nana Asma'u (1793-1864), dan Fodio's daughter - dating to 1822, it testifies to the tradition of women's literacy and scholarship in the caliphate.",
+    credit: "Nana Asma'u, 1822 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Poem_by_Nana_Asma%27u.jpg"
+  },
+  "sk-fulani1888": {
+    dir: "sk-fulani1888", ext: "jpg", widths: [400, 600],
+    alt: "A Fulani man of the Sokoto Caliphate, illustration 1888",
+    title: "A Fulani figure of the caliphate, 1888",
+    caption: "A Fulani man of the Sokoto Caliphate as illustrated in an 1888 publication - the pastoralist Fulani were the backbone of dan Fodio's reform movement.",
+    credit: "Internet Archive Book Images, 1888 (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Fulani_in_the_Sokoto_Caliphate.jpg"
+  },
+  "sk-palace": {
+    dir: "sk-palace", ext: "jpg", widths: [400, 600, 900],
+    alt: "The palace of the Sultan of Sokoto",
+    title: "The Sultan's palace, Sokoto",
+    caption: "The palace of the Sultan of Sokoto, the modern successor to the caliphate's seat - the office still sits today in the same city dan Fodio founded.",
+    credit: "el-siddeeq lame (CC BY 3.0)", license: "CC BY 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:SULTAN_OF_SOKOTO%27S_PALACE_SOKOTO_NIGERIA_-_panoramio.jpg"
+  },
+  "sk-grave": {
+    dir: "sk-grave", ext: "jpg", widths: [400, 600, 900],
+    alt: "The grave of Usman dan Fodio, Sokoto",
+    title: "The grave of Usman dan Fodio",
+    caption: "The grave of Shehu Usman dan Fodio in Sokoto, as it stands today within the walled complex of the caliphate's founder.",
+    credit: "Mr. Snatch (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Grave_of_Usman_Dan_Fodio.jpg"
   }
 };

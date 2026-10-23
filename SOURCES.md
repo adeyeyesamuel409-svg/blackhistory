@@ -222,6 +222,7 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 - **The jihād of 1804.** S. Johnston, *The Fulani Empire of Sokoto* (1967); Murray Last, *The Sokoto Caliphate* (1967).
 - **Women's scholarship.** Beverly B. Mack & Jean Boyd, *Nana Asma'u, Daughter of Shehu Usman: Life and Legacy*.
 - **Conquest in 1903.** Colonial-era records; Martha Hiskett, *The Sword of Truth*.
+- **Images.** View of Sokoto, 1890 — P.-L. Monteil, *De Saint-Louis à Tripoli par le lac Tchad* (public domain); Natives of Sokoto, 1904, and The tomb of Usman dan Fodio, 1904 — J. A. Burdon / Anglo-French Niger-Chad Boundary Commission (public domain); Poem by Nana Asma'u, 1822 — Special Collections, SOAS Library (public domain); A Fulani figure of the caliphate, 1888 — Internet Archive Book Images (CC0); Sultan's palace, Sokoto — el-siddeeq lame (CC BY 3.0); Grave of Usman dan Fodio — Mr. Snatch (CC0).
 
 ## Deep dive — Oyo Empire (c. 1400–1896)
 - **Origin and cavalry.** S. D. Balogun, "The Origin of the Oyo Empire", *Journal of the Historical Society of Nigeria*.
