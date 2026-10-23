@@ -1679,5 +1679,41 @@ window.UnbrokenImages = {
     credit: "NMAAHC, Smithsonian (CC0)", license: "CC0",
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     source: "https://commons.wikimedia.org/wiki/File:Slave_Ship_Model.jpg"
+  },
+  "mp-triangle": {
+    dir: "mp-triangle", ext: "jpg", widths: [500, 800, 1200],
+    alt: "Map of the triangular trade between Europe, Africa and the Americas",
+    title: "The triangular trade",
+    caption: "The triangular trade: European manufactured goods to Africa, enslaved Africans across the Atlantic, and colonial produce back to Europe. A schematic of the routes behind the Middle Passage.",
+    credit: "Semhur, via Wikimedia Commons (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Triangular_trade.svg"
+  },
+  "mp-capecoast": {
+    dir: "mp-capecoast", ext: "jpg", widths: [480, 800, 1200],
+    alt: "Cape Coast Castle, Ghana, seen from the sea",
+    title: "Cape Coast Castle",
+    caption: "Cape Coast Castle, Ghana - a British slave-trading fort whose dungeons held captives before they were loaded onto ships for the Middle Passage.",
+    credit: "ZSM (CC BY-SA 3.0)", license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Cape_Coast_Castle,_Ghana.jpg"
+  },
+  "mp-barracoon": {
+    dir: "mp-barracoon", ext: "jpg", widths: [400, 600, 900],
+    alt: "The barracoon of Seriki Williams Abass, Badagry, Nigeria",
+    title: "A barracoon at Badagry",
+    caption: "The barracoon of Seriki Williams Abass at Badagry, Nigeria - a holding compound where captives were confined on the coast before embarkation.",
+    credit: "Nwosuphayvour (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Seriki_Abass_barracoon_of_slaves.jpg"
+  },
+  "mp-goree": {
+    dir: "mp-goree", ext: "jpg", widths: [400, 600, 900],
+    alt: "A balcony of the House of Slaves on Goree Island, Senegal",
+    title: "The House of Slaves, Goree",
+    caption: "A balcony of the House of Slaves (Maison des Esclaves) on Goree Island, Senegal - the famous 'Door of No Return' lies just below, facing the Atlantic.",
+    credit: "Issathiome (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:A_balcony_of_the_House_of_Slaves_in_Gor%C3%A9e.jpg"
   }
 };

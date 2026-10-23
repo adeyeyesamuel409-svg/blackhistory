@@ -301,6 +301,10 @@ Every photograph and artwork on the site is public-domain, CC0, or a Creative Co
 - **Neck shackles for enslaved people** — Szilas, Nantes History Museum (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Neck_shackles_for_slaves.jpg
 - **18th-century slave shackles, Tamale, Ghana** — Adam Jones, International Slavery Museum, Liverpool (CC BY-SA 2.0). https://commons.wikimedia.org/wiki/File:18th-Century_Slave_Shackles_from_Tamale,_Northern_Ghana_-_International_Slavery_Museum_-_Liverpool_-_England_(28144996426).jpg
 - **Slave-trade chains, Badagry** — Samuel Tobbytex007 (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:CHAINS_USED_DURING_THE_SLAVE_TRADE._SLAVE_RELICS_MUSEUM,_BADAGRY.JPG
+- **The triangular trade (map)** — Sémhur, via Wikimedia Commons (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Triangular_trade.svg
+- **Cape Coast Castle, Ghana** — ZSM (CC BY-SA 3.0). https://commons.wikimedia.org/wiki/File:Cape_Coast_Castle,_Ghana.jpg
+- **Barracoon of Seriki Williams Abass, Badagry** — Nwosuphayvour (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:Seriki_Abass_barracoon_of_slaves.jpg
+- **House of Slaves, Gorée** — Issathiome (CC BY-SA 4.0). https://commons.wikimedia.org/wiki/File:A_balcony_of_the_House_of_Slaves_in_Gor%C3%A9e.jpg
 - **Africa partitioned, 1914** — Nicolay Sidorov; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Map_of_Africa_1914.jpg
 - **The Rhodes Colossus** — Edward Linley Sambourne, Punch (public domain). https://commons.wikimedia.org/wiki/File:Rhodes_Colossus_Punch_1892_(crop).jpg
 - **Samori Ture, in exile** — Unknown photographer; via Wikimedia Commons (Public domain). https://commons.wikimedia.org/wiki/File:Mali.(Kayes)_Samory_%C3%A9coutant_la_sentence_le_condamnant_%C3%A0_l%27exil.jpg
