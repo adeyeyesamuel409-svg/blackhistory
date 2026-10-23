@@ -212,11 +212,13 @@ If you find an error or a better citation, edit this file and `assets/js/data/hi
 ## Deep dive — Kongo Kingdom (c. 1390–1914)
 - **Political history, the Lukeni lineage and the 1491 baptism.** John K. Thornton, *The Kingdom of Kongo* (1983); Anne Hilton, *The Kingdom of Kongo* (Oxford, 1985).
 - **Diplomacy and Christianity.** John Thornton, *Africa and Africans in the Making of the Atlantic World, 1400–1800* (1998).
+- **Images.** The Bansa of the King of Kongo at São Salvador, 1745 — Thomas Astley (public domain); a manikongo — Affricoll9 (CC BY-SA 4.0); Kongo brass crucifix, c. 17th–18th c. — Daderot / Krannert Art Museum (public domain); nkisi power figure, 19th c. — Vassil / British Museum (CC0); Chief Mazamba and entourage, 1906 (public domain); Kingdom of Kongo c. 1600 — Gabagool (CC BY 3.0).
 
 ## Deep dive — Benin Kingdom (Edo)
 - **Dynasty and city.** R. E. Bradbury, *The Benin Kingdom and the Edo-Speaking Peoples of South-Western Nigeria* (IAI, 1957).
 - **Art.** Paula Girshick Ben-Amos, *The Art of Benin* (Thames & Hudson, 1995); British Museum collections.
 - **European contact and 1897.** A. F. C. Ryder, *Benin and the Europeans, 1485–1897* (1969).
+- **Images.** Benin City, 1897 — H. Ling Roth, *Great Benin* (public domain); the Oba of Benin — Giulio Ferrario, *Il costume antico e moderno* (public domain); Interior of the Oba's compound, 1897 — R. K. Granville (public domain); cast brass plaque and nkisi figure — Vassil (CC0); altar tusk (Edo, c. 1888–1897) — The Metropolitan Museum of Art (CC0); Warrior of the Benin Kingdom — Adesolive (CC BY-SA 4.0).
 
 ## Deep dive — Sokoto Caliphate (1804–1903)
 - **The jihād of 1804.** S. Johnston, *The Fulani Empire of Sokoto* (1967); Murray Last, *The Sokoto Caliphate* (1967).

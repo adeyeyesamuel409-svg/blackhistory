@@ -1499,5 +1499,113 @@ window.UnbrokenImages = {
     credit: "Mr. Snatch (CC0)", license: "CC0",
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     source: "https://commons.wikimedia.org/wiki/File:Grave_of_Usman_Dan_Fodio.jpg"
+  },
+  "bn-city1897": {
+    dir: "bn-city1897", ext: "jpg", widths: [480, 700, 1000],
+    alt: "Plan of Benin City as it stood in 1897",
+    title: "Benin City, 1897",
+    caption: "H. Ling Roth's plan of Benin City on the eve of the 1897 British expedition - the concentric walls, the Oba's palace and the ordered streets that astonished European visitors.",
+    credit: "H. Ling Roth, 1897 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:H._Ling_Roth_-_Benin_City_1897.png"
+  },
+  "bn-oba1600s": {
+    dir: "bn-oba1600s", ext: "jpg", widths: [400, 600],
+    alt: "The Oba of Benin, early 17th-century depiction",
+    title: "The Oba of Benin, c. 1600s",
+    caption: "The Oba of Benin as depicted in Giulio Ferrario's early nineteenth-century costume atlas, after earlier European prints of the Edo court.",
+    credit: "Giulio Ferrario, 1815-27 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Oba_of_Benin_1600s.jpg"
+  },
+  "bn-compound1897": {
+    dir: "bn-compound1897", ext: "jpg", widths: [400, 600, 900],
+    alt: "The burnt interior of the Oba's compound at Benin City, 1897",
+    title: "The Oba's compound, February 1897",
+    caption: "The gutted interior of the Oba's compound after the British siege of Benin City, photographed by Reginald Kerr Granville, 18 February 1897.",
+    credit: "R. K. Granville, 1897 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Interior_of_Oba%27s_compound_burnt_during_siege_of_Benin_City,_1897.jpg"
+  },
+  "bn-plaque": {
+    dir: "bn-plaque", ext: "jpg", widths: [400, 600, 800],
+    alt: "A cast brass plaque from Benin City, British Museum",
+    title: "A Benin brass plaque",
+    caption: "A cast-brass plaque from the Oba's palace, now in the British Museum - among the thousands of objects looted in 1897. Plaques such as this recorded court life, war and ritual.",
+    credit: "Vassil (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Cast_brass_plaque_from_Benin_City_17022019_5047.jpg"
+  },
+  "bn-tusk": {
+    dir: "bn-tusk", ext: "jpg", widths: [400, 600],
+    alt: "A carved ivory altar tusk from the Benin empire, c. 1888-1897",
+    title: "An altar tusk, c. 1888-1897",
+    caption: "A carved ivory altar tusk from the Benin empire (c. 1888-1897), made for the royal ancestral altars - the Benin court's ivory carvers were among the finest in Africa.",
+    credit: "Edo artist, via The Met (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:Altar_tusk_-_1888-1897_-_Benin_empire.jpg"
+  },
+  "bn-warrior": {
+    dir: "bn-warrior", ext: "jpg", widths: [400, 600, 800],
+    alt: "A statue of a Benin warrior in Benin City today",
+    title: "A Benin warrior, Benin City",
+    caption: "A modern statue of a Benin warrior in Benin City, commemorating the Edo kingdom's martial tradition and its long resistance to conquest.",
+    credit: "Adesolive (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Warrior_of_the_Benin_Kingdom.jpg"
+  },
+  "kg-bansa1745": {
+    dir: "kg-bansa1745", ext: "jpg", widths: [400, 600, 900],
+    alt: "The Bansa, residence of the King of Kongo at Sao Salvador (Mbanza Kongo), 1745",
+    title: "The King of Kongo's residence, 1745",
+    caption: "\"The Bansa, or residence of the King of Kongo, called St. Salvador\" at Mbanza Kongo, engraved for Astley's voyage collection, 1745.",
+    credit: "Thomas Astley, 1745 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:The_Bansa,_or_residence_of_the_King_of_Kongo,_called_St._Salvador_(M%27Banza_Kongo),_Astley_1745.jpg"
+  },
+  "kg-manikongo": {
+    dir: "kg-manikongo", ext: "jpg", widths: [384],
+    alt: "Portrait of a manikongo, ruler of the Kingdom of Kongo",
+    title: "A manikongo, ruler of Kongo",
+    caption: "A manikongo (ruler of Kongo) in regal dress - the kings of Kongo adopted European and Christian regalia while retaining Central African symbols of authority.",
+    credit: "Affricoll9 (CC BY-SA 4.0)", license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    source: "https://commons.wikimedia.org/wiki/File:Manikongo.jpg"
+  },
+  "kg-crucifix": {
+    dir: "kg-crucifix", ext: "jpg", widths: [400, 600, 800],
+    alt: "A brass crucifix made by Kongo smiths, c. 17th-18th century",
+    title: "A Kongo brass crucifix",
+    caption: "A brass crucifix cast by Kongo metalworkers (c. 17th-early 18th century) - Christianity was woven into Kongo religious life from the 1490s onward.",
+    credit: "Daderot, Krannert Art Museum (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Crucifix,_Kongo_people,_Democratic_Republic_of_the_Congo_or_Angola,_c._17th_to_early_18th_century_AD,_brass_-_Krannert_Art_Museum,_UIUC_-_DSC06159.jpg"
+  },
+  "kg-nkisi": {
+    dir: "kg-nkisi", ext: "jpg", widths: [400, 600, 900],
+    alt: "An nkisi power figure of the Kongo people, 19th century, British Museum",
+    title: "An nkisi power figure",
+    caption: "An nkisi nkondi - a Kongo power figure studded with nails, used to witness oaths and settle disputes - 19th century, British Museum.",
+    credit: "Vassil (CC0)", license: "CC0",
+    licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    source: "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Nkisi_Kongo_people_19th_century_17022019_4979.jpg"
+  },
+  "kg-mazamba1906": {
+    dir: "kg-mazamba1906", ext: "jpg", widths: [650],
+    alt: "Group portrait with Chief Mazamba at centre, 1906, Kongo",
+    title: "Chief Mazamba and entourage, 1906",
+    caption: "A group portrait with Chief Mazamba at centre, 1906 - a Kongo chief in the final decades of the kingdom's autonomy under colonial pressure.",
+    credit: "Unknown, 1906 (Public domain)", license: "Public domain",
+    licenseUrl: "",
+    source: "https://commons.wikimedia.org/wiki/File:Group_portrait_with_Chief_Mazamba_in_center.jpg"
+  },
+  "kg-map1600": {
+    dir: "kg-map1600", ext: "jpg", widths: [676],
+    alt: "Map of the Kingdom of Kongo in 1600",
+    title: "The Kingdom of Kongo, c. 1600",
+    caption: "The Kingdom of Kongo at its height around 1600, spanning the lower Congo river, with its capital at Mbanza Kongo (later Sao Salvador).",
+    credit: "Gabagool (CC BY 3.0)", license: "CC BY 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+    source: "https://commons.wikimedia.org/wiki/File:Kingdom_of_Kongo_1600.png"
   }
 };
